@@ -1,0 +1,36 @@
+Habitats atrás da árvore. Atribuição recomendada (não exigida pelas licenças).
+
+dinosauromorpha — terra / água rasa
+  Valeria Boltneva — «Árvore no meio da água»
+  https://www.pexels.com/pt-br/foto/arvore-no-meio-da-agua-1516413/
+  Licença Pexels — https://www.pexels.com/license/
+
+pterosauria — falésia / céu
+  diego_torres — «Pôr do sol, oceano, panorama» (Jurassic Coast, Dorset)
+  https://pixabay.com/pt/photos/pôr-do-sol-oceano-panorama-2226163/
+  Licença de Conteúdo do Pixabay — https://pixabay.com/service/license-summary/
+
+sauropterygia — mar raso
+  Kanenori — «O mar raso, tropical, Kojima»
+  https://pixabay.com/pt/photos/o-mar-raso-tropical-kojima-2252940/
+  Licença de Conteúdo do Pixabay — https://pixabay.com/service/license-summary/
+
+mosasauria — mar aberto
+  Ogutier — «Água, mar, aceno, surfar, oceano»
+  https://pixabay.com/pt/photos/agua-mar-aceno-surfar-oceano-3117612/
+  Licença de Conteúdo do Pixabay — https://pixabay.com/service/license-summary/
+
+ichthyosauromorpha — oceano / noite
+  Emiliano Arano — «Mergulhando à noite» (Iquique, Chile)
+  https://www.pexels.com/pt-br/foto/mar-noite-oceano-sombrio-15591206/
+  Licença Pexels — https://www.pexels.com/license/
+
+sauropsida — Via Láctea (conceito artístico, vista da galáxia)
+  NASA / JPL-Caltech — «Our Milky Way Gets a Makeover» (PIA10748)
+  Original NASA (domínio público, U.S. Gov)
+  https://www.jpl.nasa.gov/images/pia10748-our-milky-way-gets-a-makeover-artist-concept/
+  Cópia usada: https://www.rawpixel.com/image/441163/the-milky-way
+  (original NASA; digitally enhanced by rawpixel — Public Domain / U.S. Gov Works)
+
+Placeholders SVG (creme) — originais deste projeto, até a foto correspondente
+ser colocada em public/fundos/ com o nome da primeira coluna (.webp ou .jpg).

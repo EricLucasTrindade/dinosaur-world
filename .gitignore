@@ -1,0 +1,36 @@
+# ===== Java / Maven =====
+target/
+*.class
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# ===== Node / React =====
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===== IntelliJ / IDE =====
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Env =====
+.env
+.env.*
+!.env.example
+
+# ===== Logs =====
+*.log

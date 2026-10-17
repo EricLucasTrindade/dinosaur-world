@@ -1,0 +1,15 @@
+O backend escolhe o MP3 pelo nome do clado (ou família).
+Género herda o ficheiro do ancestral mais específico.
+
+Fallback (clado sem slot próprio):
+  teropode.mp3 — Ceratosauria
+  sauropode.mp3 — Sauropoda
+  pequeno.mp3 — Silesauridae / Early Dinosauromorphs
+  encouracado.mp3 — Ankylosauria / Ankylosaurs not classified
+  ceratopsio.mp3 — Ceratopsia
+  ornitisquio.mp3 — Ornithischia basal / Neornithischia
+
+Excepção pontual: backend/src/main/resources/enrichment/genera-sons.csv
+(nome;arquivo;nota). Género com linha própria vence o clado.
+Reinicie o backend depois de mudar o CSV.
+O som toca na ficha do género (folha), não no clique do clado vazio.

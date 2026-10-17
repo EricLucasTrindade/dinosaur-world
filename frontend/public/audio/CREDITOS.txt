@@ -1,0 +1,14 @@
+Signal to Noise — Scott Buckley
+https://www.scottbuckley.com.au/library/signal-to-noise/
+Licença: Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+Fonte do arquivo: Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Scott_Buckley_-_Signal_to_Noise.oga
+
+clique.mp3, abrir.mp3, fechar.mp3 — cliques de interface originais (síntese curta).
+Inspirados no cursor de controle tipo Wii U; não são áudio da Nintendo.
+
+abrir-ficha.mp3, fechar-ficha.mp3 — whoosh de entrada/saída do painel da ficha.
+
+dinos/*.mp3 — vocalizações especulativas por perfil de clado (ver dinos/CREDITOS.txt).

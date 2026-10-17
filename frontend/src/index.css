@@ -1,0 +1,254 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f3f1ec;
+  --ink: #1c1c1c;
+  --muted: #6b6560;
+  --line: #2a2a2a;
+  --ring: #c8c4bb;
+  --accent: #c0392b;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.fundo-habitat {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.fundo-habitat__img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+}
+
+.fundo-habitat__img--on {
+  animation: fundo-in 0.7s ease forwards;
+}
+
+.fundo-habitat__img--out {
+  animation: fundo-out 0.7s ease forwards;
+}
+
+.fundo-habitat__img--load {
+  opacity: 0;
+}
+
+@keyframes fundo-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.2;
+  }
+}
+
+@keyframes fundo-out {
+  from {
+    opacity: 0.2;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fundo-habitat__img {
+    transition: none;
+    animation: none;
+  }
+
+  .fundo-habitat__img--on {
+    opacity: 0.2;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Palatino não cobre CJK nem Devanagari — só a UI; o cladograma fica em latim. */
+html[lang="zh"] body {
+  font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans SC", sans-serif;
+}
+
+html[lang="hi"] body {
+  font-family: "Nirmala UI", Mangal, "Noto Sans Devanagari", sans-serif;
+}
+
+.tree-label {
+  font-family: "Palatino Linotype", Palatino, Georgia, serif;
+  pointer-events: none;
+  paint-order: stroke fill;
+  stroke: #f3f1ec;
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+
+.tree-tip {
+  cursor: pointer;
+}
+
+.skill-link-new {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: skill-draw 0.55s ease-out forwards;
+}
+
+/* Animação no g interno — o translate do pai permanece no atributo SVG. */
+.skill-node-new {
+  animation: skill-pop 0.55s cubic-bezier(0.22, 1.15, 0.36, 1) both;
+}
+
+.skill-pai circle:first-of-type {
+  animation: skill-pulse 0.7s ease-out;
+}
+
+@keyframes skill-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes skill-pop {
+  from {
+    transform: translate(var(--from-x, 0px), var(--from-y, 0px)) scale(0.18);
+    opacity: 0;
+  }
+  to {
+    transform: translate(0px, 0px) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes skill-pulse {
+  0% {
+    stroke: #c4a574;
+    stroke-width: 2.4;
+  }
+  100% {
+    stroke: #1a1714;
+    stroke-width: 1.6;
+  }
+}
+
+.elo-fluxo {
+  opacity: 0.55;
+}
+
+.elo-ponto {
+  opacity: 0.8;
+}
+
+.clado-halo {
+  opacity: 0.4;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .elo-fluxo {
+    animation-name: elo-fluxo;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  }
+
+  .clado-halo {
+    animation: clado-halo 2.8s ease-in-out infinite;
+    transform-origin: center;
+    transform-box: fill-box;
+  }
+
+  .nodo-liquido,
+  .elo-liquido {
+    animation-name: balanco-liquido;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+  }
+}
+
+@keyframes elo-fluxo {
+  to {
+    stroke-dashoffset: -31;
+  }
+}
+
+@keyframes clado-halo {
+  0%,
+  100% {
+    opacity: 0.22;
+  }
+  50% {
+    opacity: 0.75;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .dna-helice-sobe {
+    animation: dna-sobe 4.5s linear infinite;
+  }
+}
+
+@keyframes dna-sobe {
+  to {
+    transform: translateY(-48px);
+  }
+}
+
+/* Entrada/saída da ficha — só o painel, a árvore não anima. */
+.ficha-dossie {
+  transform: translateX(100%);
+  opacity: 0;
+  transition:
+    transform 0.26s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 0.22s ease-out;
+}
+
+.ficha-dossie.ficha-dossie--aberta {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.ficha-dossie:not(.ficha-dossie--aberta) {
+  transition:
+    transform 0.24s ease-in,
+    opacity 0.2s ease-in;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ficha-dossie,
+  .ficha-dossie.ficha-dossie--aberta,
+  .ficha-dossie:not(.ficha-dossie--aberta) {
+    transition: none;
+    transform: none;
+    opacity: 1;
+  }
+}
+
+@keyframes balanco-liquido {
+  0%,
+  100% {
+    transform: translate(0px, 0px);
+  }
+  25% {
+    transform: translate(var(--lx, 2px), calc(var(--ly, 2px) * -0.7));
+  }
+  50% {
+    transform: translate(calc(var(--lx, 2px) * -0.45), var(--ly, 2px));
+  }
+  75% {
+    transform: translate(calc(var(--lx, 2px) * -0.85), calc(var(--ly, 2px) * -0.35));
+  }
+}

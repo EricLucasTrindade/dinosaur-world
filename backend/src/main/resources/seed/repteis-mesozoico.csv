@@ -1,0 +1,553 @@
+catalogo;nome;tipo;pai;dieta;pais_codigo;pais_nome;inicio_ma;fim_ma;status;idade;localidade;fonte
+PTEROSAURIA;Pterosauria;CLADE;;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Anurognathidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Azhdarchidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Boreopteridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Campylognathoididae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Chaoyangopteridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ctenochasmatidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dimorphodontidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dsungaripteridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eudimorphodontidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Gallodactylidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Germanodactylidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Istiodactylidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Lagerpetidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Nyctosauridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ornithocheiridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pteranodontidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pterodactylidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Rhamphorhynchidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tapejaridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Thalassodromidae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Wukongopteridae;FAMILY;Pterosauria;;;;;;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aerodactylus;GENUS;Pterosauria;PISCIVORO;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aerodraco;GENUS;Ornithocheiridae;PISCIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aerotitan;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aetodactylus;GENUS;Ornithocheiridae;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Afrotapejara;GENUS;Tapejaridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Alamodactylus;GENUS;Nyctosauridae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Alanqa;GENUS;Azhdarchidae;CARNIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Albadraco;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Alcione;GENUS;Nyctosauridae;PISCIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Allkaruen;GENUS;Pterosauria;PISCIVORO;;;182.7;174.1;;Toarcian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Altmuehlopterus;GENUS;Pterosauria;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Angustinaripterus;GENUS;Rhamphorhynchidae;PISCIVORO;;;168.3;166.1;;Bathonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Anhanguera;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Anurognathus;GENUS;Anurognathidae;INSETIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Apatorhamphus;GENUS;Chaoyangopteridae;;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aralazhdarcho;GENUS;Azhdarchidae;CARNIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Arambourgiania;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Araripesaurus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Archaeoistiodactylus;GENUS;Istiodactylidae;CARNIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Arcticodactylus;GENUS;Eudimorphodontidae;;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ardeadactylus;GENUS;Gallodactylidae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Argentinadraco;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Arthurdactylus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aurorazhdarcho;GENUS;Ctenochasmatidae;CARNIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aussiedraco;GENUS;Ornithocheiridae;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Austriadactylus;GENUS;Eudimorphodontidae;PISCIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Austriadraco;GENUS;Pterosauria;PISCIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Aymberedactylus;GENUS;Tapejaridae;CARNIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Azhdarcho;GENUS;Azhdarchidae;CARNIVORO;;;93.9;89.8;;Turonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Bakonydraco;GENUS;Azhdarchidae;CARNIVORO;;;86.3;83.6;;Santonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Banguela;GENUS;Dsungaripteridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Barbaridactylus;GENUS;Nyctosauridae;;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Barbosania;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Batrachognathus;GENUS;Anurognathidae;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Beipiaopterus;GENUS;Ctenochasmatidae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Bellubrunnus;GENUS;Rhamphorhynchidae;;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Bennettazhia;GENUS;Azhdarchidae;CARNIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Bergamodactylus;GENUS;Campylognathoididae;PISCIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Bogolubovia;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Boreopterus;GENUS;Boreopteridae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Brasileodactylus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cacibupteryx;GENUS;Rhamphorhynchidae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Caelestiventus;GENUS;Dimorphodontidae;INSETIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Caiuajara;GENUS;Tapejaridae;;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Camposipterus;GENUS;Ornithocheiridae;PISCIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Campylognathoides;GENUS;Campylognathoididae;PISCIVORO;;;182.7;174.1;;Toarcian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Carniadactylus;GENUS;Eudimorphodontidae;PISCIVORO;;;237;227;;Carnian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cascocauda;GENUS;Anurognathidae;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cathayopterus;GENUS;Ctenochasmatidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Caulkicephalus;GENUS;Ornithocheiridae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Caupedactylus;GENUS;Tapejaridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Caviramus;GENUS;Eudimorphodontidae;PISCIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cearadactylus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Changchengopterus;GENUS;Wukongopteridae;PISCIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Chaoyangopterus;GENUS;Azhdarchidae;CARNIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cimoliopterus;GENUS;Ornithocheiridae;PISCIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Coloborhynchus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cryodrakon;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ctenochasma;GENUS;Ctenochasmatidae;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cuspicephalus;GENUS;Wukongopteridae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Cycnorhamphus;GENUS;Gallodactylidae;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Daohugoupterus;GENUS;Pterosauria;INSETIVORO;;;252;66;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Darwinopterus;GENUS;Wukongopteridae;INSETIVORO;;;166.1;163.5;;Callovian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dawndraco;GENUS;Pteranodontidae;PISCIVORO;;;86.3;83.6;;Santonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dendrorhynchoides;GENUS;Anurognathidae;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dimorphodon;GENUS;Dimorphodontidae;INSETIVORO;;;199.3;190.8;;Sinemurian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Diopecephalus;GENUS;Pterosauria;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Domeykodactylus;GENUS;Dsungaripteridae;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dorygnathus;GENUS;Rhamphorhynchidae;PISCIVORO;;;182.7;174.1;;Toarcian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Douzhanopterus;GENUS;Pterosauria;PISCIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Draigwenia;GENUS;Pterosauria;;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Dsungaripterus;GENUS;Dsungaripteridae;;;;139.8;132.9;;Valanginian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Elanodactylus;GENUS;Ctenochasmatidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eoazhdarcho;GENUS;Azhdarchidae;CARNIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eopteranodon;GENUS;Chaoyangopteridae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eosipterus;GENUS;Pterosauria;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eudimorphodon;GENUS;Campylognathoididae;PISCIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eurazhdarcho;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Eurolimnornis;GENUS;Pterosauria;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Europejara;GENUS;Tapejaridae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Faxinalipterus;GENUS;Lagerpetidae;INSETIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Feilongus;GENUS;Ctenochasmatidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Fenghuangopterus;GENUS;Rhamphorhynchidae;PISCIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ferrodraco;GENUS;Ornithocheiridae;PISCIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Forfexopterus;GENUS;Ctenochasmatidae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Gegepterus;GENUS;Ctenochasmatidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Geosternbergia;GENUS;Pteranodontidae;PISCIVORO;;;86.3;83.6;;Santonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Germanodactylus;GENUS;Germanodactylidae;PISCIVORO;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Gladocephaloideus;GENUS;Gallodactylidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Gnathosaurus;GENUS;Ctenochasmatidae;;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Guidraco;GENUS;Boreopteridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Hamipterus;GENUS;Pterosauria;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Haopterus;GENUS;Pterosauria;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Harpactognathus;GENUS;Rhamphorhynchidae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Hasandong Boreopterid;GENUS;Boreopteridae;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Hateg Island Azhdarchid;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Hatzegopteryx;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Herbstosaurus;GENUS;Pterosauria;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Hongshanopterus;GENUS;Istiodactylidae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Hornby Island Azhdarchid;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Huanhepterus;GENUS;Ctenochasmatidae;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Huaxiapterus;GENUS;Tapejaridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ian The Wukongopterid;GENUS;Wukongopteridae;INSETIVORO;;;166.1;163.5;;Callovian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Iberodactylus;GENUS;Pterosauria;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ikrandraco;GENUS;Pterosauria;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Istiodactylus;GENUS;Istiodactylidae;CARNIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Jeholopterus;GENUS;Anurognathidae;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Jianchangnathus;GENUS;Pterosauria;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Jianchangopterus;GENUS;Rhamphorhynchidae;;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Jidapterus;GENUS;Tapejaridae;CARNIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Kepodactylus;GENUS;Pterosauria;CARNIVORO;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Keresdrakon;GENUS;Pterosauria;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Klobiodon;GENUS;Rhamphorhynchidae;;;;168.3;166.1;;Bathonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Kryptodrakon;GENUS;Pterosauria;CARNIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Kunpengopterus;GENUS;Wukongopteridae;INSETIVORO;;;166.1;163.5;;Callovian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Lacusovagus;GENUS;Chaoyangopteridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Lagerpeton;GENUS;Lagerpetidae;;;;237;227;;Carnian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Leptostomia;GENUS;Pterosauria;CARNIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Liaodactylus;GENUS;Ctenochasmatidae;;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Liaoningopterus;GENUS;Pterosauria;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Liaoxipterus;GENUS;Istiodactylidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Linlongopterus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Lonchodectes;GENUS;Pterosauria;PISCIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Lonchodraco;GENUS;Pterosauria;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Lonchognathosaurus;GENUS;Dsungaripteridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Longchengpterus;GENUS;Istiodactylidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Luchibang;GENUS;Istiodactylidae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ludodactylus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Luopterus;GENUS;Anurognathidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Maaradactylus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Mesadactylus;GENUS;Anurognathidae;CARNIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Microtuban;GENUS;Pterosauria;CARNIVORO;;;100.5;93.9;;Cenomanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Mimodactylus;GENUS;Pterosauria;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Mistralazhdarcho;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Moganopterus;GENUS;Boreopteridae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Mongol Giant;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Montanazhdarcho;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Muzquizopteryx;GENUS;Nyctosauridae;PISCIVORO;;;93.9;89.8;;Turonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Mythunga;GENUS;Ornithocheiridae;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Navajodactylus;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Nemicolopterus;GENUS;Tapejaridae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Nesodactylus;GENUS;Rhamphorhynchidae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ningchengopterus;GENUS;Pterosauria;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Noripterus;GENUS;Dsungaripteridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Normannognathus;GENUS;Gallodactylidae;;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Nurhachius;GENUS;Istiodactylidae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Nyctosaurus;GENUS;Nyctosauridae;PISCIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ordosipterus;GENUS;Dsungaripteridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Orientognathus;GENUS;Rhamphorhynchidae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ornithocheirus;GENUS;Ornithocheiridae;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Ornithostoma;GENUS;Pterosauria;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Otogopterus;GENUS;Ctenochasmatidae;INSETIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Padrillo Pterosaur;GENUS;Pterosauria;;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Palaeocursornis;GENUS;Pterosauria;;;;252;66;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pangupterus;GENUS;Pterosauria;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Parapsicephalus;GENUS;Rhamphorhynchidae;PISCIVORO;;;182.7;174.1;;Toarcian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Peteinosaurus;GENUS;Dimorphodontidae;INSETIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Phosphatodraco;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Piksi;GENUS;Pterosauria;;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Plataleorhynchus;GENUS;Ctenochasmatidae;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Prejanopterus;GENUS;Pterosauria;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Preondactylus;GENUS;Pterosauria;PISCIVORO;;;237;227;;Carnian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pteranodon;GENUS;Pteranodontidae;PISCIVORO;;;89.8;86.3;;Coniacian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pterodactylus;GENUS;Pterodactylidae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pterodaustro;GENUS;Ctenochasmatidae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pterofiltrus;GENUS;Ctenochasmatidae;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Pterorhynchus;GENUS;Rhamphorhynchidae;PISCIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Puntanipterus;GENUS;Dsungaripteridae;;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Qinglongopterus;GENUS;Rhamphorhynchidae;PISCIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Quetzalcoatlus;GENUS;Azhdarchidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Radiodactylus;GENUS;Azhdarchidae;CARNIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Rhamphinion;GENUS;Dimorphodontidae;PISCIVORO;;;190.8;182.7;;Pliensbachian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Rhamphorhynchus;GENUS;Rhamphorhynchidae;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Santanadactylus;GENUS;Pteranodontidae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Scaphognathus;GENUS;Rhamphorhynchidae;PISCIVORO;;;157.3;152.1;;Kimmeridgian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Seazzadactylus;GENUS;Pterosauria;INSETIVORO;;;227;208.5;;Norian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Sericipterus;GENUS;Rhamphorhynchidae;PISCIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Serradraco;GENUS;Pterosauria;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Shenzhoupterus;GENUS;Chaoyangopteridae;CARNIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Simurghia;GENUS;Nyctosauridae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Sinomacrops;GENUS;Anurognathidae;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Sinopterus;GENUS;Tapejaridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Sinuiju Anurognathid;GENUS;Anurognathidae;INSETIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Siroccopteryx;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Sordes;GENUS;Rhamphorhynchidae;INSETIVORO;;;163.5;157.3;;Oxfordian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tapejara;GENUS;Tapejaridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Targaryendraco;GENUS;Pterosauria;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tendaguripterus;GENUS;Germanodactylidae;;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tethydraco;GENUS;Pteranodontidae;CARNIVORO;;;72.1;66;;Maastrichtian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Thalassodromeus;GENUS;Thalassodromidae;PISCIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tropeognathus;GENUS;Ornithocheiridae;PISCIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tupandactylus;GENUS;Tapejaridae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Tupuxuara;GENUS;Thalassodromidae;;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Uktenadactylus;GENUS;Ornithocheiridae;CARNIVORO;;;113;100.5;;Albian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Unwindia;GENUS;Pterosauria;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Vectidraco;GENUS;Pterosauria;CARNIVORO;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Vesperopterylus;GENUS;Anurognathidae;;;;125;113;;Aptian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Volgadraco;GENUS;Pteranodontidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Wenupteryx;GENUS;Pterosauria;PISCIVORO;;;152.1;145;;Tithonian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Wightia;GENUS;Tapejaridae;CARNIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Wukongopterus;GENUS;Wukongopteridae;INSETIVORO;;;166.1;163.5;;Callovian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Xericeps;GENUS;Pterosauria;CARNIVORO;;;252;66;;;;https://pteros.com/pterosaurs
+PTEROSAURIA;Yixianopterus;GENUS;Pterosauria;;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Zhejiangopterus;GENUS;Azhdarchidae;CARNIVORO;;;83.6;72.1;;Campanian;;https://pteros.com/pterosaurs
+PTEROSAURIA;Zhenyuanopterus;GENUS;Boreopteridae;PISCIVORO;;;129.4;125;;Barremian;;https://pteros.com/pterosaurs
+SAUROPTERYGIA;Pistosauria;CLADE;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Plesiosauria;CLADE;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Plesiosauroidea;CLADE;Plesiosauria;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Pliosauroidea;CLADE;Plesiosauria;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Cryptoclidia;CLADE;Plesiosauroidea;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Microcleididae;FAMILY;Plesiosauroidea;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Plesiosauridae;FAMILY;Plesiosauroidea;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Pliosauridae;FAMILY;Pliosauroidea;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Rhomaleosauridae;FAMILY;Pliosauroidea;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Cryptoclididae;FAMILY;Cryptoclidia;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Thalassophonea;CLADE;Pliosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Xenopsaria;CLADE;Cryptoclidia;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Brachaucheninae;CLADE;Thalassophonea;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Colymbosaurinae;CLADE;Cryptoclididae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Elasmosauridae;FAMILY;Xenopsaria;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Leptocleidia;CLADE;Xenopsaria;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Aristonectinae;CLADE;Elasmosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Elasmosaurinae;CLADE;Elasmosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Leptocleididae;FAMILY;Leptocleidia;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Polycotylidae;FAMILY;Leptocleidia;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Abyssosaurus;GENUS;Cryptoclididae;;RU;Rússia;132.6;125.77;Type genus, Valid;Cretaceous, Early Cretaceous, Hauterivian, Late Hauterivian;Chuvashia, Menya River, Russia;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Albertonectes;GENUS;Elasmosaurinae;;CA;Canadá;83.6;72.1;Valid;Campanian, Cretaceous, Late Campanian, Late Cretaceous, Middle part of Late Campanian;Alberta, Canada, Lethbridge (near), Bearpaw Formation / Bearpaw Shale;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Alexeyisaurus;GENUS;Plesiosauria;;RU;Rússia;227;208.5;Valid;Late Norian, Mid-Late Norian, Middle Norian, Norian, Triassic;Cape Ganza (north of), Franz Josef Land, Russia, Wilczek Land, Mid Norian, Mid-Upper Norian, Wilczek Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Anguanax;GENUS;Thalassophonea;;IT;Itália;161.5;154.2;Valid;Jurassic, Late Jurassic, Middle Oxfordian, Oxfordian;Asiago Municipality, Italy, Kaberlaba quarry, Vicenza Province, Mid Oxfordian, Rosso Ammonitico Veronese Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Anningasaura;GENUS;Plesiosauria;;GB;Reino Unido;199.5;192.9;Valid;Early Jurassic, Jurassic, Sinemurian, Sinemurian?;Dorset, Lyme Regis, UK, Sinemurian?;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Apractocleidus;GENUS;Cryptoclididae;;GB;Reino Unido;161.5;154.2;Invalid, Junior synonym, Junior synonym of Cryptoclidus;Jurassic, Late Jurassic, Oxfordian;Cambridgeshire, Peterborough (near), UK;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Archaeonectrus;GENUS;Rhomaleosauridae;;GB;Reino Unido;199.5;192.9;Valid;Early Jurassic, Jurassic, Sinemurian;Charmouth, Dorset, UK, Charmouth Mudstone Formation?, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Aristonectes;GENUS;Aristonectinae;;AR;Argentina;72.1;66;Valid;Cretaceous, Late Cretaceous, Maastrichtian;Argentina, Chubut Province, Chubut Province (northwest), Chubut River, Patagonia;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Attenborosaurus;GENUS;Pliosauridae;;GB;Reino Unido;199.5;192.9;Valid;Early Jurassic, Jurassic, Sinemurian;Charmouth, Dorset, UK, Charmouth Mudstone Formation?, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Atychodracon;GENUS;Rhomaleosauridae;;GB;Reino Unido;201.4;199.5;Valid;Early Jurassic, Hettangian, Jurassic;Leicestershire, Somerset, UK, Warwickshire, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Avalonnectes;GENUS;Rhomaleosauridae;;GB;Reino Unido;201.4;199.5;Valid;Earliest Early Hettangian, Early Hettangian, Early Jurassic, Hettangian, Jurassic;Somerset, Street, UK, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Bishanopliosaurus;GENUS;Rhomaleosauridae;;CN;China;201.4;161.5;Valid;Early Jurassic, Jurassic, Middle Jurassic;Bishan County, China, Chongqing Municipality, Mid Jurassic;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Bobosaurus;GENUS;Pistosauria;;IT;Itália;237;227;Valid;Carnian, Early Carnian, Late Triassic, Triassic;Dogna (2 km NW of), Italy, Udine Province, Rio del Lago Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Borealonectes;GENUS;Rhomaleosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Brachauchenius;GENUS;Brachaucheninae;;US;Estados Unidos;100.5;66;;Cretaceous, Late Cretaceous;USA;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Brancasaurus;GENUS;Leptocleidia;;;;145;66;Valid;Cretaceous;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Colymbosaurus;GENUS;Colymbosaurinae;;;Noruega, Reino Unido;154.2;145;Valid;Jurassic, Kimmeridgian, Late Jurassic, Tithonian;Norway, UK;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Cryonectes;GENUS;Pliosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Cryptoclidus;GENUS;Cryptoclididae;;;França, Reino Unido;165.3;145;Valid;Callovian, Jurassic, Late Jurassic;France, UK, Oxford Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Djupedalia;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Dolichorhynchops;GENUS;Polycotylidae;;US;Estados Unidos;100.5;66;;Cretaceous, Late Cretaceous;USA;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Eardasaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Edgarosaurus;GENUS;Polycotylidae;;US;Estados Unidos;113.2;100.5;Valid;Albian, Cretaceous, Early Cretaceous, Late Albian;Montana, South Central Montana, USA, Thermopolis Shale;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Elasmosaurus;GENUS;Elasmosaurinae;;US;Estados Unidos;83.6;72.1;Valid;Campanian, Cretaceous, Early Campanian, Late Cretaceous;Kansas, Logan County, McAllister Butte, USA, Pierre Shale, Sharon Springs Member;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Eoplesiosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Eretmosaurus;GENUS;Microcleididae;;GB;Reino Unido;199.5;192.9;Recombined, Type species, Valid;Early Jurassic, Jurassic, Sinemurian;Granby, Nottinghamshire, UK, Ammonites stellaris zone, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Eurycleidus;GENUS;Rhomaleosauridae;;GB;Reino Unido;201.4;199.5;Valid;Early Jurassic, Hettangian, Jurassic;Somerset, UK, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Gallardosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Gronausaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Hastanectes;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Hauffiosaurus;GENUS;Pliosauridae;;;Alemanha, Reino Unido;184.2;174.7;Valid;Early Jurassic, Jurassic, Toarcian;Germany, UK, Posidonia Shale, Whitby Mudstone Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Hydrorion;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Hydrotherosaurus;GENUS;Elasmosauridae;;US;Estados Unidos;72.1;66;Valid;Cretaceous, Late Cretaceous, Maastrichtian;California, Fresno County, Mendota (near), Moreno Gulch (south of), Panoche Hills, Sun Ray gypsum mine, USA, Moreno Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Kaiwhekea;GENUS;Aristonectinae;;NZ;Nova Zelândia;72.1;66;Valid;Boundary between Early and Late Maastrichtian, Cretaceous, Late Cretaceous, Maastrichtian;New Zealand, North Otago, Otago, Shag Point, Shag River Mouth (north of), South Island, Boundary between Lower and Upper Maastrichtian, Katiki Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Kimmerosaurus;GENUS;Cryptoclididae;;GB;Reino Unido;149.2;145;Valid;Jurassic, Late Jurassic, Tithonian;Dorset, Endcombe Bay, UK, Kimmeridge Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Kronosaurus;GENUS;Thalassophonea;;AU;Austrália;121.4;100.5;Valid;Albian, Aptian, Cretaceous, Early Cretaceous;Australia, Queensland;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Leptocleidus;GENUS;Leptocleididae;;;Austrália, África do Sul, Reino Unido;139.8;121.4;Valid;Barremian, Cretaceous, Early Cretaceous, Hauterivian, Valanginian;Australia, South Africa, UK;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Libonectes;GENUS;Elasmosauridae;;US;Estados Unidos;93.9;89.8;Valid;Cretaceous, Late Cretaceous, Turonian;Cedar Hill (near), Dallas County, Texas, USA;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Liopleurodon;GENUS;Thalassophonea;;;Chile, França, Reino Unido;165.3;161.5;Valid;Callovian, Jurassic;Chile?, France, UK, Mid Jurassic;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Lusonectes;GENUS;Microcleididae;;PT;Portugal;184.2;174.7;Valid;Early Jurassic, Jurassic, Toarcian;Alhadas, Murtede (near), Portugal, São Gião Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Macroplata;GENUS;Rhomaleosauridae;;GB;Reino Unido;201.4;199.5;Valid;Early Jurassic, Hettangian, Jurassic;Harbury, UK, Warwickshire, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Maresaurus;GENUS;Rhomaleosauridae;;AR;Argentina;170.9;168.2;Valid;Bajocian, Early Bajocian, Jurassic, Middle Jurassic;Argentina, Chacaico Sur, Neuquén Province, Patagonia, Zapala (70 km southwest of), Cuyo Group, Emileia giebeli and Emileia multiformis subzone, Los Molles Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Marmornectes;GENUS;Pliosauridae;;GB;Reino Unido;165.3;161.5;Valid;Callovian, Early Callovian, Jurassic, Middle Jurassic;Bedford (near), Bedfordshire, Quest Pit, Stewartby, UK, Oxford Clay Formation, S. enodatum Subzone, Sigaloceras calloviense Zone;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Mauisaurus;GENUS;Elasmosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Megalneusaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Meyerasaurus;GENUS;Rhomaleosauridae;;DE;Alemanha;184.2;174.7;Valid;Early Jurassic, Jurassic, Toarcian;Germany, Posidonia Shale;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Microcleidus;GENUS;Microcleididae;;;França, Luxemburgo, Reino Unido;184.2;174.7;Valid;Early Jurassic, Jurassic, Toarcian;France, Luxembourg, UK;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Monquirasaurus;GENUS;Thalassophonea;;CO;Colômbia;121.4;113.2;Valid;Aptian, Cretaceous, Early Cretaceous, Late Aptian;Boyacá Province, Colombia, Vereda Monquirá, Villa de Leyva (about 5 km WNW of), Arcillolitas Abigarradas Member, Paja Formation, Segment V;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Morturneria;GENUS;Aristonectinae;;AQ;Antártida;72.1;66;Valid;Cretaceous, Late Cretaceous, Maastrichtian;Antarctica, Seymour Island, Lopez de Bertodano Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Muraenosaurus;GENUS;Cryptoclididae;;;França, Reino Unido;165.3;161.5;Valid;Callovian, Jurassic, Middle Jurassic;France, UK, Mid Jurassic, Oxford Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Nakonanectes;GENUS;Elasmosauridae;;US;Estados Unidos;72.1;66;;Cretaceous, Early Maastrichtian, Late Cretaceous, Maastrichtian;Montana, Phillips County, USA, Baculites baculus–B. grandis zones, Bearpaw Formation / Bearpaw Shale;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Occitanosaurus;GENUS;Microcleididae;;FR;França;184.2;174.7;Invalid, Junior synonym, Junior synonym of Microcleidus;Early Jurassic, Jurassic, Late Toarcian, Toarcian;Aveyron Department, France, Southern France, Tournemire;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Ogmodirus;GENUS;Elasmosauridae;;US;Estados Unidos;100.5;89.8;Invalid, Nomen dubium;Cenomanian, Cretaceous, Late Cretaceous, Turonian;Cloud County, Kansas, USA, Greenhorn Limestone Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Opallionectes;GENUS;Cryptoclididae;;AU;Austrália;121.4;100.5;Valid;Albian, Aptian, Cretaceous, Early Cretaceous;Andamooka (near), Australia, Eromanga Basin, Lunatic Hill opal field, South Australia, Bulldog Shale, Maree Subgroup;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Pachycostasaurus;GENUS;Pliosauridae;;GB;Reino Unido;165.3;161.5;Valid;Callovian, Jurassic, Middle Jurassic;Cambridgeshire, UK, Whittlesey, Mid Jurassic, Oxford Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Pantosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Peloneustes;GENUS;Pliosauridae;;GB;Reino Unido;165.3;161.5;Valid;Callovian, Jurassic, Middle Jurassic;UK, Mid Jurassic, Oxford Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Plesionectes;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Plesiopterys;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Plesiosaurus;GENUS;Plesiosauridae;;GB;Reino Unido;199.5;192.9;Valid;Early Jurassic, Jurassic, Late Sinemurian, Sinemurian;Dorset, UK, Charmouth Mudstone Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Pliosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Polycotylus;GENUS;Polycotylidae;;US;Estados Unidos;86.3;72.1;Valid;Campanian, Cretaceous, Late Cretaceous, Santonian;Alabama, South Dakota, Texas, USA;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Rhomaleosaurus;GENUS;Rhomaleosauridae;;GB;Reino Unido;184.2;174.7;Valid;Early Jurassic, Jurassic, Toarcian;UK, Lias Group, Whitby Mudstone Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Simolestes;GENUS;Thalassophonea;;;Índia, Reino Unido;165.3;161.5;Valid;Callovian, Jurassic, Middle Jurassic;India, UK, Mid Jurassic, Oxford Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Spitrasaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Stenorhynchosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Sthenarosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Stratesaurus;GENUS;Plesiosauria;;GB;Reino Unido;201.4;199.5;Valid;Early Hettangian, Early Jurassic, Hettangian, Jurassic;Somerset, Street, UK, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Styxosaurus;GENUS;Elasmosauridae;;US;Estados Unidos;83.6;72.1;Valid;Campanian, Cretaceous, Early Campanian, Late Cretaceous;Hell Creek (near), Kansas, Logan County, USA;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Tatenectes;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Thalassiodracon;GENUS;Pliosauroidea;;GB;Reino Unido;201.4;199.5;Valid;Earliest Early Hettangian, Early Hettangian, Early Jurassic, Hettangian, Jurassic;Somerset, Street, UK, Blue Lias Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Thalassomedon;GENUS;Elasmosauridae;;US;Estados Unidos;100.5;93.9;Valid;Cenomanian, Cretaceous, Late Cretaceous;Baca County, Baca County (northwestern), Colorado, Pritchet (near), USA;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Thaumatodracon;GENUS;Rhomaleosauridae;;GB;Reino Unido;199.5;192.9;Valid;Early Jurassic, Jurassic, Sinemurian;Dorset, Lyme Regis, UK, Charmouth Mudstone Formation, Lias Group;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Thililua;GENUS;Polycotylidae;;MA;Marrocos;145;66;Valid;Cretaceous;Goulmima, High Atlas, Morocco;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Tricleidus;GENUS;Cryptoclididae;;GB;Reino Unido;165.3;161.5;Valid;Callovian, Jurassic, Middle Jurassic;Cambridgeshire, Fletton (near), Peterborough (near), UK, Mid Jurassic, Oxford Clay Formation;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Umoonasaurus;GENUS;Leptocleididae;;AU;Austrália;121.4;100.5;Valid;Albian, Aptian, Cretaceous, Early Cretaceous;Australia, Coober Pedy (south of), South Australia, Zorba Extension opal field, Bulldog Shale, Maree Subgroup;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Vectocleidus;GENUS;Leptocleididae;;GB;Reino Unido;125.77;121.4;Valid;Barremian, Cretaceous, Early Cretaceous;Isle of Wight, UK;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Vinialesaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Westphaliasaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Woolungasaurus;GENUS;Elasmosauridae;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;Yuzhoupliosaurus;GENUS;;;;;;;;;;https://plesiosauria.com/directory/
+SAUROPTERYGIA;T. seeleyi;SPECIES;;;;;;;Valid;;;https://plesiosauria.com/directory/
+MOSASAURIA;Mosasauroidea;CLADE;;;;;;;;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Acteosaurus;GENUS;Mosasauroidea;;SI;Eslovênia;100.5;66;Valid;Late Cretaceous;Slovenia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Adriosaurus;GENUS;Mosasauroidea;;;Croácia, Eslovênia;100.5;66;Valid;Late Cretaceous;Croatia, Slovenia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Aigialosaurus;GENUS;Mosasauroidea;;HR;Croácia;100.5;66;Valid;Late Cretaceous;Croatia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Amphekepubis;GENUS;Mosasauroidea;;MX;México;100.5;66;Dubious;Late Cretaceous;Mexico;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Amphorosteus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Dubious;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Ancylocentrum;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Angolasaurus;GENUS;Mosasauroidea;;;Angola, Brasil, Níger, Estados Unidos;100.5;66;Valid;Late Cretaceous;Angola, Brazil, Niger, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Aphanizocnemus;GENUS;Mosasauroidea;;LB;Líbano;100.5;66;Valid;Late Cretaceous;Lebanon;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Baptosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Baseodon;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Batrachiosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Bentiabasaurus;GENUS;Mosasauroidea;;AO;Angola;100.5;66;Valid;Late Cretaceous;Angola;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Brachysaurana;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Brachysaurus;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Carinodens;GENUS;Mosasauroidea;;;Bélgica, Dinamarca, Jordânia, Marrocos, Países Baixos, Rússia, Ucrânia;100.5;66;Valid;Late Cretaceous;Belgium, Denmark, Jordan, Morocco, Netherlands, Russia, Ukraine;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Carsosaurus;GENUS;Mosasauroidea;;SI;Eslovênia;100.5;66;Valid;Late Cretaceous;Slovenia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Clidastes;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Compressidens;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Coniasaurus;GENUS;Mosasauroidea;;;Alemanha, Reino Unido, Estados Unidos;100.5;66;Valid;Late Cretaceous;Germany, United Kingdom, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Dallasaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Dolichosaurus;GENUS;Mosasauroidea;;GB;Reino Unido;100.5;66;Valid;Late Cretaceous;United Kingdom;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Dollosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Drepanodon;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Ectenosaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Edestosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Eidolosaurus;GENUS;Mosasauroidea;;SI;Eslovênia;100.5;66;Valid;Late Cretaceous;Slovenia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Elliptonodon;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Eonatator;GENUS;Mosasauroidea;;;Colômbia, Suécia, Estados Unidos;100.5;66;Valid;Late Cretaceous;Colombia, Sweden, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Eremiasaurus;GENUS;Mosasauroidea;;;Brasil, Israel, Marrocos;100.5;66;Valid;Late Cretaceous;Brazil, Israel, Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Garamaudo;GENUS;Mosasauroidea;;FR;França;100.5;66;Valid;Late Cretaceous;France;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Gavialimimus;GENUS;Mosasauroidea;;;Angola, Marrocos;100.5;66;Valid;Late Cretaceous;Angola, Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Globidens;GENUS;Mosasauroidea;;;Angola, Brasil, Colômbia, Jordânia, Marrocos, Síria, Estados Unidos;100.5;66;Valid;Late Cretaceous;Angola, Brazil, Colombia, Jordan, Morocco, Syria, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Gnathomortis;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Goronyosaurus;GENUS;Mosasauroidea;;;Níger, Nigéria;100.5;66;Valid;Late Cretaceous;Niger, Nigeria;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Haasiasaurus;GENUS;Mosasauroidea;;PS;Palestina;100.5;66;Valid;Late Cretaceous;Palestine;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Hainosaurus;GENUS;Mosasauroidea;;;Bélgica, Canadá;100.5;66;Valid?;Late Cretaceous;Belgium, Canada;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Halisaurus;GENUS;Mosasauroidea;;;Egito, Jordânia, Marrocos, Peru, Estados Unidos;100.5;66;Valid;Late Cretaceous;Egypt, Jordan, Morocco, Peru, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Harranasaurus;GENUS;Mosasauroidea;;JO;Jordânia;100.5;66;Valid;Late Cretaceous;Jordan;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Holcodus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Holosaurus;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Hydrosaurus;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Igdamanosaurus;GENUS;Mosasauroidea;;;Egito, Níger;100.5;66;Valid;Late Cretaceous;Egypt, Niger;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Jormungandr;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Kaganaias;GENUS;Mosasauroidea;;JP;Japão;145;100.5;Valid;Early Cretaceous;Japan;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Kaikaifilu;GENUS;Mosasauroidea;;AQ;Antártida;100.5;66;Valid;Late Cretaceous;Antarctica;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Khinjaria;GENUS;Mosasauroidea;;MA;Marrocos;100.5;66;Valid;Late Cretaceous;Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Kolposaurus;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Komensaurus;GENUS;Mosasauroidea;;SI;Eslovênia;100.5;66;Valid;Late Cretaceous;Slovenia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Kourisodon;GENUS;Mosasauroidea;;;Canadá, Japão;100.5;66;Valid;Late Cretaceous;Canada, Japan;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Lakumasaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Latoplatecarpus;GENUS;Mosasauroidea;;;Canadá, Rússia, Estados Unidos;100.5;66;Valid;Late Cretaceous;Canada, Russia, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Leiodon;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Lesticodus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Lestosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Liodon;GENUS;Mosasauroidea;;GB;Reino Unido;100.5;66;Dubious;Late Cretaceous;United Kingdom;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Macrosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Megapterygius;GENUS;Mosasauroidea;;JP;Japão;100.5;66;Valid;Late Cretaceous;Japan;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Mesoleptos;GENUS;Mosasauroidea;;;Croácia, Palestina, Eslovênia;100.5;66;Valid;Late Cretaceous;Croatia, Palestine, Slovenia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Moanasaurus;GENUS;Mosasauroidea;;NZ;Nova Zelândia;100.5;66;Valid;Late Cretaceous;New Zealand;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Mosasaurus;GENUS;Mosasauroidea;;;Antártida, Argentina, Bélgica, Brasil, Canadá, Jordânia, Marrocos, Países Baixos, Rússia, África do Sul, Turquia, Estados Unidos;100.5;66;Valid;Late Cretaceous;Antarctica, Argentina, Belgium, Brazil, Canada, Jordan, Morocco, Netherlands, Russia, South Africa, Turkey, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Nectoportheus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Oneirosaurus;GENUS;Mosasauroidea;;CO;Colômbia;100.5;66;Valid;Late Cretaceous;Colombia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Opetiosaurus;GENUS;Mosasauroidea;;HR;Croácia;100.5;66;Valid;Late Cretaceous;Croatia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Oterognathus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Pannoniasaurus;GENUS;Mosasauroidea;;HU;Hungria;100.5;66;Valid;Late Cretaceous;Hungary;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Phosphorosaurus;GENUS;Mosasauroidea;;;Bélgica, Japão;100.5;66;Valid;Late Cretaceous;Belgium, Japan;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Platecarpus;GENUS;Mosasauroidea;;;Austrália, Bélgica, Estados Unidos;100.5;66;Valid;Late Cretaceous;Australia, Belgium, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Plesioplatecarpus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Plesiotylosaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Plioplatecarpus;GENUS;Mosasauroidea;;;Canadá, Países Baixos, Suécia, Estados Unidos;100.5;66;Valid;Late Cretaceous;Canada, Netherlands, Sweden, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Plotosaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Pluridens;GENUS;Mosasauroidea;;;Marrocos, Níger, Nigéria;100.5;66;Valid;Late Cretaceous;Morocco, Niger, Nigeria;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Pontosaurus;GENUS;Mosasauroidea;;;Croácia, Líbano;100.5;66;Valid;Late Cretaceous;Croatia, Lebanon;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Portunatasaurus;GENUS;Mosasauroidea;;HR;Croácia;100.5;66;Valid;Late Cretaceous;Croatia;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Primitivus;GENUS;Mosasauroidea;;IT;Itália;100.5;66;Valid;Late Cretaceous;Italy;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Proaigialosaurus;GENUS;Mosasauroidea;;DE;Alemanha;161.5;145;Valid;Late Jurassic;Germany;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Prognathodon;GENUS;Mosasauroidea;;;Angola, Bélgica, Canadá, Israel, Jordânia, México, Países Baixos, Nova Zelândia, Espanha, Síria, Ucrânia, Estados Unidos;100.5;66;Valid;Late Cretaceous;Angola, Belgium, Canada, Israel, Jordan, Mexico, Netherlands, New Zealand, Spain, Syria, Ukraine, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Prognathosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Pterycollosaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Rhamphosaurus;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Rhinosaurus;GENUS;Mosasauroidea;;;;;;Preoccupied;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Rikisaurus;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Rikkisaurus;GENUS;Mosasauroidea;;;;;;Lapsus calami;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Romeosaurus;GENUS;Mosasauroidea;;IT;Itália;100.5;66;Valid;Late Cretaceous;Italy;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Russellosaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Sarabosaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Saurochampsa;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Selmasaurus;GENUS;Mosasauroidea;;US;Estados Unidos;100.5;66;Valid;Late Cretaceous;United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Sironectes;GENUS;Mosasauroidea;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Stelladens;GENUS;Mosasauroidea;;MA;Marrocos;100.5;66;Valid;Late Cretaceous;Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Taniwhasaurus;GENUS;Mosasauroidea;;;Antártida, Japão, Nova Zelândia, África do Sul;100.5;66;Valid;Late Cretaceous;Antarctica, Japan, New Zealand, South Africa;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Tetrapodophis;GENUS;Mosasauroidea;;BR;Brasil;145;100.5;Valid;Early Cretaceous;Brazil;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Tethysaurus;GENUS;Mosasauroidea;;MA;Marrocos;100.5;66;Valid;Late Cretaceous;Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Thalassotitan;GENUS;Mosasauroidea;;MA;Marrocos;100.5;66;Valid;Late Cretaceous;Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Thoraxion;GENUS;Mosasauroidea;;BE;Bélgica;100.5;66;Valid;Late Cretaceous;Belgium;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Tylosaurus;GENUS;Mosasauroidea;;;Angola, Bélgica, Canadá, República Democrática do Congo, França, Marrocos, Suécia, Estados Unidos;100.5;66;Valid;Late Cretaceous;Angola, Belgium, Canada, Democratic Republic of the Congo, France, Morocco, Sweden, United States;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Vallecillosaurus;GENUS;Mosasauroidea;;MX;México;100.5;66;Valid;Late Cretaceous;Mexico;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Xenodens;GENUS;Mosasauroidea;;MA;Marrocos;100.5;66;Valid;Late Cretaceous;Morocco;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+MOSASAURIA;Yaguarasaurus;GENUS;Mosasauroidea;;;Colômbia, México;100.5;66;Valid;Late Cretaceous;Colombia, Mexico;https://en.wikipedia.org/wiki/List_of_mosasaur_genera
+ICTIOSSAUROMORPHA;Ichthyosauromorpha;CLADE;;;;;;;;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Acamptonectes;GENUS;Ichthyosauromorpha;;;Alemanha, Reino Unido;145;100.5;Valid;Early Cretaceous;Germany, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Actiosaurus;GENUS;Ichthyosauromorpha;;FR;França;237;201.4;Dubious;Late Triassic;France;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Acuetzpalin;GENUS;Ichthyosauromorpha;;MX;México;161.5;145;Valid;Late Jurassic;Mexico;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Aegirosaurus;GENUS;Ichthyosauromorpha;;;França, Alemanha;161.5;100.5;Valid;Late Jurassic to Early Cretaceous;France, Germany;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Ammonitritor;GENUS;Ichthyosauromorpha;;NO;Noruega;251.9;247.2;Valid;Early Triassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Anhuisaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Argovisaurus;GENUS;Ichthyosauromorpha;;CH;Suíça;174.7;161.5;Valid;Middle Jurassic;Switzerland;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Arthropterygius;GENUS;Ichthyosauromorpha;;;Argentina, Canadá, Noruega, Rússia;161.5;145;Valid;Late Jurassic to Early Cretaceous?;Argentina, Canada, Norway, Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Athabascasaurus;GENUS;Ichthyosauromorpha;;CA;Canadá;145;100.5;Valid;Early Cretaceous;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Auroroborealia;GENUS;Ichthyosauromorpha;;RU;Rússia;237;201.4;Valid;Late Triassic;Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Baisesaurus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Baptanodon;GENUS;Ichthyosauromorpha;;US;Estados Unidos;161.5;145;Valid;Late Jurassic;United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Barracudasauroides;GENUS;Ichthyosauromorpha;;CN;China;247.2;237;Valid;Middle Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Barracudasaurus;GENUS;Ichthyosauromorpha;;CN;China;247.2;237;Dubious;Middle Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Besanosaurus;GENUS;Ichthyosauromorpha;;;Itália, Suíça;247.2;237;Valid;Middle Triassic;Italy, Switzerland;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Brachypterygius;GENUS;Ichthyosauromorpha;;GB;Reino Unido;161.5;145;Valid;Late Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Californosaurus;GENUS;Ichthyosauromorpha;;;Alemanha, Estados Unidos;247.2;201.4;Valid;Middle Triassic to Late Triassic;Germany, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Callawayia;GENUS;Ichthyosauromorpha;;CA;Canadá;237;201.4;Valid;Late Triassic;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Cartorhynchus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Catutosaurus;GENUS;Ichthyosauromorpha;;AR;Argentina;161.5;145;Valid;Late Jurassic;Argentina;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Caypullisaurus;GENUS;Ichthyosauromorpha;;AR;Argentina;161.5;100.5;Valid;Late Jurassic to Early Cretaceous;Argentina;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Chacaicosaurus;GENUS;Ichthyosauromorpha;;AR;Argentina;174.7;161.5;Valid;Middle Jurassic;Argentina;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Chaohusaurus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Chensaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Chonespondylus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Contectopalatus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym?;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Cryopterygius;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Cymbospondylus;GENUS;Ichthyosauromorpha;;;Suíça, Estados Unidos;251.9;237;Valid;Early Triassic to Middle Triassic;Switzerland, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Dearcmhara;GENUS;Ichthyosauromorpha;;GB;Reino Unido;201.4;161.5;Valid;Early Jurassic to Middle Jurassic;United Kingdom, Scotland;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Delphinosaurus;GENUS;Ichthyosauromorpha;;RU;Rússia;145;66;Dubious;Early Cretaceous to Late Cretaceous;Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Eretmorhipis;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Eternauta;GENUS;Ichthyosauromorpha;;AR;Argentina;161.5;145;Valid;Late Jurassic;Argentina;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Eurhinosaurus;GENUS;Ichthyosauromorpha;;;Bélgica, França, Alemanha, Luxemburgo, Países Baixos, Suíça, Reino Unido;201.4;174.7;Valid;Early Jurassic;Belgium, France, Germany, Luxembourg, Netherlands, Switzerland, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Eurypterygius;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Excalibosaurus;GENUS;Ichthyosauromorpha;;GB;Reino Unido;201.4;174.7;Valid;Early Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Fernatator;GENUS;Ichthyosauromorpha;;CA;Canadá;201.4;174.7;Valid;Early Jurassic;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Gadusaurus;GENUS;Ichthyosauromorpha;;PT;Portugal;201.4;174.7;Valid;Early Jurassic;Portugal;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Gengasaurus;GENUS;Ichthyosauromorpha;;IT;Itália;161.5;145;Valid;Late Jurassic;Italy;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Grendelius;GENUS;Ichthyosauromorpha;;;Rússia, Reino Unido;161.5;145;Valid;Late Jurassic;Russia, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Grippia;GENUS;Ichthyosauromorpha;;;Canadá, China, Groenlândia, Japão, Noruega;251.9;247.2;Valid;Early Triassic;Canada, China, Greenland, Japan, Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Guanlingsaurus;GENUS;Ichthyosauromorpha;;CN;China;237;201.4;Valid;Late Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Guizhouichthyosaurus;GENUS;Ichthyosauromorpha;;CN;China;247.2;201.4;Valid;Middle Triassic to Late Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Gulosaurus;GENUS;Ichthyosauromorpha;;CA;Canadá;251.9;247.2;Valid;Early Triassic;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Hauffiopteryx;GENUS;Ichthyosauromorpha;;;Alemanha, Luxemburgo, Suíça, Reino Unido;201.4;174.7;Valid;Early Jurassic;Germany, Luxembourg, Switzerland, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Himalayasaurus;GENUS;Ichthyosauromorpha;;CN;China;237;201.4;Valid;Late Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Hudsonelpidia;GENUS;Ichthyosauromorpha;;CA;Canadá;237;201.4;Valid;Late Triassic;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Hupehsuchus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Ichthyosaurus;GENUS;Ichthyosauromorpha;;;Bélgica, Alemanha, Portugal, Reino Unido;201.4;174.7;Valid;Early Jurassic;Belgium, Germany, Portugal, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Ichthyotitan;GENUS;Ichthyosauromorpha;;GB;Reino Unido;237;201.4;Valid;Late Triassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Isfjordosaurus;GENUS;Ichthyosauromorpha;;NO;Noruega;251.9;247.2;Valid;Early Triassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Jabalisaurus;GENUS;Ichthyosauromorpha;;;Alemanha, México;161.5;145;Valid;Late Jurassic;Germany, Mexico;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Janusaurus;GENUS;Ichthyosauromorpha;;NO;Noruega;161.5;145;Valid;Late Jurassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Kazakhstanosaurus;GENUS;Ichthyosauromorpha;;;Cazaquistão, Rússia;161.5;145;Valid;Late Jurassic;Kazakhstan, Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Keilhauia;GENUS;Ichthyosauromorpha;;NO;Noruega;145;100.5;Valid;Early Cretaceous;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Kyhytysuka;GENUS;Ichthyosauromorpha;;CO;Colômbia;145;100.5;Valid;Early Cretaceous;Colombia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Leninia;GENUS;Ichthyosauromorpha;;RU;Rússia;145;100.5;Valid;Early Cretaceous;Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Lentamanusuchus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Leptocheirus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Leptonectes;GENUS;Ichthyosauromorpha;;;Bélgica, Alemanha, Espanha, Reino Unido;237;174.7;Valid;Late Triassic to Early Jurassic;Belgium, Germany, Spain, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Leptopterygius;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Macgowania;GENUS;Ichthyosauromorpha;;CA;Canadá;237;201.4;Valid;Late Triassic;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Macropterygius;GENUS;Ichthyosauromorpha;;GB;Reino Unido;161.5;145;Dubious;Late Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Magnipterygius;GENUS;Ichthyosauromorpha;;DE;Alemanha;201.4;174.7;Valid;Early Jurassic;Germany;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Maiaspondylus;GENUS;Ichthyosauromorpha;;;Canadá, Rússia, Reino Unido;145;66;Valid;Early Cretaceous to Late Cretaceous;Canada, Russia, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Malawania;GENUS;Ichthyosauromorpha;;IQ;Iraque;145;100.5;Valid;Early Cretaceous;Iraq;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Merriamia;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Metashastasaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Mikadocephalus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Mixosaurus;GENUS;Ichthyosauromorpha;;;China, Itália, Suíça;247.2;237;Valid;Middle Triassic;China, Italy, Switzerland;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Mollesaurus;GENUS;Ichthyosauromorpha;;AR;Argentina;174.7;161.5;Valid;Middle Jurassic;Argentina;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Muiscasaurus;GENUS;Ichthyosauromorpha;;CO;Colômbia;145;100.5;Valid;Early Cretaceous;Colombia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Myobradypterygius;GENUS;Ichthyosauromorpha;;;Argentina, Chile;145;100.5;Valid;Early Cretaceous;Argentina, Chile;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Myopterygius;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Nanchangosaurus;GENUS;Ichthyosauromorpha;;CN;China;247.2;237;Valid;Middle Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Nannopterygius;GENUS;Ichthyosauromorpha;;;Cazaquistão, Noruega, Rússia, Reino Unido;174.7;100.5;Valid;Middle Jurassic to Early Cretaceous;Kazakhstan, Norway, Russia, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Omphalosaurus;GENUS;Ichthyosauromorpha;;;Áustria, Noruega, Polônia, Estados Unidos;251.9;237;Valid;Early Triassic to Middle Triassic;Austria, Norway, Poland, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Ophthalmosaurus;GENUS;Ichthyosauromorpha;;GB;Reino Unido;174.7;145;Valid;Middle Jurassic to Late Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Otschevia;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Pachygonosaurus;GENUS;Ichthyosauromorpha;;PL;Polônia;247.2;237;Dubious;Middle Triassic;Poland;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Palvennia;GENUS;Ichthyosauromorpha;;NO;Noruega;161.5;145;Valid;Late Jurassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Panjiangsaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Parahupehsuchus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Paraophthalmosaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Parrassaurus;GENUS;Ichthyosauromorpha;;MX;México;161.5;145;Valid;Late Jurassic;Mexico;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Parvinatator;GENUS;Ichthyosauromorpha;;CA;Canadá;251.9;237;Valid;Early Triassic to Middle Triassic;Canada;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Pessopteryx;GENUS;Ichthyosauromorpha;;NO;Noruega;251.9;247.2;Valid;Early Triassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Pessosaurus;GENUS;Ichthyosauromorpha;;NO;Noruega;247.2;237;Valid;Middle Triassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Phalarodon;GENUS;Ichthyosauromorpha;;;Canadá, China, Alemanha, Noruega, Suíça, Estados Unidos;247.2;237;Valid;Middle Triassic;Canada, China, Germany, Norway, Switzerland, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Phantomosaurus;GENUS;Ichthyosauromorpha;;DE;Alemanha;247.2;237;Valid;Middle Triassic;Germany;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Platypterygius;GENUS;Ichthyosauromorpha;;;Austrália, Colômbia, Alemanha, Estados Unidos;145;66;Valid;Early Cretaceous to Late Cretaceous;Australia, Colombia, Germany, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Plutoniosaurus;GENUS;Ichthyosauromorpha;;RU;Rússia;145;100.5;Dubious?;Early Cretaceous;Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Proteosaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Protoichthyosaurus;GENUS;Ichthyosauromorpha;;;Suíça, Reino Unido;201.4;174.7;Valid;Early Jurassic;Switzerland, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Qianichthyosaurus;GENUS;Ichthyosauromorpha;;CN;China;237;201.4;Valid;Late Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Quasianosteosaurus;GENUS;Ichthyosauromorpha;;NO;Noruega;251.9;247.2;Valid;Early Triassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Rachitrema;GENUS;Ichthyosauromorpha;;FR;França;237;201.4;Dubious;Late Triassic;France;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Sangiorgiosaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Sclerocormus;GENUS;Ichthyosauromorpha;;CN;China;251.9;247.2;Valid;Early Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Shastasaurus;GENUS;Ichthyosauromorpha;;;Canadá, China, Estados Unidos;237;201.4;Valid;Late Triassic;Canada, China, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Shonisaurus;GENUS;Ichthyosauromorpha;;US;Estados Unidos;237;201.4;Valid;Late Triassic;United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Simbirskia;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Simbirskiasaurus;GENUS;Ichthyosauromorpha;;RU;Rússia;145;100.5;Valid;Early Cretaceous;Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Sisteronia;GENUS;Ichthyosauromorpha;;;França, Reino Unido;145;100.5;Valid;Early Cretaceous;France, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Stenopterygius;GENUS;Ichthyosauromorpha;;;França, Alemanha, Luxemburgo, Suíça, Reino Unido;201.4;161.5;Valid;Early Jurassic to Middle Jurassic;France, Germany, Luxembourg, Switzerland, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Suevoleviathan;GENUS;Ichthyosauromorpha;;DE;Alemanha;201.4;174.7;Valid;Early Jurassic;Germany;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Sumpalla;GENUS;Ichthyosauromorpha;;AR;Argentina;161.5;145;Valid;Late Jurassic;Argentina;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Svalbardosaurus;GENUS;Ichthyosauromorpha;;NO;Noruega;251.9;247.2;Dubious;Early Triassic;Norway;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Sveltonectes;GENUS;Ichthyosauromorpha;;RU;Rússia;145;100.5;Valid;Early Cretaceous;Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Temnodontosaurus;GENUS;Ichthyosauromorpha;;;Bélgica, Chile, França, Alemanha, Itália, Luxemburgo, Suíça, Reino Unido;201.4;174.7;Valid;Early Jurassic;Belgium, Chile, France, Germany, Italy, Luxembourg, Switzerland, United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Thaisaurus;GENUS;Ichthyosauromorpha;;TH;Tailândia;251.9;247.2;Valid;Early Triassic;Thailand;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Thalassodraco;GENUS;Ichthyosauromorpha;;GB;Reino Unido;161.5;145;Valid;Late Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Thalattoarchon;GENUS;Ichthyosauromorpha;;US;Estados Unidos;247.2;237;Valid;Middle Triassic;United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Tholodus;GENUS;Ichthyosauromorpha;;;China, Alemanha, Itália;247.2;237;Valid;Middle Triassic;China, Germany, Italy;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Toretocnemus;GENUS;Ichthyosauromorpha;;;México, Estados Unidos;237;201.4;Valid;Late Triassic;Mexico, United States;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Typicusichthyosaurus;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym?;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Undorosaurus;GENUS;Ichthyosauromorpha;;;Noruega, Polônia, Rússia;161.5;145;Valid;Late Jurassic;Norway, Poland, Russia;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Utatsusaurus;GENUS;Ichthyosauromorpha;;;Canadá, Japão;251.9;247.2;Valid;Early Triassic;Canada, Japan;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Wahlisaurus;GENUS;Ichthyosauromorpha;;GB;Reino Unido;201.4;174.7;Valid;Early Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Wimanius;GENUS;Ichthyosauromorpha;;CH;Suíça;247.2;237;Valid;Middle Triassic;Switzerland;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Xinminosaurus;GENUS;Ichthyosauromorpha;;CN;China;247.2;237;Valid;Middle Triassic;China;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Xiphodracon;GENUS;Ichthyosauromorpha;;GB;Reino Unido;201.4;174.7;Valid;Early Jurassic;United Kingdom, England;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera
+ICTIOSSAUROMORPHA;Yasykovia;GENUS;Ichthyosauromorpha;;;;;;Jr. synonym;;;https://en.wikipedia.org/wiki/List_of_ichthyosauromorph_genera

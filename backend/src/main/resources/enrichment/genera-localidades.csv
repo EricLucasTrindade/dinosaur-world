@@ -1,0 +1,1685 @@
+# nome;lat;lng;idade_ma;paleolat;paleolng;lugar;occ;papel
+# Gênero: sítio no país da descoberta, ou o da espécie-tipo quando a PBDB a indica.
+# Espécie (nome binomial): holótipo, ou uma ocorrência da própria espécie.
+# papel: holotipo, ocorrencia, representativo ou tipo.
+# A coordenada é a publicada para a ocorrência, em geral o centro do afloramento.
+Aardonyx;-28.4664;27.8244;197.2;-41.9803;-0.5630;Upper, Elliot, Senekal, Free State;occ:711596;representativo
+Abdarainurus;44.5233;103.1550;79.0;42.0705;92.5260;Alagteeg, Omngov;occ:1494794;representativo
+Abditosaurus;42.1594;0.9731;69.1;33.6991;1.1472;Conques, Lleida, Cataluña;occ:382586;representativo
+Abelisaurus;-38.7617;-67.9828;69.1;-40.9725;-55.7630;Lower, Allen, General Roca, Río Negro;occ:343835;representativo
+Abrictosaurus;-30.0500;28.5333;197.2;-43.6684;-0.8368;Upper, Elliot, Qacha's Nek;occ:645108;representativo
+Abrictosaurus consors;-30.0500;28.5333;197.2;;;Upper, Elliot, Qacha's Nek;occ:645108;ocorrencia
+Abrosaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:939383;representativo
+Abydosaurus;40.4409;-109.3052;97.2;42.1137;-74.6786;Mussentuchit, Cedar Mountain, Uintah, Utah;occ:850676;representativo
+Acantholipan;28.6378;-102.9486;77.9;34.6552;-74.5363;Pen, Coahuila;occ:1066587;representativo
+Achelousaurus;48.9708;-112.6420;77.9;56.2799;-76.0264;Flag Butte, Two Medicine, Glacier, Montana;occ:1667749;representativo
+Acheroraptor;45.0005;-103.1890;69.1;51.3913;-76.0044;Hell Creek, Butte, South Dakota;occ:1588484;representativo
+Achillesaurus;-39.1177;-67.6323;84.7;-42.3407;-50.9933;Bajo de la Carpa, Río Negro;occ:782372;representativo
+Achillobator;44.3400;109.8589;92.0;46.1464;99.8972;Baynshire, Dornogov;occ:537891;representativo
+Acristavus;47.7210;-112.3291;77.9;55.0344;-76.4379;Hagans Crossing, Two Medicine, Teton, Montana;occ:995739;representativo
+Acrocanthosaurus;34.1800;-95.8064;117.3;32.0354;-51.0361;Antlers, Atoka, Oklahoma;occ:260041;representativo
+Acrotholus;49.0837;-111.4361;84.7;56.1099;-74.6237;Deadhorse Coulee, Milk River, Alberta;occ:1135009;representativo
+Adasaurus;43.5400;99.6000;69.1;40.7781;88.5323;Nemegt, Omnogov;occ:1350013;representativo
+Adelolophus;37.6000;-111.9000;77.9;45.4069;-82.2333;Coyote Point, Wahweap, Garfield, Utah;occ:1264057;representativo
+Adeopapposaurus;-30.5000;-68.5000;188.1;-30.8641;-30.1322;Upper Pelitic, Cañon del Colorado, San Juan;occ:566942;representativo
+Adratiklit;33.1500;-5.1167;164.8;28.4765;-3.2030;El Mers III, Ifrane, Fès-Meknes;occ:1512823;representativo
+Adynomosaurus;42.1572;1.0347;69.1;33.6898;1.2010;Conques, Lleida, Cataluña;occ:1487825;representativo
+Aegyptosaurus;28.4311;28.9248;97.2;8.8518;23.3755;Baharîje, Matruh;occ:513532;representativo
+Aeolosaurus;-41.2217;-68.4558;74.8;-42.2907;-54.1086;Angostura Colorada, Río Negro;occ:561808;representativo
+Aepyornithomimus;44.2283;103.3028;77.9;41.8130;92.7660;Tugrugyin, Djadokhta, Omnogov;occ:1271465;representativo
+Aerosteon;-37.1350;-69.3305;77.9;-40.2070;-52.4281;Anacleto, Malargüe, Mendoza;occ:819769;representativo
+Afromimus;16.3667;9.0167;106.8;0.6615;3.2361;Elrhaz, Agadez;occ:1456456;representativo
+Afrovenator;16.6818;7.7444;168.1;8.3181;2.5191;Irhazer II, Tchirozerine, Agadez;occ:1485901;representativo
+Agilisaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:402860;representativo
+Agilisaurus louderbacki;29.4114;104.8525;162.9;;;Lower, Shaximiao, Zigong, Sichuan;occ:402860;ocorrencia
+Agnosphitys cromhallensis;51.6231;-2.4283;232.2;;;Gloucestershire, England, UK;occ:261810;ocorrencia
+Agujaceratops;29.2500;-103.2500;77.9;35.3152;-74.6506;Alto Shale, Aguja, Brewster, Texas;occ:850791;representativo
+Agustinia;-39.5922;-69.3969;106.8;-45.3760;-42.3006;Cullín Grande, Lohan Cura, Neuquén;occ:832479;representativo
+Ahshislepelta;36.1507;-107.9252;77.9;43.1581;-78.4969;Hunter Wash, Kirtland, San Juan County, New Mexico;occ:1206512;representativo
+Ahshislesaurus;36.1039;-108.0883;77.9;43.1485;-78.6881;Kirtland, San Juan, New Mexico;occ:590222;representativo
+Ahvaytum;43.5653;-109.4550;232.2;15.1146;-45.0253;Popo Agie, Fremont, Wyoming;occ:2063638;representativo
+Ajnabia;32.8322;-6.2300;69.1;24.4004;-6.5198;Upper, Couche III, Khouribga;occ:1533655;representativo
+Akainacephalus;37.6875;-111.4461;77.9;45.3952;-81.7067;Middle, Kaiparowits, Kane, Utah;occ:1418875;representativo
+Alamosaurus;36.3148;-108.0485;69.1;44.0345;-85.5417;Naashoibito, Kirtland, San Juan, New Mexico;occ:472683;representativo
+Alaskacephale;69.9175;-151.1946;69.1;82.6543;-125.7494;Prince Creek, North Slope, Alaska;occ:521550;representativo
+Albertaceratops;49.1209;-110.8627;77.9;56.0126;-73.9709;Oldman, Alberta;occ:641349;representativo
+Albertadromeus syntarsus;49.1794;-110.6828;77.9;;;Oldman, Alberta, Estados Unidos;occ:1134765;ocorrencia
+Albertavenator;51.6525;-112.9017;74.8;61.0439;-78.3711;Horsethief, Horseshoe Canyon, Alberta;occ:1625080;representativo
+Albertonykus;51.9958;-112.8833;69.1;60.0014;-83.1025;Tolman, Horseshoe Canyon, Alberta;occ:796106;representativo
+Albertosaurus;51.5389;-112.8786;74.8;60.9321;-78.4222;Horseshoe Canyon, Alberta;occ:1482996;representativo
+Albinykus;44.3937;109.3532;79.0;43.1102;98.3695;Javkhlant, Dornogov;occ:920587;representativo
+Aletopelta;33.1300;-117.2953;77.9;38.5535;-85.3426;Point Loma, San Diego, California;occ:577794;representativo
+Alioramus;43.4694;100.3861;69.1;40.8261;89.2887;Nemegt, Omnogov;occ:962978;representativo
+Allosaurus;41.9671;-106.2910;148.6;38.1337;-53.8456;Morrison, Albany, Wyoming;occ:491247;representativo
+Almas;43.6644;100.9019;77.9;40.8252;90.7334;Bayn Dzak, Djadokhta, Omnogov;occ:1456457;representativo
+Alnashetri;-39.7148;-68.6028;111.7;-43.6037;-38.9955;Candeleros, Río Negro;occ:1555179;representativo
+Alocodon;39.9092;-8.9539;158.4;33.9391;2.0172;Cabaços, Leiria;occ:645205;representativo
+Alocodon kuehnei;39.9092;-8.9539;158.4;;;Cabaços, Leiria;occ:645205;ocorrencia
+Alpkarakush;41.3406;72.1914;163.4;41.0464;76.4368;Balabansai, Jalal-Abad;occ:1661884;representativo
+Altirhinus;45.8458;108.3986;105.3;48.6459;101.0198;Lower, Khuren Dukh, Dornogov;occ:1333305;representativo
+Alvarezsaurus;-38.9539;-68.2342;84.7;-42.1194;-51.5919;Bajo de la Carpa, Neuquén;occ:796323;representativo
+Alwalkeria;19.0667;79.6333;232.2;-41.3132;41.7917;Lower, Maleri, Adilabad, Andhra Pradesh;occ:545075;representativo
+Alxasaurus;41.1667;106.0833;117.3;42.3160;104.7728;Bayangobi, Nei Mongol;occ:471799;representativo
+Amanasaurus;-29.6603;-53.4308;232.2;-44.1848;-16.7938;Santa Maria Supersequence, Rio Grande do Sul;occ:1624818;representativo
+Amanasaurus nesbitti;-29.6603;-53.4308;232.2;;;Santa Maria Supersequence, Rio Grande do Sul;occ:1624818;ocorrencia
+Amanzia;47.2886;7.3772;153.5;38.6078;15.9709;Reuchenette, Bern;occ:518002;representativo
+Amargasaurus;-39.4872;-70.1786;123.6;-38.8610;-36.0822;Puesto Antigual, La Amarga, Neuquén;occ:1523572;representativo
+Amargatitanis;-39.4811;-70.1927;123.6;-38.8555;-36.0966;Puesto Antigual, La Amarga, Catan Lil, Neuquén;occ:1412654;representativo
+Amazonsaurus;-3.4027;-44.3605;112.9;-5.2614;-13.1448;Itapecuru, Itapecuru-Mirim, Maranhão;occ:624238;representativo
+Ambopteryx;41.2333;119.4000;152.3;41.9445;121.8942;Liaoning;occ:1519564;representativo
+Ampelognathus;32.9805;-97.0572;97.2;32.0841;-63.2628;Lewisville, Denton, Texas;occ:1636878;representativo
+Ampelosaurus;43.4880;5.6120;77.9;33.6213;7.3226;Bouches-du-Rhône, Provence-Alpes-Cote d'Azur;occ:1278689;representativo
+Amphicoelias;44.0514;-107.4583;155.1;39.4566;-52.8056;Morrison, Washakie, Wyoming;occ:1033188;representativo
+Amtocephale;43.5642;107.9117;92.0;45.0274;98.2587;Baynshire, Omnogov;occ:1093936;representativo
+Amurosaurus;50.2700;127.4758;69.1;51.6848;113.1261;Udurchukan, Blagoveschensk, Amur;occ:474063;representativo
+Amygdalodon;-43.9667;-69.5167;187.9;-44.0542;-26.5419;Cerro Carnerero, Chubut;occ:139306;representativo
+Anabisetia;-39.0705;-69.1512;91.8;-44.9849;-47.6760;Cerro Lisandro, Neuquén;occ:488651;representativo
+Analong;24.9725;102.0761;169.6;25.3091;108.7852;Chuanjie, Lufeng, Yunnan;occ:1499899;representativo
+Anasazisaurus;36.1548;-107.8166;77.9;43.1383;-78.3797;Farmington, Kirtland, San Juan, New Mexico;occ:715657;representativo
+Anchiceratops;51.7464;-112.9583;74.8;61.1441;-78.3737;Horseshoe Canyon, Alberta;occ:606103;representativo
+Anchiornis;40.9167;119.6500;158.2;42.1687;122.8224;Tiaojishan, Jianchang, Liaoning;occ:829458;representativo
+Anchisaurus;41.8098;-72.5507;197.2;24.0788;-18.1695;Portland, Hartford, Connecticut;occ:477078;representativo
+Andesaurus;-39.2803;-68.7563;111.7;-43.1707;-39.1659;Candeleros, Confluencia, Neuquén;occ:460637;representativo
+Angaturama;-7.2167;-39.2667;116.4;-8.9309;-7.9274;Romualdo, Ceará;occ:508710;representativo
+Angolatitan;-8.2850;13.3450;87.8;-22.9514;1.7255;Tadi Beds, Itombe;occ:2038906;representativo
+Angulomastacator;29.3016;-103.5041;77.9;35.4233;-74.8962;Alto Shale, Aguja, Brewster, Texas;occ:819151;representativo
+Anhuilong;29.7925;118.4506;168.1;33.9246;123.3667;Hongqin, Shexian, Anhui;occ:1418650;representativo
+Aniksosaurus;-44.7667;-69.1833;95.2;-51.5786;-46.5978;Lower, Bajo Barreal, Chubut;occ:654765;representativo
+Animantarx;39.1560;-110.8577;111.0;40.7429;-69.3599;Ruby Ranch, Cedar Mountain, Emery, Utah;occ:285084;representativo
+Ankylosaurus;41.9399;-106.8763;69.1;49.1972;-81.3631;Ferris, Carbon, Wyoming;occ:702694;representativo
+Anodontosaurus;51.6445;-112.8878;69.1;59.6687;-83.3271;Horsethief, Horseshoe Canyon, Alberta;occ:1373086;representativo
+Anomalipes;35.9956;119.4099;77.9;36.2944;110.4002;Hongtuya, Zhucheng, Shandong;occ:1407531;representativo
+Anserimimus;43.4436;100.3732;69.1;40.7989;89.2836;Nemegt, Omnogov;occ:1626728;representativo
+Antarctopelta;-63.9267;-57.8142;77.9;-61.7124;-68.4440;Gamma, Snow Hill Island;occ:474488;representativo
+Antarctosaurus;-39.1193;-67.6500;77.9;-42.3406;-51.0120;Anacleto, El Cuy, Río Negro;occ:508147;representativo
+Antetonitrus;-29.1067;27.3194;197.2;-42.3373;-1.4961;Upper, Elliot, Ladybrand, Free State;occ:410610;representativo
+Antrodemus;41.9671;-106.2910;148.6;38.1337;-53.8456;Morrison, Albany, Wyoming;occ:491247;representativo
+Anzu;45.8733;-103.7872;69.1;52.3489;-76.2386;Hell Creek, Harding, South Dakota;occ:1197891;representativo
+Aoniraptor;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1337637;representativo
+Apatoraptor;51.4908;-112.8063;69.1;59.5068;-83.3266;Horsethief, Horseshoe Canyon, Alberta;occ:1338877;representativo
+Apatosaurus;41.3139;-105.7065;148.9;37.4104;-53.4568;Morrison, Albany, Wyoming;occ:1493855;representativo
+Appalachiosaurus;33.8803;-80.0522;69.1;35.6964;-56.6267;Steel Creek, Clarendon, South Carolina;occ:1443763;representativo
+Aquilarhinus;29.2397;-103.6142;77.9;35.3889;-75.0299;Abajo Shale, Aguja, Brewster, Texas;occ:1436321;representativo
+Arackar;-27.9900;-70.2400;74.8;-28.9792;-53.9545;Hornitos, Atacama;occ:1549243;representativo
+Aragosaurus;40.6617;-0.8793;148.9;32.3804;7.9362;Villar del Arzobispo, Teruel, Aragón;occ:382508;representativo
+Aralosaurus;45.9500;64.6500;79.0;38.5364;58.4043;Bostobe, Qyzylorda;occ:520733;representativo
+Aratasaurus;-7.1256;-39.4350;111.7;-10.5188;-9.8681;Lower, Romualdo, Ceará;occ:1588330;representativo
+Archaeocursor;29.7492;106.5825;191.8;35.8982;111.8483;Dongyuemiao, Ziliujing, Chongqing Shi, Chongqing;occ:1686746;tipo
+Archaeocursor asiaticus;29.7492;106.5825;191.8;;;Dongyuemiao, Ziliujing, Chongqing Shi, Chongqing;occ:1686746;ocorrencia
+Archaeodontosaurus;-16.4330;47.1500;166.8;-23.3729;25.2692;Isalo IIIb, Mahajanga;occ:1586690;representativo
+Archaeopteryx;48.9333;11.1500;147.1;40.5704;18.8748;Altmühltal, Bayern;occ:520480;representativo
+Archaeornithomimus;43.8314;112.4275;77.9;43.1563;101.4900;Iren Dabasu, Nei Mongol;occ:487439;representativo
+Arcusaurus;-28.4667;27.8253;197.2;-41.9809;-0.5623;Upper, Elliot, Senekal, Free State;occ:711598;representativo
+Ardetosaurus;44.6500;-107.8167;152.0;40.9802;-54.5877;Morrison, Big Horn, Wyoming;occ:2041326;representativo
+Arenysaurus;42.2667;0.7333;69.1;33.8330;0.9565;La Posa, Huesca, Aragón;occ:460772;representativo
+Argentinosaurus;-38.9167;-69.0600;108.2;-42.8100;-39.4941;Huincul, Neuquén;occ:513500;representativo
+Argyrosaurus;-45.4500;-69.2167;74.8;-46.4064;-55.6704;Lago Colhué Huapi, Chubut;occ:508502;representativo
+Arkansaurus;33.9672;-94.1683;106.8;31.2682;-54.9545;Sevier, Arkansas;occ:536648;representativo
+Arrhinoceratops;51.6105;-112.8754;74.8;60.9988;-78.3686;Horseshoe Canyon, Alberta;occ:626784;representativo
+Arrudatitan;-21.3289;-48.5819;74.8;-24.3456;-31.2892;Adamantina, São Paulo;occ:625892;representativo
+Asfaltovenator;-43.4094;-69.1536;174.5;-41.0956;-28.4336;Cañadón Asfalto, Paso de Indios, Chubut;occ:1488143;representativo
+Asiatosaurus;44.2415;102.7333;121.8;44.7186;102.6236;Öösh, Ovorkhangai;occ:487454;representativo
+Asilisaurus;-10.3000;35.1333;244.2;-53.3946;22.3556;Lifua, Manda Beds, Ruvuma;occ:851246;representativo
+Asilisaurus kongwe;-10.3000;35.1333;244.2;;;Lifua, Manda Beds, Ruvuma;occ:851246;ocorrencia
+Astigmasaura;-37.9667;-69.2333;108.2;-41.8616;-39.6925;Huincul, Neuquén;occ:1604940;representativo
+Astrodon;38.9222;-77.0124;116.4;33.0984;-32.3166;Arundel Clay, Washington, District of Columbia;occ:663020;representativo
+Astrophocaudia;33.1536;-97.5714;111.7;31.8793;-55.6496;Middle, Paluxy, Wise, Texas;occ:1092776;representativo
+Atacamatitan;-21.9333;-68.7333;83.3;-25.1604;-49.7655;Tolar, Antofagasta;occ:571708;representativo
+Atlasaurus;32.0419;-6.2821;166.8;28.0291;-4.8051;Guettioua, Azilal;occ:464981;representativo
+Atlascopcosaurus;-38.8358;143.5819;111.7;-72.5791;121.7035;Eumeralla, Victoria;occ:401720;representativo
+Atrociraptor;51.6743;-112.9087;69.1;59.7010;-83.3330;Horsethief, Horseshoe Canyon, Alberta;occ:1662233;representativo
+Aublysodon;41.9399;-106.8763;69.1;49.1972;-81.3631;Ferris, Carbon, Wyoming;occ:650687;representativo
+Aucasaurus;-37.8833;-68.5167;77.9;-41.0296;-51.7064;Anacleto, Neuquén;occ:297302;representativo
+Augustynolophus;36.5865;-120.6924;69.1;43.9982;-95.0368;Marca, Moreno, Fresno, California;occ:534988;representativo
+Aurornis;40.5864;119.4344;160.2;41.8400;122.5982;Tiaojishan, Jianchang, Liaoning;occ:1139779;representativo
+Australodocus;-9.7090;39.2285;146.1;-30.3102;17.2724;Upper Dinosaur, Tendaguru, Lindi;occ:667951;representativo
+Australovenator;-22.3483;143.0892;95.2;-53.2657;133.5179;Winton, Queensland;occ:1540661;representativo
+Austroposeidon;-22.1178;-51.4425;74.8;-24.8865;-34.2798;Presidente Prudente, São Paulo;occ:1344156;representativo
+Austroraptor;-39.9164;-66.5831;69.1;-42.2264;-54.4714;Allen, Río Negro;occ:1116593;representativo
+Avaceratops;47.2792;-108.2057;77.9;53.6695;-72.2020;Coal Ridge, Judith River, Petroleum, Montana;occ:1477211;representativo
+Aviatyrannis;39.7000;-8.8000;152.0;34.4863;1.0417;Alcobaça, Leiria, Centro;occ:403137;representativo
+Avimimus;44.0719;102.6697;69.1;41.7584;91.2686;Nemegt, Omnogov;occ:937817;representativo
+Baalsaurus;-38.4519;-68.7922;89.8;-44.3790;-47.2448;Portezuelo, Neuquén;occ:1427413;representativo
+Bactrosaurus;43.7417;112.1833;77.9;43.0229;101.2900;Iren Dabasu, Nei Mongol;occ:487440;representativo
+Bagaceratops;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Omnogov;occ:389054;representativo
+Bagaraatan;43.5200;101.0497;69.1;40.9748;89.8981;Nemegt, Omnogov;occ:395222;representativo
+Bagualia;-43.4500;-69.1833;181.7;-41.4295;-28.0022;Cañadón Asfalto, Chubut;occ:942344;representativo
+Bagualosaurus;-29.6531;-53.2928;221.3;-37.7525;-15.8373;Alemoa, Santa Maria, Agudo, Rio Grande do Sul;occ:1403127;representativo
+Bahariasaurus;28.4794;29.0418;97.2;8.8834;23.4860;Baharîje, Matruh;occ:510841;representativo
+Bainoceratops;44.2000;103.2667;77.9;41.7790;92.7423;Tugrugyin, Djadokhta, Omnogov;occ:1431950;representativo
+Baiyinosaurus;36.7497;104.8314;166.8;39.1543;108.2923;Straw-yellow Sandstone, Wangjiashan, Baiyin, Gansu;occ:1660020;representativo
+Bajadasaurus;-39.8175;-69.6742;135.8;-38.8753;-33.1904;Bajada Colorada, Neuquén;occ:1205595;representativo
+Balaur;45.9937;23.5705;69.1;;;Sebeş, Alba;occ:882032;representativo
+Bambiraptor;48.6333;-113.7500;77.9;56.3458;-79.0859;Flag Butte, Two Medicine, Glacier, Montana;occ:837818;representativo
+Banji;25.8167;114.9333;69.1;25.6065;108.5969;Jiangxi;occ:883310;representativo
+Bannykus;41.5833;106.8833;117.3;42.8672;105.4245;Bayangobi, Wulatehouqi, Inner Mongolia;occ:1456453;representativo
+Baotianmansaurus;33.2513;112.0217;83.1;32.2630;103.9683;Xiaguan, Neixiang, Henan;occ:826891;representativo
+Barapasaurus;18.8500;79.9667;191.8;-29.7096;33.0999;Lower, Kota, Gadchiroli, Maharashtra;occ:372542;representativo
+Barosaurus;43.6300;-108.2000;147.7;40.0341;-55.2061;Morrison, Hot Spings, Wyoming;occ:220060;representativo
+Barrosasaurus;-38.8408;-68.8411;77.9;-41.9476;-52.2035;Anacleto, Neuquén;occ:826758;representativo
+Barsboldia;43.5300;101.0400;69.1;40.9832;89.8862;Nemegt, Omnogov;occ:404785;representativo
+Bashanosaurus;30.9420;108.7510;164.8;31.6252;112.7657;Lower, Shaximiao, Yunyang, Chongqing;occ:1593540;representativo
+Batyrosaurus;46.7625;64.3290;79.0;39.3024;57.9545;Bostobe, Qyzylorda;occ:1070319;representativo
+Baurutitan;-19.7203;-47.7383;69.1;-23.3273;-33.2115;Serra da Galga, Minas Gerais;occ:508524;representativo
+Bayannurosaurus;41.1688;107.2354;120.5;42.0762;107.7804;Bayingebi, Linhe, Nei Monggol;occ:1421956;representativo
+Beibeilong;33.2583;111.7281;95.2;36.4152;105.3939;Gaogou, Xixia, Henan;occ:1408735;representativo
+Beipiaognathus;41.7111;120.7136;122.7;43.2430;121.8926;Yixian, Beipiao, Liaoning;occ:1583963;representativo
+Beipiaosaurus;41.6014;120.8722;122.7;43.1532;122.0766;Jianshangou, Yixian, Beipiao, Liaoning;occ:1429178;representativo
+Beishanlong;40.4784;98.1117;117.3;40.1823;97.2117;Upper, Xiagou, Gansu;occ:810685;representativo
+Bellusaurus;44.8765;89.1831;158.4;46.5234;91.6564;Upper, Shishugou, Xinjiang;occ:522076;representativo
+Berberosaurus;31.2647;-6.5908;183.8;26.8954;-2.9759;Ouarzazate;occ:539056;representativo
+Berthasaura;-26.7761;-53.0647;96.8;-33.6864;-28.5483;Goio-Erê, Paraná;occ:1583175;representativo
+Betasuchus;50.8500;5.6833;69.1;43.0529;4.9973;Maastricht, Limburg;occ:534797;representativo
+Bicentenaria;-39.4694;-68.9069;111.7;-43.3612;-39.3226;Candeleros, Río Negro;occ:1069112;representativo
+Bissektipelta;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:840363;representativo
+Bistahieversor;36.2925;-108.5497;77.9;43.4304;-79.1110;Hunter Wash, Kirtland, New Mexico;occ:873166;representativo
+Bisticeratops;36.3148;-108.0842;77.9;43.3507;-78.6056;Farmington, Kirtland, San Juan, New Mexico;occ:368121;representativo
+Blasisaurus;42.2667;0.7333;69.1;33.8330;0.9565;Arén, Huesca, Aragón;occ:460747;representativo
+Blikanasaurus;-29.2200;27.3417;214.4;-46.3324;1.1093;Lower, Elliot, Free State;occ:931128;representativo
+Bolong;41.6019;121.1286;122.7;43.1835;122.3362;Dakangpu, Yixian, Yixian, Liaoning;occ:900831;representativo
+Bonapartenykus;-39.4319;-67.2944;69.1;-41.6912;-55.1411;Lower, Allen, Río Negro;occ:861180;representativo
+Bonapartesaurus;-39.2967;-67.5342;69.1;-41.5386;-55.3704;Lower, Allen, Río Negro;occ:1375522;representativo
+Bonatitan;-40.0578;-66.8008;69.1;-42.3510;-54.7144;Lower, Allen, Río Negro;occ:491057;representativo
+Bonitasaura;-39.6333;-68.3500;84.7;-42.7820;-51.8290;Bajo de la Carpa, Cerro Policía, Río Negro;occ:460631;representativo
+Borealopelta;56.7469;-111.3744;117.3;56.7364;-55.9530;Wabiskaw, Clearwater, Alberta;occ:1407041;representativo
+Borealosaurus;41.7728;120.7922;103.4;46.5839;115.1589;Sunjiawan, Beipiao, Liaoning;occ:602117;representativo
+Boreonykus;55.0639;-119.1081;77.9;63.4040;-78.9364;Unit 3, Wapiti, Alberta;occ:867597;representativo
+Borogovia;43.6017;100.4567;69.1;40.9661;89.3189;Nemegt, Omnogov;occ:404836;representativo
+Brachiosaurus;38.6381;-108.1944;148.9;35.2286;-61.0309;Brushy Basin, Morrison, Montrose, Colorado;occ:491428;representativo
+Brachyceratops;48.9666;-112.6500;77.9;56.2778;-76.0379;Flag Butte, Two Medicine, Glacier, Montana;occ:584109;representativo
+Brachylophosaurus;48.5622;-107.7783;77.9;54.7715;-70.9760;McClelland Ferry, Judith River, Phillips, Montana;occ:642473;representativo
+Brachytrachelopan;-43.2199;-69.0990;149.9;-41.0936;-29.7233;Cañadón Calcáreo, Gastre, Chubut;occ:504548;representativo
+Bradycneme;45.5500;22.9167;69.1;;;lower, Sînpetru, Hunedoara;occ:906342;representativo
+Brasilotitan;-22.1178;-51.4425;74.8;-24.8865;-34.2798;Adamantina, São Paulo;occ:536069;representativo
+Bravasaurus;-28.5000;-68.7500;74.8;-29.6310;-52.5230;Ciénaga del Río Huaco, La Rioja;occ:1532559;representativo
+Bravoceratops;29.4015;-103.3157;69.1;36.3356;-81.7303;Javelina, Texas;occ:1141920;representativo
+Breviceratops;43.4994;101.1267;77.9;40.7068;90.9966;Baruungoyot, Omnogov;occ:1341987;representativo
+Brontomerus;38.8319;-109.2736;111.0;40.1094;-67.9093;Ruby Ranch, Cedar Mountain, Grand, Utah;occ:883353;representativo
+Brontosaurus;41.8931;-105.9797;148.9;38.0176;-53.5742;Lake Como, Morrison, Albany, Wyoming;occ:536393;representativo
+Bruhathkayosaurus;11.1642;78.9797;69.1;-36.3937;55.6725;Kallamedu, Tamil Nadu;occ:570581;representativo
+Buitreraptor;-39.6286;-68.7008;111.7;-43.5184;-39.1010;Upper, Candeleros, Río Negro;occ:534996;representativo
+Burianosaurus;49.9333;15.1833;97.2;39.9480;13.9017;Korycany, Peruc-Korycany, Kutná Hora;occ:512990;representativo
+Buriolestes;-29.6586;-53.4358;232.2;-44.1837;-16.8002;Alemoa, Santa Maria, São João do Polêsine, Rio Grande do Sul;occ:1347762;representativo
+Bustingorrytitan;-39.2083;-68.8147;108.2;-43.0993;-39.2291;Huincul, Neuquén;occ:1641448;representativo
+Byronosaurus;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Omnogov;occ:389084;representativo
+Caenagnathasia;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:472491;representativo
+Caenagnathus;50.7398;-111.5146;77.9;57.6742;-73.6239;Dinosaur Park, Alberta;occ:472460;representativo
+Caieiria;-19.7203;-47.7383;69.1;-23.3273;-33.2115;Serra da Galga, Minas Gerais;occ:1612553;representativo
+Caihong;40.4992;119.5094;158.2;41.7523;122.6735;Tiaojishan, Qinglong, Hebei;occ:1407542;representativo
+Caletodraco;49.6620;0.1570;97.2;39.1794;1.3655;Saint Jouin, Seine-Maritime, Normandy;occ:1662259;representativo
+Calvarius;42.1136;0.9847;69.1;33.6526;1.1488;Talarn, Lleida;occ:1627611;representativo
+Camarasaurus;41.8825;-106.1073;148.9;38.0249;-53.6952;Morrison, Carbon, Wyoming;occ:408852;representativo
+Camarillasaurus;40.6125;-0.7542;123.6;30.4911;10.1964;Camarillas, Teruel, Aragón;occ:1080889;representativo
+Camposaurus;34.4374;-109.4625;216.5;9.6975;-51.9554;Mesa Redondo, Chinle, Apache, Arizona;occ:406872;representativo
+Camptosaurus;41.9800;-106.1457;148.9;38.1261;-53.7076;Morrison, Wyoming;occ:536375;representativo
+Canardia;43.2040;0.9556;69.1;35.5969;0.2933;Marnes d'Auzas, Haute-Garonne;occ:1292515;representativo
+Carcharodontosaurus;28.3364;28.9847;97.2;8.7501;23.4131;Baharîje, Al Jizah;occ:475139;representativo
+Cariocecus;38.4142;-9.2222;123.6;31.7679;2.2855;Papo Seco, Setúbal, Lisboa;occ:2042604;representativo
+Carnotaurus;-43.0000;-67.5475;69.1;-45.2225;-55.8929;A, La Colonia, Telsen, Chubut;occ:263808;representativo
+Caseosaurus;33.6064;-101.1385;221.3;7.7541;-41.2213;Tecovas, Crosby, Texas;occ:1330171;representativo
+Cathartesaura;-39.6286;-69.1842;108.2;-43.5229;-39.6145;Huincul, Río Negro;occ:624643;representativo
+Caudipteryx;41.8000;120.7333;122.7;43.3331;121.8934;Jianshangou, Yixian, Liaoning;occ:130295;representativo
+Cedarosaurus;38.8458;-109.5560;134.8;37.3957;-63.1425;Yellow Cat, Cedar Mountain, Grand, Utah;occ:483343;representativo
+Cedarpelta;39.1790;-110.1060;111.0;40.6130;-68.6102;Ruby Ranch, Cedar Mountain, Carbon, Utah;occ:812194;representativo
+Cedrorestes;38.8955;-109.5452;134.8;37.4426;-63.1194;Yellow Cat, Cedar Mountain, Emery, Utah;occ:686851;representativo
+Centrosaurus;50.7474;-111.4906;77.9;57.6757;-73.5923;Dinosaur Park, Alberta;occ:565499;representativo
+Cerasinops;48.4636;-112.4700;77.9;55.7647;-76.1488;Two Medicine, Pondera, Montana;occ:528564;representativo
+Ceratonykus;43.1500;99.4500;77.9;40.0622;89.5619;Baruungoyot, Omnogov;occ:809197;representativo
+Ceratops;47.8986;-109.0000;77.9;54.4358;-72.6938;Coal Ridge, Judith River, Blaine, Montana;occ:465702;representativo
+Ceratosaurus;38.4500;-107.4000;152.0;34.9419;-60.3191;Brushy Basin, Morrison, Gunnison, Colorado;occ:1197965;representativo
+Chakisaurus;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1658575;representativo
+Changchunsaurus;43.5851;124.8943;111.0;48.6339;121.0489;Quantou, Gongzhiling, Jilin;occ:775783;representativo
+Changchunsaurus parvus;43.5851;124.8943;111.0;;;Quantou, Gongzhiling, Jilin;occ:775783;holotipo
+Changmiania;41.7838;120.7642;122.7;43.3208;121.9282;Lujiatun, Yixian, Beipiao, Liaoning;occ:1589216;representativo
+Changmiania liaoningensis;41.7838;120.7642;122.7;;;Lujiatun, Yixian, Beipiao, Liaoning;occ:1589216;ocorrencia
+Changyuraptor;40.6431;119.6411;122.7;42.0628;121.0335;Yixian, Jianchang, Liaoning;occ:1215849;representativo
+Charonosaurus;48.8575;130.2436;69.1;50.7553;116.4576;Yuliangzi, Jiayin, Heilongjiang;occ:393080;representativo
+Chasmosaurus;50.7433;-111.5717;77.9;57.6907;-73.6844;Dinosaur Park, Alberta;occ:565158;representativo
+Chebsaurus;32.7397;-1.0722;163.4;26.3982;-0.1442;Aïssa, Naama;occ:572951;representativo
+Chenanisaurus;32.8322;-6.2300;69.1;24.4004;-6.5198;Couche III, Khouribga, Béni Mellal-Khénifra;occ:1421957;representativo
+Chilantaisaurus;29.0242;119.3444;84.7;30.7479;112.5121;Tangshang, Tangxi, Zhejiang;occ:560789;representativo
+Chindesaurus;36.3238;-106.4751;216.5;11.1254;-49.1800;Petrified Forest, Chinle, Rio Arriba, New Mexico;occ:1579641;representativo
+Chinshakiangosaurus;26.1667;101.4167;200.4;35.2824;103.7574;Lower, Fengjiahe, Yungyin, Yunnan;occ:492832;representativo
+Chirostenotes;50.7420;-111.5120;77.9;57.6756;-73.6195;Dinosaur Park, Alberta;occ:1638270;representativo
+Choconsaurus;-39.2567;-68.7803;108.2;-43.1473;-39.1918;Huincul, Neuquén;occ:513398;representativo
+Choyrodon;45.8303;108.4467;105.3;48.6410;101.0752;Lower, Khuren Dukh, Dornogov;occ:534754;representativo
+Chromogisaurus;-30.1169;-67.9013;232.2;-44.6175;-34.2492;Cancha de Bochas, Ischigualasto, San Juan;occ:1063632;representativo
+Chuandongocoelurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:1350012;representativo
+Chuanjiesaurus;24.9725;102.0761;169.6;25.3091;108.7852;Chuanjie, Lufeng, Yunnan;occ:651334;representativo
+Chuanqilong;40.8844;119.4715;117.3;44.4774;118.3609;Jiufotang, Lingyuan, Liaoning;occ:1222292;representativo
+Chubutisaurus;-43.4039;-68.2917;114.8;-45.4226;-36.2024;Puesto La Paloma/Cerro Castaño, Cerro Barcino, Paso de Indios, Chubut;occ:401692;representativo
+Chucarosaurus;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1619052;representativo
+Chungkingosaurus;29.5628;106.5528;164.8;29.7558;111.1159;Upper, Shaximiao, Chongqing, Sichuan;occ:572136;representativo
+Chuxiongosaurus;25.1330;102.0830;200.4;34.3280;104.6344;Shawan, Lufeng, Lufeng, Yunnan;occ:472008;representativo
+Cienciargentina;-39.2567;-68.7803;108.2;-43.1473;-39.1918;Huincul, Neuquén;occ:1379988;representativo
+Citipati;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Omnogov;occ:389089;representativo
+Citipes;50.7420;-111.5003;77.9;57.6729;-73.6067;Dinosaur Park, Alberta;occ:1638268;representativo
+Claosaurus;43.6680;-102.8980;77.9;49.0177;-68.5346;Pierre Shale, Custer, South Dakota;occ:513892;representativo
+Coahuilaceratops;25.5000;-101.7000;69.1;32.2130;-81.0893;Coahuila;occ:881485;representativo
+Coahuilasaurus;25.5689;-101.3347;77.9;31.3190;-73.8298;Cerro del Pueblo, Coahuila;occ:1686761;representativo
+Coelophysis;36.3130;-106.4463;216.5;11.1109;-49.1585;Painted Desert, Petrified Forest, Rio Arriba, New Mexico;occ:528637;representativo
+Coeluroides;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:276689;representativo
+Coelurus;41.9077;-105.9634;148.9;38.0296;-53.5556;Lake Como, Morrison, Albany, Wyoming;occ:408068;representativo
+Colepiocephale;49.9511;-111.4231;77.9;56.9179;-74.0517;Foremost, Alberta;occ:606150;representativo
+Coloradisaurus;-29.7835;-67.9333;216.5;-39.4639;-31.8997;Los Colorados, General Lavalle, La Rioja;occ:1112358;representativo
+Comahuesaurus;-39.5817;-70.0886;114.8;-41.6393;-38.2051;Puesto Quiroga, Lohan Cura, La Picaza, Neuquén;occ:465497;representativo
+Compsognathus;49.0247;11.9831;150.7;41.0769;19.5452;Painten, Bayern;occ:557162;representativo
+Concavenator;40.0645;-1.8808;123.6;30.4218;9.0174;La Huérguina, Cuenca, Castilla-La Mancha;occ:883034;representativo
+Conchoraptor;43.4886;101.1456;77.9;40.6998;91.0177;Baruungoyot, Omnogov;occ:1691731;representativo
+Condorraptor;-43.4198;-69.1930;174.5;-41.1125;-28.4672;Cañadón Asfalto, Chubut;occ:468455;representativo
+Convolosaurus;31.9722;-98.4763;116.4;30.4314;-54.1974;Twin Mountains, Comanche, Texas;occ:220190;representativo
+Coronosaurus;50.7476;-111.5240;77.9;57.6836;-73.6289;Oldman, Alberta;occ:574084;representativo
+Corythoraptor;25.8167;114.9333;69.1;25.6065;108.5969;Hekou, Ganzhou, Jiangxi;occ:1417145;representativo
+Corythosaurus;50.7368;-111.5097;77.9;57.6703;-73.6206;Alberta;occ:592337;representativo
+Craspedodon;50.5500;4.7333;86.7;40.5612;5.4735;Glauconie de Lonzée, Namur;occ:507603;representativo
+Craspedodon lonzeensis;50.5500;4.7333;86.7;;;Glauconie de Lonzée, Namur;occ:507603;ocorrencia
+Crichtonpelta;41.7728;120.7922;103.4;46.5839;115.1589;Sunjiawan, Beipiao, Liaoning;occ:1559526;representativo
+Crichtonsaurus;41.7111;120.7136;95.2;46.2516;112.1138;Sunjiawan, Beipiao, Liaoning;occ:826857;representativo
+Cristatusaurus;16.4667;9.1667;117.3;2.3435;4.1935;Elrhaz, Agadez;occ:388974;representativo
+Crittendenceratops;31.6961;-110.8483;77.9;39.3777;-81.8095;"shale", Fort Crittenden, Santa Cruz, Arizona;occ:634421;representativo
+Cryolophosaurus;-84.3333;166.4500;191.8;-58.0321;34.0838;Hanson;occ:475133;representativo
+Daanosaurus;29.2200;104.7700;148.9;27.2848;108.5163;Upper, Shaximiao, Zigong, Sichuan;occ:811556;representativo
+Daemonosaurus;36.3317;-106.4731;203.6;15.7419;-50.9490;Siltstone, Chinle, Rio Arriba, New Mexico;occ:935231;representativo
+Dahalokely;-13.7717;49.5281;91.8;-32.7357;40.5653;Ambolafotsy, Antsiranana;occ:1127409;representativo
+Dakotadon;44.4747;-103.6210;134.8;41.6783;-51.8919;Chilson, Lakota, Lawrence, South Dakota;occ:489862;representativo
+Dakotaraptor;45.2332;-103.2075;69.1;51.6176;-75.9151;Hell Creek, Harding, South Dakota;occ:1303313;representativo
+Daliansaurus;41.7838;120.7642;122.7;43.3208;121.9282;Lujiatun, Yixian, Beipiao, Liaoning;occ:1589221;representativo
+Dandakosaurus;19.1069;79.8456;191.8;-29.5060;33.3231;Lower, Kota, Telangana;occ:1466175;representativo
+Dashanpusaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:1091842;representativo
+Daspletosaurus;50.7239;-111.5646;77.9;57.6710;-73.6899;Dinosaur Park, Alberta;occ:1528456;representativo
+Datanglong;22.2439;108.1947;117.3;23.4099;115.4834;Xinlong, Nanning, Guangxi;occ:1226371;representativo
+Datonglong;40.1900;114.0439;86.3;42.3654;105.2245;Upper, Huiquanpu, Tianzhen, Shanxi;occ:1320308;representativo
+Datousaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:402868;representativo
+Daurlong;48.6011;123.9808;120.5;52.7258;122.3869;Longjiang, Inner Mongolia;occ:1624445;representativo
+Daxiatitan;35.7283;103.2181;119.5;36.0846;105.3409;Upper, Gansu;occ:829375;representativo
+Deinocheirus;43.5972;100.4578;69.1;40.9618;89.3212;Upper, Nemegt, Omnogov;occ:1272864;representativo
+Deinodon;36.2811;-108.1836;77.9;43.3399;-78.7242;Kirtland, San Juan, New Mexico;occ:591644;representativo
+Deinonychus;45.2600;-108.4097;102.0;44.4998;-66.7448;Himes, Cloverly, Montana;occ:533974;representativo
+Deltadromeus;30.5057;-4.8369;97.2;18.1315;-5.3221;Gara Sbaa, Errachidia, Drâa-Tafilalet;occ:262166;representativo
+Demandasaurus;42.0166;-3.2836;122.7;32.6419;9.0500;Castrillo de la Reina, Burgos;occ:1639785;representativo
+Denversaurus;45.0005;-103.1890;69.1;51.3913;-76.0044;Hell Creek, Butte, South Dakota;occ:1588500;representativo
+Diabloceratops;37.1781;-111.3492;77.9;44.8838;-81.7943;Reynolds Point, Wahweap, Kane, Utah;occ:782319;representativo
+Diamantinasaurus;-22.1997;142.5286;95.2;-53.0767;132.6747;Winton, Queensland;occ:819844;representativo
+Diclonius;47.7403;-109.6192;77.9;54.4310;-73.4586;McClelland Ferry, Judith River, Chouteau, Montana;occ:1615096;representativo
+Dicraeosaurus;-9.7046;39.2284;146.1;-30.3061;17.2742;Upper Dinosaur, Tendaguru, Lindi;occ:475258;representativo
+Dilong;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:537572;representativo
+Dilophosaurus;35.7367;-111.0736;191.8;20.5885;-53.6311;Silty Facies, Kayenta, Coconino, Arizona;occ:1528637;representativo
+Diluvicursor;-38.8539;143.5461;111.7;-72.5903;121.5989;Eumeralla, Victoria;occ:1508978;representativo
+Dineobellator;36.3439;-108.0664;69.1;44.0661;-85.5518;Naashoibito, Ojo Alamo, San Juan, New Mexico;occ:1410249;representativo
+Dinheirosaurus;39.2164;-9.3435;150.7;34.2744;0.3097;Praia da Amoreira-Porto Novo, Lourinhã, Lisboa, Centro;occ:489575;representativo
+Diodorus;31.0634;-8.9671;221.3;17.0911;-10.7499;Irohalene, Timezgadiouine, El Sebt, Marrakech-Safi;occ:984227;representativo
+Diodorus scytobrachion;31.0634;-8.9671;221.3;;;Irohalene, Timezgadiouine, El Sebt, Marrakech-Safi;occ:984227;ocorrencia
+Diplodocus;41.8825;-106.1073;148.9;38.0249;-53.6952;Morrison, Carbon, Wyoming;occ:408855;representativo
+Diuqin;-38.5567;-68.6864;84.7;-41.6810;-51.9947;Bajo de la Carpa, Neuquén;occ:1657929;representativo
+Dongbeititan;41.7655;120.7173;122.7;43.2972;121.8846;Jianshangou, Yixian, Chaoyang, Liaoning;occ:826856;representativo
+Dongyangopelta;28.7100;119.2100;103.6;34.8304;117.8573;Chaochuan, Zhejiang;occ:1151791;representativo
+Dongyangosaurus;29.2667;120.2108;95.2;35.4627;115.3111;Jinhua, Zhejiang;occ:984121;representativo
+Draconyx;39.2753;-9.3333;147.1;33.8929;0.4824;Santa Rita, Lourinhã, Louriñha, Lisboa;occ:489359;representativo
+Dracopelta;39.0562;-9.4153;144.1;33.7337;0.2858;Freixial, Lisboa, Centro;occ:478018;representativo
+Dracorex;45.7552;-104.9529;69.1;52.4752;-77.5686;Hell Creek, Carter, Montana;occ:478795;representativo
+Dracovenator;-27.0000;26.9767;197.2;-40.3331;-0.5421;Upper, Elliot, Ladybrand, Free State;occ:461466;representativo
+Dreadnoughtus;-49.8833;-71.9833;77.9;-52.5620;-57.8044;Cerro Fortaleza, Santa Cruz;occ:1227130;representativo
+Drinker;41.9081;-105.9856;148.9;38.0331;-53.5761;Indian Fort, Morrison, Albany, Wyoming;occ:1633443;representativo
+Dromaeosauroides;55.0802;14.7524;138.1;46.5187;21.4978;Tornhøj, Jydegaard, Bornholm;occ:635128;representativo
+Dromaeosaurus;50.7503;-111.4747;77.9;57.6747;-73.5728;Dinosaur Park, Alberta;occ:628084;representativo
+Dromiceiomimus;51.9501;-112.8995;69.1;59.9611;-83.1502;Tolman, Horseshoe Canyon, Alberta;occ:517532;representativo
+Dromomeron;34.9550;-101.7042;216.5;9.1477;-41.5330;Tecovas, Randall, Texas;occ:1417822;representativo
+Dromomeron gigas;-31.6333;-67.2667;216.5;;;Quebrada del Barro, Caucete, San Juan, Argentina;occ:1347795;ocorrencia
+Dromomeron gregorii;34.4374;-109.4625;216.5;;;Mesa Redondo, Chinle, Apache, Arizona;occ:819354;ocorrencia
+Dromomeron romeri;36.3238;-106.4751;216.5;;;Petrified Forest, Chinle, Rio Arriba, New Mexico;occ:690298;ocorrencia
+Drusilasaura;-46.7181;-69.6653;95.2;-53.5162;-47.2700;Upper, Bajo Barreal, Lago Buenos Aires, Santa Cruz;occ:941813;representativo
+Dryosaurus;40.4559;-108.3916;148.9;37.0465;-60.8443;Morrison, Moffat, Colorado;occ:1123586;representativo
+Dryptosauroides;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:276690;representativo
+Dryptosaurus;43.1289;-104.4947;69.1;49.8646;-78.2631;Lance, Niobrara, Wyoming;occ:488193;representativo
+Dubreuillosaurus;49.4167;0.4000;166.8;39.2013;10.5996;Pierre de Caen, Calcaires de Caen, Calvados, Basse-Normandie;occ:297120;representativo
+Duonychus;43.4525;107.3964;92.0;44.8214;97.7909;Baynshire, Ömnögovi;occ:1690704;representativo
+Dynamoterror;36.0860;-108.1580;77.9;43.1464;-78.7690;Allison, Menefee, San Juan, New Mexico;occ:1554571;representativo
+Dyoplosaurus;50.7492;-111.4717;77.9;57.6730;-73.5702;Dinosaur Park, Alberta;occ:467015;representativo
+Dysalotosaurus;-9.6844;39.2213;150.7;-29.7247;16.9175;Middle Dinosaur, Tendaguru, Lindi;occ:475160;representativo
+Dzharaonyx;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:1627438;representativo
+Dzharatitanis;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:1548625;representativo
+Echinodon becklesii;50.6000;-1.9667;140.1;;;Worbarrow Tout, Lulworth, Dorsetshire, England, UK;occ:460028;ocorrencia
+Edmontonia;50.7399;-111.5146;77.9;57.6743;-73.6238;Dinosaur Park, Alberta;occ:565501;representativo
+Edmontosaurus;51.5541;-112.8763;69.1;59.5806;-83.3694;Horsethief, Horseshoe Canyon, Alberta;occ:1559734;representativo
+Efraasia;49.0644;8.9764;213.3;35.7091;8.8232;Löwenstein, Baden-Württemberg;occ:479548;representativo
+Einiosaurus;48.9666;-112.6500;77.9;56.2778;-76.0379;Flag Butte, Two Medicine, Glacier, Montana;occ:229315;representativo
+Ekrixinatosaurus;-39.4000;-69.2000;111.7;-43.2945;-39.6349;Candeleros, Neuquén;occ:489952;representativo
+Elaltitan;-45.9720;-69.4285;87.8;-51.8688;-48.4808;Lago Colhué Huapi, Sarmiento, Chubut;occ:508504;representativo
+Elaphrosaurus;-9.6816;39.2283;150.7;-29.7247;16.9261;Middle Dinosaur, Tendaguru, Lindi;occ:475222;representativo
+Elmisaurus;43.8664;100.0111;69.1;41.1587;88.8286;Nemegt, Omnogov;occ:937808;representativo
+Elrhazosaurus;16.4667;9.1667;117.3;2.3435;4.1935;Elrhaz, Agadez;occ:1438032;representativo
+Emausaurus;54.1333;13.0500;183.6;43.9518;19.5219;Röstock, Mecklenburg-Vorpommern;occ:256195;representativo
+Emiliasaura;-38.5000;-70.2642;134.8;-37.6256;-33.9788;Mulichinco, Neuquén;occ:1667343;representativo
+Enigmacursor mollyborthwickae;40.2614;-108.7272;148.9;;;Morrison, Moffat, Colorado, Estados Unidos;occ:1702734;ocorrencia
+Enigmosaurus;44.4500;107.3833;92.0;45.7808;97.4024;Baynshire, Dornogov;occ:1429180;representativo
+Eoabelisaurus;-43.7833;-71.5833;179.4;-42.1832;-30.1496;Cañadón Asfalto, Chubut;occ:1060300;representativo
+Eocarcharia;16.4333;9.1167;111.0;1.5723;3.6731;Elrhaz, Agadez;occ:1042714;representativo
+Eocursor;-29.2200;27.3417;197.2;-42.4463;-1.5455;Upper, Elliot, Free State;occ:686822;representativo
+Eocursor parvus;-29.2200;27.3417;197.2;;;Upper, Elliot, Free State;occ:686822;holotipo
+Eodromaeus;-30.0678;-67.9364;232.2;-44.5703;-34.2959;Valle de la Luna, Ischigualasto, San Juan;occ:908663;representativo
+Eolambia;38.7210;-111.2060;97.2;40.8518;-77.1801;Mussentuchit, Cedar Mountain, Emery, Utah;occ:1581411;representativo
+Eomamenchisaurus;25.9472;101.9089;168.1;26.2064;108.3307;Zhanghe, Yuanmou, Yunnan;occ:826867;representativo
+Eoneophron;44.7130;-103.0560;69.1;51.0888;-75.9942;Hell Creek, Meade, South Dakota;occ:1645263;representativo
+Eoraptor;-31.1011;-68.9050;230.4;-45.6503;-35.3905;Cancha de Bochas, Ischigualasto, San Juan;occ:256434;representativo
+Eosinopteryx;40.5864;119.4344;160.2;41.8400;122.5982;Tiaojishan, Jianchang, Liaoning;occ:1097931;representativo
+Eotrachodon;32.3446;-86.4003;84.7;34.2462;-56.6735;Mooreville Chalk, Montgomery, Alabama;occ:1340987;representativo
+Eotriceratops;51.9533;-112.9353;69.1;59.9711;-83.1900;Carbon, Horseshoe Canyon, Alberta;occ:703165;representativo
+Eousdryosaurus;39.2317;-9.3386;148.6;34.2858;0.3228;Praia Azul, Lourinhã, Lisboa, Centro;occ:1278697;representativo
+Epachthosaurus;-45.3167;-69.6167;95.2;-52.1171;-47.1257;Lower, Bajo Barreal, Sarmiento, Chubut;occ:405527;representativo
+Epichirostenotes;51.5863;-112.8189;77.9;58.7622;-74.4766;Drumheller, Horseshoe Canyon, Alberta;occ:1100654;representativo
+Epidexipteryx;41.3164;119.2386;163.4;43.5571;123.2927;Tiaojishan, Nei Mongol;occ:789022;representativo
+Equijubus;41.5833;97.5833;111.7;40.9457;94.0958;Upper Gray Beds, Zhonggou, Gansu;occ:460641;representativo
+Erectopus;49.3333;4.8667;111.7;38.7695;11.4129;Ardennes, Champagne-Ardenne;occ:534794;representativo
+Erketu;44.5797;109.4444;92.0;46.2985;99.3927;Baynshire, Dornogov;occ:566221;representativo
+Erlikosaurus;43.1442;107.5181;88.8;44.5471;98.0247;Baynshire, Omnogov;occ:632009;representativo
+Erythrovenator;-29.6736;-53.2344;232.2;-44.1732;-16.5557;Candelária, Agudo, Rio Grande do Sul;occ:1419303;representativo
+Eshanosaurus;24.1739;102.4019;200.4;33.4093;105.1159;Shawan, Lufeng, Eshan, Yunnan;occ:513242;representativo
+Eucnemesaurus;-28.5000;27.9333;214.4;-45.8775;2.2076;Lower, Elliot, Rosendal, Free State;occ:933075;representativo
+Eucoelophysis;36.3130;-106.4463;216.5;11.1109;-49.1585;Petrified Forest, Chinle, Rio Arriba, New Mexico;occ:528638;representativo
+Eucoelophysis baldwini;36.3130;-106.4463;216.5;;;Petrified Forest, Chinle, Rio Arriba, New Mexico;occ:528638;ocorrencia
+Euhelopus;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:717771;representativo
+Euoplocephalus;50.7282;-111.5634;77.9;57.6747;-73.6856;Dinosaur Park, Alberta;occ:1418120;representativo
+Euronychodon;40.2000;-8.5000;69.1;32.9737;-7.6579;Argilas de Aveiro, Coimbra;occ:489433;representativo
+Europasaurus;51.9000;10.4833;150.7;43.8687;17.9498;Süntel, Niedersachsen;occ:512989;representativo
+Europatitan;42.0375;-3.3061;122.7;32.6684;9.0450;Castrillo de la Reina, Burgos, Castilla y Leon;occ:636410;representativo
+Europelta;41.0227;-0.5663;111.7;29.5722;6.7064;Lower Sedimentary Succession, Escucha, Teruel, Aragón;occ:1185312;representativo
+Euskelosaurus;-28.9500;27.4333;214.4;-46.1170;1.3715;Lower, Elliot, Clocolan, Free State;occ:932996;representativo
+Fabrosaurus;-29.8500;27.2500;197.2;-42.9624;-2.0490;Upper, Elliot, Mafeteng;occ:534887;tipo
+Fabrosaurus australis;-29.8500;27.2500;197.2;;;Upper, Elliot, Mafeteng;occ:534887;ocorrencia
+Falcarius;38.9091;-110.1002;137.8;36.9427;-63.5015;Yellow Cat, Cedar Mountain, Grand, Utah;occ:495801;representativo
+Ferganasaurus;41.3331;72.1250;163.4;41.0267;76.3753;Balabansai, Jalal-Abad;occ:520778;representativo
+Ferganocephale;41.3168;72.2383;163.4;41.0321;76.4899;Balabansai, Jalal-Abad;occ:468404;tipo
+Ferganocephale adenticulatum;41.3168;72.2383;163.4;;;Balabansai, Jalal-Abad;occ:468404;ocorrencia
+Ferrisaurus;56.3249;-127.0926;69.1;63.6976;-97.6209;Tatlatui, Tango Creek, British Columbia;occ:780609;representativo
+Fona;38.7011;-111.2061;97.2;40.8327;-77.1872;Mussentuchit, Cedar Mountain, Emery, Utah;occ:1659646;tipo
+Fona herzogae;38.7011;-111.2061;97.2;;;Mussentuchit, Cedar Mountain, Emery, Utah;occ:1659646;ocorrencia
+Foraminacephale;50.8306;-111.6035;77.9;57.7793;-73.6597;Alberta;occ:606145;representativo
+Fosterovenator;41.8825;-106.1073;148.9;38.0249;-53.6952;Morrison, Carbon, Wyoming;occ:1248848;representativo
+Fostoria;-29.4612;147.9613;97.2;-60.5503;141.0453;Wallangulla Sandstone, Griman Creek, New South Wales;occ:1467235;representativo
+Fujianvenator;27.1481;119.0044;148.6;29.0283;122.8033;Nanyuan, Zhenghe, Fujian;occ:1634718;representativo
+Fukuiraptor;36.1106;138.8919;127.0;45.7841;140.4227;Lower, Sebayashi, Gunma;occ:883293;representativo
+Fukuisaurus;36.1214;136.5447;117.3;48.4600;135.7678;Kitadani, Katsuyama, Fukui;occ:395217;representativo
+Fukuititan;36.1167;136.5500;117.3;48.4568;135.7761;Kitadani, Katsuyama, Fukui;occ:801924;representativo
+Fukuivenator;36.1217;136.5447;117.3;48.4603;135.7677;Kitadani, Katsuyama, Fukui;occ:1254837;representativo
+Fulgurotherium;-29.4452;147.7802;97.2;-60.5338;140.7248;Wallangulla Sandstone, Griman Creek, New South Wales;occ:1705597;representativo
+Furcatoceratops;47.5761;-109.4069;77.9;54.2277;-73.3252;Coal Ridge, Judith River, Fergus, Montana;occ:1630841;representativo
+Fusuisaurus;22.6394;107.9075;117.3;23.6383;115.0275;Xinlong, Fusui, Guangxi;occ:828528;representativo
+Futalognkosaurus;-38.4532;-68.7246;89.8;-44.3826;-47.1709;Portezuelo, Neuquén;occ:489976;representativo
+Fylax;41.8667;0.8833;69.1;33.4205;1.0132;Figuerola, Lleida, Cataluña;occ:1561583;representativo
+Galeamopus;43.6492;-106.7806;148.9;39.8534;-53.8870;Morrison, Johnson, Wyoming;occ:485071;representativo
+Galleonosaurus;-38.6628;145.6801;120.5;-78.2311;112.4615;"Wonthaggi", Victoria;occ:1550660;representativo
+Gallimimus;43.5944;100.4667;69.1;40.9604;89.3303;Nemegt, Omnogov;occ:2056773;representativo
+Galvesaurus;40.6630;-0.8846;148.6;32.3835;7.9328;Villar del Arzobispo, Teruel, Aragón;occ:527946;representativo
+Gamatavus;-29.7769;-54.1000;239.2;-51.8625;-19.1961;Santa Maria, Dilermando de Aguiar, Rio Grande do Sul;occ:1615939;tipo
+Gamatavus antiquus;-29.7769;-54.1000;239.2;;;Santa Maria, Dilermando de Aguiar, Rio Grande do Sul;occ:1615939;ocorrencia
+Gandititan;25.7975;114.8978;95.2;30.1629;112.3631;Zhoutian, Ganxian, Jiangxi;occ:1644610;representativo
+Ganzhousaurus;25.8167;114.9333;69.1;25.6065;108.5969;Jiangxi;occ:1126121;representativo
+Gargoyleosaurus;41.9671;-106.2910;148.6;38.1337;-53.8456;Morrison, Albany, Wyoming;occ:491253;representativo
+Garudimimus;43.1442;107.5181;88.8;44.5471;98.0247;Baynshire, Omnogov;occ:804049;representativo
+Garumbatitan;40.5966;-0.1796;123.6;30.2690;10.6320;Arcillas de Morella, Els Ports, Castellón;occ:1269701;representativo
+Gasosaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:402867;representativo
+Gastonia;38.8261;-109.5679;134.8;37.3783;-63.1590;Yellow Cat, Cedar Mountain, Grand, Utah;occ:284148;representativo
+Genusaurus;44.1833;5.9000;108.2;33.6349;12.4185;Marnes bleues, Provence-Alpes-Côte-d'Azur;occ:651823;representativo
+Genyodectes;-44.4833;-70.0093;106.8;-50.2625;-43.0480;Cerro Castaño, Cerro Barcino, Paso de Indios, Chubut;occ:465496;representativo
+Gideonmantellia;40.6476;-0.8833;123.6;30.5688;10.1160;Camarillas, Teruel, Aragón;occ:382521;representativo
+Giganotosaurus;-39.2065;-68.7167;111.7;-43.0965;-39.1251;Candeleros, Neuquén;occ:513397;representativo
+Gigantoraptor;43.5489;111.8708;77.9;42.7770;101.0622;Iren Dabasu, Sonid Zuoqi, Nei Mongol;occ:679941;representativo
+Gigantspinosaurus;29.2182;104.7078;164.8;28.9654;109.4617;Upper, Shaximiao, Zigong, Sichuan;occ:624286;representativo
+Gilmoreosaurus;43.7722;111.9292;77.9;43.0035;101.0370;Iren Dabasu, Nei Mongol;occ:487485;representativo
+Giraffatitan;-9.7046;39.2284;146.1;-30.3061;17.2742;Upper Dinosaur, Tendaguru, Lindi;occ:475246;representativo
+Glacialisaurus;-84.3333;166.4500;191.8;-58.0321;34.0838;Hanson;occ:475135;representativo
+Glishades;48.9380;-112.6507;77.9;56.2511;-76.0566;Flag Butte, Two Medicine, Glacier, Montana;occ:869289;representativo
+Glyptodontopelta;36.2874;-108.0954;69.1;44.0165;-85.6016;Naashoibito, Ojo Alamo, San Juan, New Mexico;occ:1410232;representativo
+Gnathovorax;-29.6311;-53.4506;230.4;-44.1584;-16.8234;Santa Maria, Rio Grande do Sul;occ:1486218;representativo
+Gobihadros;43.5042;107.7625;88.8;44.9411;98.1335;Baynshire, Omnogov;occ:1093937;representativo
+Gobiraptor;43.5000;100.3333;69.1;40.8481;89.2308;Nemegt, Omnogov;occ:1432424;representativo
+Gobisaurus;34.0872;112.5608;111.0;36.4830;111.1033;Haoling, Ruyang, Henan;occ:741048;representativo
+Gobititan;41.5094;97.6167;111.7;40.8804;94.1523;Upper Gray Beds, Zhonggou, Gansu;occ:602121;representativo
+Gobivenator;44.0514;102.8222;77.9;41.5531;92.3810;Djadokhta, Ömnögovi Aimag;occ:1191167;representativo
+Gojirasaurus;35.3653;-103.3800;216.5;9.7254;-42.8592;Bull Canyon, Quay, New Mexico;occ:490747;representativo
+Gondwanatitan;-5.1383;-55.7728;74.8;-7.5966;-37.0333;Cambambe, Mato Grosso;occ:691651;representativo
+Gongbusaurus;29.4833;104.3667;164.8;;;Upper, Shaximiao, Sichuan;occ:572133;tipo
+Gongbusaurus shiyii;29.4833;104.3667;164.8;;;Upper, Shaximiao, Sichuan;occ:572133;ocorrencia
+Gongbusaurus wucaiwanensis;45.1913;88.9199;160.1;;;Shishugou, Xinjiang;occ:840219;ocorrencia
+Gongpoquansaurus;41.5750;97.5833;111.7;40.9376;94.0986;Upper Gray Beds, Zhonggou, Subei, Gansu;occ:458365;representativo
+Gongxianosaurus;28.3500;104.7833;179.4;31.3151;111.2192;Dongyuemiao, Ziliujing, Gongxian, Sichuan;occ:513498;representativo
+Gorgosaurus;50.7407;-111.5287;77.9;57.6783;-73.6388;Dinosaur Park, Alberta;occ:139242;representativo
+Goyocephale;48.5833;102.0667;75.8;44.9179;92.1048;Omnogov;occ:149987;representativo
+Graciliraptor;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:811553;representativo
+Gravitholus;50.7753;-111.5728;77.9;57.7207;-73.6637;Dinosaur Park, Alberta;occ:715649;representativo
+Gresslyosaurus;47.4667;7.7333;208.4;33.9104;8.7670;Knollenmergel, Liestal, Basel-Landschaft;occ:479551;representativo
+Gryphoceratops;49.0837;-111.4361;84.7;56.1099;-74.6237;Deadhorse Coulee, Milk River, Alberta;occ:1024996;representativo
+Gryposaurus;50.7430;-111.5187;77.9;57.6781;-73.6262;Dinosaur Park, Alberta;occ:1706132;representativo
+Guaibasaurus;-29.6814;-52.8411;216.5;-37.6825;-15.3478;Caturrita, Rio Grande do Sul;occ:897618;representativo
+Gualicho;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1407897;representativo
+Guanlong;45.1712;88.9217;158.2;46.7661;91.2935;Upper, Shishugou, Xinjiang;occ:560918;representativo
+Guemesia;-24.8389;-65.3867;74.8;-26.3153;-48.6927;Los Blanquitos, Salta;occ:1601923;representativo
+Hadrosaurus;40.3000;-74.3000;77.9;38.8641;-42.1054;Marshalltown, Monmouth, New Jersey;occ:255623;representativo
+Hagryphus;37.6471;-111.8624;77.9;45.4443;-82.1745;Kaiparowits, Garfield, Utah;occ:560990;representativo
+Halszkaraptor;43.6644;100.9019;77.9;40.8252;90.7334;Bayn Dzak, Djadokhta, Omnogov;occ:1386650;representativo
+Haplocanthosaurus;39.2000;-106.9333;152.0;35.6230;-59.7305;Morrison, Pitkin, Colorado;occ:1248398;representativo
+Haplocheirus;45.1913;88.9199;158.2;46.7853;91.2847;Middle, Shishugou, Xinjiang;occ:1093827;representativo
+Harpymimus;45.8458;108.3986;105.3;48.6459;101.0198;Lower, Khuren Dukh, Dornogov;occ:513561;representativo
+Haya;44.3937;109.3532;79.0;43.1102;98.3695;Javkhlant, Dornogov;occ:920588;representativo
+Haya griva;44.3937;109.3532;79.0;;;Javkhlant, Dornogov;occ:920588;holotipo
+Heptasteornis;45.5500;22.9167;69.1;;;lower, Sînpetru, Hunedoara;occ:905414;representativo
+Herrerasaurus;-29.2167;-68.7000;232.2;-43.7590;-35.2881;Ischigualasto, Valle Fertíl, San Juan;occ:518725;representativo
+Hesperonychus;49.9567;-110.2662;77.9;56.6551;-72.7802;Dinosaur Park, Alberta;occ:805393;representativo
+Hesperonyx;39.2160;-9.3440;150.7;34.2742;0.3090;Praia da Amoreira-Porto Novo, Lourinhã, Lisboa, Centro;occ:1657939;representativo
+Hesperornithoides;42.6294;-105.4390;148.9;38.6657;-52.8969;Morrison, Converse, Wyoming;occ:693187;representativo
+Hesperosaurus;44.6500;-107.8167;152.0;40.9802;-54.5877;Morrison, Big Horn, Wyoming;occ:467545;representativo
+Heterodontosaurus;-30.5333;27.5333;196.2;-43.6794;-2.2048;Clarens, Herschel, Eastern Cape;occ:566780;representativo
+Heterodontosaurus tucki;-30.5667;27.4333;197.2;;;Upper, Elliot, Herschel, Eastern Cape;occ:790006;ocorrencia
+Hexing;41.5840;120.9510;122.7;43.1452;122.1601;Lujiatun, Yixian, Beipiao City, Liaoning;occ:1070037;representativo
+Hexinlusaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:402859;representativo
+Hexinlusaurus multidens;29.4114;104.8525;162.9;;;Lower, Shaximiao, Zigong, Sichuan;occ:402859;holotipo
+Heyuannia;23.7690;114.7320;69.1;23.6902;109.4160;Dongyuan, Dongyuan, Guangdong;occ:533360;representativo
+Hippodraco;38.8293;-109.4709;134.8;37.3660;-63.0651;Yellow Cat, Cedar Mountain, Grand, Utah;occ:922735;representativo
+Histriasaurus;45.0406;13.7836;127.0;28.5915;21.5538;Istarska;occ:283057;representativo
+Homalocephale;43.4917;101.2750;69.1;40.9809;90.1176;Nemegt, Omnogov;occ:678493;representativo
+Hoplitosaurus;43.5089;-103.3369;123.6;42.5691;-51.9292;Chilson, Lakota, Custer, South Dakota;occ:477945;representativo
+Huabeisaurus;40.1900;114.0439;86.3;42.3654;105.2245;Upper, Huiquanpu, Tianzhen, Shanxi;occ:460633;representativo
+Huallasaurus;-41.9547;-66.3267;69.1;-44.2739;-54.4824;Middle, Los Alamitos, Río Negro;occ:457538;representativo
+Huanansaurus;25.8167;114.9333;69.1;25.6065;108.5969;Hekou, Ganzhou, Jiangxi;occ:1285645;representativo
+Huanghetitan;35.9408;103.3128;119.5;36.3085;105.3790;Upper, Gansu;occ:785829;representativo
+Huangshanlong;29.7167;118.3333;168.1;33.8237;123.2739;Hongqin, Huangshan, Anhui;occ:1244127;representativo
+Huaxiagnathus;42.0225;125.0568;122.7;44.0532;126.2414;Yixian, Liaoning;occ:535892;representativo
+Huayangosaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:402861;representativo
+Hudiesaurus;42.8667;90.1667;147.7;44.0203;92.8830;Kalazha, Shanshan, Xinjiang;occ:458375;representativo
+Huehuecanauhtlus;19.0500;-100.7000;84.7;24.8593;-75.0266;Cutzamala, Tiquicheo, Michoacán;occ:544987;representativo
+Huinculsaurus;-39.1997;-69.1500;108.2;-43.0938;-39.5850;Huincul, Neuquén;occ:1501053;representativo
+Hulsanpes;43.4996;101.1254;77.9;40.7068;90.9953;Baruungoyot, Omnogov;occ:1341984;representativo
+Hungarosaurus;47.2167;17.6000;84.7;;;Csehbánya, Veszprém;occ:486494;representativo
+Hypacrosaurus;51.9064;-112.9701;69.1;59.9334;-83.2602;Alberta;occ:463094;representativo
+Hypnovenator;35.0750;135.1597;109.8;47.1037;132.2549;Ohyamashimo, Hyōgo;occ:1662375;representativo
+Hypselosaurus;43.4774;5.2396;69.1;35.7039;4.1399;Bouches-du-Rhône, Provence-Alpes-Côte d'Azur;occ:487219;representativo
+Hypsibema;35.0442;-78.2228;77.9;34.8161;-47.8160;Sampson, North Carolina;occ:659793;representativo
+Hypsilophodon foxii;50.6171;-1.3711;123.6;;;Wessex, Isle of Wight, England, UK;occ:280867;ocorrencia
+Iani;38.7208;-111.1854;97.2;40.8474;-77.1597;Mussentuchit, Cedar Mountain, Emery, Utah;occ:1614873;representativo
+Iberospinus;38.4439;-9.2073;123.6;31.7878;2.3148;Papo Seco, Setübal, Lisboa;occ:1549222;representativo
+Ibirania;-20.9947;-49.2553;79.0;-25.8798;-29.6613;São José do Rio Preto, São Paulo;occ:1606409;representativo
+Ichthyovenator;16.3200;105.6700;117.3;16.9431;114.0662;Grès supérieurs, Savannakhet;occ:1066204;representativo
+Igai;24.5933;30.5992;77.9;7.0983;26.5140;Quseir;occ:880871;representativo
+Ignavusaurus;-30.0667;28.3833;197.2;-43.6214;-1.0056;Upper, Elliot, Qacha's Nek;occ:897529;representativo
+Ignotosaurus;-30.1142;-67.9039;232.2;-44.6149;-34.2526;Cancha de Bochas, Ischigualasto, San Juan;occ:1180352;representativo
+Ignotosaurus fragilis;-30.1142;-67.9039;232.2;;;Cancha de Bochas, Ischigualasto, San Juan;occ:1180352;ocorrencia
+Iguanacolossus;38.7319;-109.5928;135.8;37.2900;-63.2070;Yellow Cat, Cedar Mountain, Utah;occ:883362;representativo
+Ilokelesia;-39.1997;-69.1500;108.2;-43.0938;-39.5850;Huincul, Neuquén;occ:297299;representativo
+Imperobator;-64.0003;-57.5080;69.1;-62.0468;-68.2795;Cape Lamb, Snow Hill Island;occ:702962;representativo
+Inawentu;-37.5931;-69.3156;84.7;-40.6630;-52.4874;Bajo de la Carpa, Neuquén;occ:1639064;representativo
+Incisivosaurus;42.0014;121.6925;111.0;45.8596;117.9243;Fuxin, Liaoning;occ:877671;representativo
+Indosaurus;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:276683;representativo
+Indosuchus;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:276682;representativo
+Ingentia;-31.6000;-67.4000;216.5;-41.1458;-30.8173;Quebrada del Barro, Caucete Department, San Juan;occ:1421955;representativo
+Invictarx;35.4600;-108.5200;77.9;42.6218;-79.3837;Allison, Menefee, San Juan, New Mexico;occ:1416047;representativo
+Irisosaurus;24.6490;102.2374;188.6;30.1119;108.5910;Upper, Fengjiahe, Yuxi, Yunnan;occ:1514312;representativo
+Irritator;-7.2167;-39.2667;116.4;-8.9309;-7.9274;Romualdo, Ceará;occ:294055;representativo
+Isaberrysaura;-39.2053;-70.2633;169.8;-36.8938;-31.1295;Los Molles, Neuquén;occ:1360627;representativo
+Isanosaurus;16.3333;101.9833;183.8;18.9303;109.5220;upper, Nam Phong, Chaiyaphum;occ:487267;representativo
+Ischioceratops;35.9956;119.4099;77.9;36.2944;110.4002;Hongtuya, Zhucheng, Shandong;occ:1330880;representativo
+Isisaurus;21.4208;78.0000;69.1;-26.8059;60.1011;Lameta, Betul, Madhya Pradesh;occ:1587035;representativo
+Issi;71.3836;-22.5686;216.5;44.7272;-2.0095;Malmros Klint;occ:283860;representativo
+Itapeuasaurus;-2.8861;-44.6664;97.2;-9.6237;-20.3733;Alcântara, Maranhão;occ:1456184;representativo
+Itemirus;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:1247392;representativo
+Ixalerpeton;-29.6586;-53.4358;232.2;-44.1837;-16.8002;Alemoa, Santa Maria, São João do Polêsine, Rio Grande do Sul;occ:1347761;representativo
+Ixalerpeton polesinensis;-29.6586;-53.4358;232.2;;;Alemoa, Santa Maria, São João do Polêsine, Rio Grande do Sul;occ:1347761;ocorrencia
+Jaculinykus;43.5056;101.0783;77.9;40.7039;90.9497;Baruungoyot, Omnogov;occ:1639584;representativo
+Jainosaurus;23.1687;79.9723;69.1;-25.9830;62.7683;Mottled Nodular Marl, Lameta, Jabalpur, Madhya Pradesh;occ:276699;representativo
+Jakapil;-39.7148;-68.6028;111.7;-43.6037;-38.9955;Candeleros, Río Negro;occ:1626563;representativo
+Jaklapallisaurus;19.2333;79.5500;216.5;-33.8008;36.6894;Upper, Maleri, Andhra Pradesh;occ:1066208;representativo
+Janenschia;-9.6946;39.2323;146.1;-30.2983;17.2828;Upper Dinosaur, Tendaguru, Lindi;occ:475142;representativo
+Jaxartosaurus;42.7610;68.5350;86.7;38.2438;62.1598;Dabrazhin, Turkistan;occ:520730;representativo
+Jeholosaurus;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:536670;representativo
+Jeholosaurus shangyuanensis;41.6034;120.9133;122.7;;;Lujiatun, Yixian, Beipiao, Liaoning;occ:536670;holotipo
+Jeyawati;35.0667;-108.8500;91.8;38.4947;-77.5042;Lower, Moreno Hill, Catron, New Mexico;occ:516844;representativo
+Jianchangosaurus;37.4289;122.0647;122.7;39.1668;124.1201;Yixian, Jianchang, Liaoning;occ:1139809;representativo
+Jiangjunosaurus;44.8372;90.0646;158.2;46.6323;92.5534;Upper, Shishugou, Xinjiang;occ:828525;representativo
+Jiangshanosaurus;28.6000;118.5167;95.2;34.1617;114.1239;Jinhua, Jiangshan, Zhejiang;occ:504248;representativo
+Jiangxisaurus;25.7292;114.8064;69.1;25.4771;108.5269;Ganzhou, Jiangxi;occ:1163955;representativo
+Jiangxititan;25.7447;114.8317;69.1;25.5012;108.5418;Ganzhou, Jiangxi;occ:1635258;representativo
+Jianianhualong;41.1340;121.1381;122.7;42.7224;122.4450;Dakangpu, Yixian, Yixian, Liaoning;occ:1439337;representativo
+Jinbeisaurus;40.1900;114.0439;86.3;42.3654;105.2245;Upper, Huiquanpu, Tianzhen, Shanxi;occ:1521049;representativo
+Jinfengopteryx;40.3739;116.3633;123.6;41.4121;117.7894;Qiaotou, Huajiying, Fengning, Hebei;occ:1206354;representativo
+Jingshanosaurus;25.1330;102.0830;200.4;34.3280;104.6344;Shawan, Lufeng, Lufeng, Yunnan;occ:472008;representativo
+Jintasaurus;40.2786;98.1436;117.3;39.9942;97.3054;Upper Gray Beds, Xiagou, Jinta, Gansu;occ:915091;representativo
+Jinyunpelta;28.6660;120.1739;106.8;35.2068;118.7834;Liangtoutang, Jinyun, Zhejiang;occ:1407043;representativo
+Jinzhousaurus;41.1340;121.1381;122.7;42.7224;122.4450;Dakangpu, Yixian, Yixian, Liaoning;occ:626780;representativo
+Jobaria;16.6325;7.3092;152.3;7.4108;2.4189;Tiourarén, Agadez;occ:567920;representativo
+Jubbulpuria;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:276687;representativo
+Judiceratops;48.9286;-110.6110;77.9;55.7745;-73.8162;McLelland Ferry, Judith River, Hill, Montana;occ:2072248;representativo
+Juravenator;48.9183;11.5847;150.7;40.9504;19.2107;Painten, Eichstätt, Bayern;occ:565780;representativo
+Kaatedocus;44.5356;-107.7792;152.0;40.8627;-54.5830;Morrison, Big Horn, Wyoming;occ:467551;representativo
+Kaijiangosaurus;31.0806;107.8847;169.6;32.5987;112.4775;Lower, Shaximiao, Kaijiang, Sichuan;occ:1404245;representativo
+Kaijutitan;-37.3753;-69.0517;87.8;-43.2947;-47.4646;Sierra Barrosa, Pehuenches, Neuquén;occ:1435923;representativo
+Kamuysaurus;42.8569;142.1403;69.1;46.7449;130.7351;Lower sandy Siltstone, Hakobuchi, Hobetsu, Hokkaido;occ:1487826;representativo
+Kangnasaurus;-29.5203;18.4194;83.3;-44.0137;2.9658;Western Cape;occ:632231;representativo
+Karongasaurus;-10.2833;34.0250;117.3;-31.8584;16.7334;Upper, Dinosaur Beds, Karonga, Northern;occ:501487;representativo
+Katepensaurus;-44.9067;-69.3789;95.2;-51.7136;-46.8293;Lower, Bajo Barreal, Chubut;occ:1181607;representativo
+Kayentavenator;35.7333;-111.0667;191.8;20.5844;-53.6257;Silty Facies, Kayenta, Coconino, Arizona;occ:513181;representativo
+Kazaklambia;41.7038;69.3903;86.7;37.3373;63.2162;Dabrazhin, Ongtustik Qazaqstan;occ:520732;representativo
+Kelmayisaurus;46.1000;85.6667;118.8;44.2775;86.5350;Lianmuqin, Xinjiang;occ:493233;representativo
+Kelumapusaura;-39.5033;-67.3719;69.1;-41.7564;-55.2301;Upper, Allen, El Cuy, Río Negro;occ:1634410;representativo
+Kentrosaurus;-9.7046;39.2284;146.1;-30.3061;17.2742;Upper Dinosaur, Tendaguru, Lindi;occ:475261;representativo
+Kerberosaurus;49.0828;130.8595;69.1;51.0715;116.9937;Udurchukan, Arkharinskii, Amur;occ:1044068;representativo
+Khaan;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Omnogov Aimak;occ:389121;representativo
+Kholumolumo;-30.2167;27.5167;216.5;-51.6719;-1.5039;Lower, Elliot, Mohale's Hoek;occ:538678;representativo
+Khulsanurus;43.4667;101.5167;77.9;40.7468;91.3688;Baruungoyot, Omnogov;occ:1604958;representativo
+Kileskus;55.6500;89.1833;166.8;57.9436;86.6525;Upper, Itat, Sharypovo, Krasnoyarsk;occ:587352;representativo
+Kinnareemimus;16.6833;102.2500;123.6;13.3255;111.4359;Sao Khua, Phu Wiang, Khon Kaen;occ:380651;representativo
+Klamelisaurus;44.8372;90.0646;163.4;47.7733;92.8568;Lower, Shishugou, Xinjiang;occ:1107999;representativo
+Kol;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Omnogov;occ:887797;representativo
+Koleken;-42.9608;-67.5547;69.1;-45.1829;-55.8946;A, La Colonia, Chubut;occ:1587111;representativo
+Kongonaphon;-22.9167;44.5500;234.4;-39.3848;27.6248;Lower, Isalo II, Toliara;occ:1514311;representativo
+Kongonaphon kely;-22.9167;44.5500;234.4;;;Lower, Isalo II, Toliara;occ:1514311;ocorrencia
+Koreanosaurus;34.7062;127.1975;77.9;39.0455;115.9292;Seonso Conglomerate, Boseong-gun, Jeollanam-do;occ:892266;representativo
+Koreanosaurus boseongensis;34.7062;127.1975;77.9;;;Seonso Conglomerate, Boseong-gun, Jeollanam-do;occ:892266;ocorrencia
+Koshisaurus;36.1167;136.5500;117.3;48.4568;135.7761;Kitadani, Katsuyama, Fukui;occ:1254437;representativo
+Kosmoceratops;37.5320;-111.7010;77.9;45.2993;-82.0427;Kaiparowits, Kane, Utah;occ:882009;representativo
+Kotasaurus;19.1069;79.8456;191.8;-29.5060;33.3231;Lower, Kota, Telangana;occ:220038;representativo
+Kritosaurus;36.2944;-108.1025;77.9;43.3351;-78.6327;Fruitland/Kirtland, San Juan, New Mexico;occ:539928;representativo
+Kryptops;16.4333;9.1167;111.0;1.5723;3.6731;Elrhaz, Agadez;occ:757986;representativo
+Kulindadromeus;52.5197;116.7158;166.8;59.7782;118.3552;Upper, Ukureyskaya, Chernyshevskiy, Zabaykal'ye;occ:1217033;representativo
+Kulindadromeus zabaikalicus;52.5197;116.7158;166.8;;;Upper, Ukureyskaya, Chernyshevskiy, Zabaykal'ye;occ:1217033;ocorrencia
+Kunbarrasaurus;-20.8667;143.5833;103.4;-52.9808;130.7761;Toolebuc, Queensland;occ:474477;representativo
+Kundurosaurus;49.0828;130.8595;69.1;51.0715;116.9937;Udurchukan, Arkharinskii, Amur;occ:1044068;representativo
+Kuru;43.4886;101.1456;77.9;40.6998;91.0177;Baruungoyot, Omnogov;occ:1581457;representativo
+Kurupi;-21.2942;-48.5194;69.1;-24.8546;-34.1146;Echaporã, Marília, Monte Alto, São Paulo;occ:1588710;representativo
+Kwanasaurus;39.8690;-106.9060;214.4;16.1234;-50.7269;Chinle, Garfield, Colorado;occ:1480126;representativo
+Kwanasaurus williamparkeri;39.8690;-106.9060;214.4;;;Chinle, Garfield, Colorado;occ:1480126;ocorrencia
+Labocania;25.5419;-101.3588;77.9;31.2985;-73.8625;Cerro del Pueblo, Coahuila;occ:1686975;representativo
+Laevisuchus;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:276687;representativo
+Lagerpeton;-29.8489;-67.7844;239.2;-49.9084;-37.7220;Chañares, La Rioja;occ:573793;tipo
+Lagerpeton chanarensis;-29.8489;-67.7844;239.2;;;Chañares, La Rioja;occ:573793;holotipo
+Lagosuchus;-29.8231;-67.8206;239.2;-49.8789;-37.7654;Chañares, La Rioja;occ:573786;representativo
+Lagosuchus talampayensis;-29.8308;-67.8242;239.2;;;Chañares, La Rioja;occ:573787;ocorrencia
+Laiyangosaurus;36.8865;120.6590;77.9;37.3919;111.3672;Jingangkou, Laiyang, Shandong;occ:1417107;representativo
+Lajasvenator;-38.5000;-70.2642;134.8;-37.6256;-33.9788;Mulichinco, Neuquén;occ:1554754;representativo
+Lambeosaurus;50.7332;-111.5466;77.9;57.6755;-73.6637;Dinosaur Park, Alberta;occ:565103;representativo
+Lamplughsaura;19.2500;79.5333;197.2;-28.2867;34.0596;Upper, Dharmaram, Adilabad, Andhra Pradesh;occ:637751;representativo
+Lanzhousaurus;36.7000;103.9000;119.5;37.1501;105.7572;Gansu;occ:777771;representativo
+Laosaurus;41.9077;-105.9634;148.9;38.0296;-53.5556;Lake Como, Morrison, Albany, Wyoming;occ:408403;representativo
+Laosaurus celer;41.8931;-106.0022;148.9;;;Talking Rocks, Morrison, Albany, Wyoming;occ:408776;ocorrencia
+Laosaurus gracilis;41.8931;-106.0022;148.9;;;Talking Rocks, Morrison, Albany, Wyoming;occ:408777;ocorrencia
+Laosaurus minimus;49.5784;-114.2418;77.9;;;Allison, Alberta, Canadá;occ:475311;ocorrencia
+Lapampasaurus;-38.0333;-67.8167;69.1;-40.2599;-55.5003;Lower, Allen, Puelén, La Pampa;occ:487125;representativo
+Laplatasaurus;-38.8379;-68.0357;77.9;-42.0238;-51.3658;Anacleto, General Roca, Río Negro;occ:508093;representativo
+Lapparentosaurus;-16.5000;47.1272;166.8;-23.4165;25.2089;Isalo III, Mahajanga;occ:513261;representativo
+Laquintasaura;8.1372;-71.9856;200.4;1.0584;-42.1175;La Quinta, La Grita, Táchira;occ:534508;representativo
+Laquintasaura venezuelae;8.1372;-71.9856;200.4;;;La Quinta, La Grita, Táchira;occ:534508;ocorrencia
+Latenivenatrix;50.7796;-111.4108;77.9;57.6872;-73.4824;Dinosaur Park, Alberta;occ:1625190;representativo
+Latirhinus;25.4708;-101.7000;77.9;31.3085;-74.2322;Cerro del Pueblo, Coahuila;occ:248594;representativo
+Lavocatisaurus;-38.3528;-69.9158;115.8;-40.4073;-38.0695;Pichi Neuquén, Rayoso, Picunches, Neuquén;occ:1040409;representativo
+Ledumahadi;-28.6219;28.4114;197.2;-42.3584;-0.0456;Upper, Elliot, Free State;occ:1419237;representativo
+Leinkupal;-39.8175;-69.6742;135.8;-38.8753;-33.1904;Bajada Colorada, Neuquén;occ:1205594;representativo
+Leonerasaurus;-42.8341;-69.4327;188.6;-42.9528;-26.9159;Upper, Las Leoneras, Chubut;occ:913303;representativo
+Lepidus;32.1804;-101.3216;216.5;6.3548;-41.5388;Howard, Texas;occ:1419050;representativo
+Leptoceratops;52.0810;-113.0052;69.1;60.1059;-83.1912;Scollard, Alberta;occ:604289;representativo
+Leptorhynchos;29.3167;-103.5167;77.9;35.4408;-74.9043;Alto Shale, Aguja, Brewster, Texas;occ:1130183;representativo
+Leshansaurus;29.0939;104.0524;164.8;28.6831;108.8760;Upper, Shaximiao, Qianwei, Sichuan;occ:837683;representativo
+Lesothosaurus;-30.4000;27.6500;197.2;-43.6109;-1.9943;Upper, Elliot, Quthing;occ:534935;representativo
+Lesothosaurus diagnosticus;-30.6167;27.8000;197.2;;;Upper, Elliot, Herschel, Eastern Cape, África do Sul;occ:534735;holotipo
+Lessemsaurus;-30.4167;-66.0833;216.5;-41.0341;-29.5684;Los Colorados, Independencia, La Rioja;occ:539206;representativo
+Levnesovia;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:559654;representativo
+Lewisuchus;-29.8506;-67.7797;155.8;-27.2324;-31.5788;Lower, Chañares, La Rioja;occ:272328;representativo
+Lewisuchus admixtus;-29.8506;-67.7797;155.8;;;Lower, Chañares, La Rioja;occ:272328;ocorrencia
+Leyesaurus;-31.6000;-67.4000;188.1;-31.6965;-28.7451;Caucete, San Juan;occ:1063646;representativo
+Liaoningosaurus;39.8786;123.4389;122.7;41.7483;125.0385;Dakangpu, Yixian, Liaoning;occ:537315;representativo
+Liaoningotitan;41.4793;125.3130;122.7;43.5458;126.6187;Jianshangou, Yixian, Liaoning;occ:1419048;representativo
+Liaoningvenator;41.7838;120.7642;122.7;43.3208;121.9282;Lujiatun, Yixian, Beipiao, Liaoning;occ:1589214;representativo
+Ligabueino;-39.5087;-70.0667;122.7;-38.8775;-35.9699;Puesto Antigual, La Amarga, Catan Lil, Neuquén;occ:561803;representativo
+Ligabuesaurus;-39.5922;-69.3969;111.7;-43.4884;-39.8409;Cullín Grande, Lohan Cura, Neuquén;occ:583841;representativo
+Liliensternus;50.3833;10.5500;216.5;32.9528;10.4886;Knollenmergel, Trossingen, Thuringia;occ:486413;representativo
+Limaysaurus;-39.3114;-68.7965;111.7;-43.2022;-39.2080;Candeleros, Neuquén;occ:513399;representativo
+Limusaurus;45.1712;88.9217;158.2;46.7661;91.2935;Upper, Shishugou, Xinjiang;occ:935638;representativo
+Lingwulong;38.0500;106.6833;168.1;41.5080;110.8625;Ningxia;occ:1412529;representativo
+Lingyuanosaurus;40.9128;119.4958;117.3;44.5093;118.3765;3, Jiufotang, Liaoning;occ:1542827;representativo
+Linhenykus;41.7439;106.7444;77.9;39.5827;96.5461;Wulansuhai, Nei Mongol;occ:1066198;representativo
+Linheraptor;41.7439;106.7444;77.9;39.5827;96.5461;Wulansuhai, Nei Mongol;occ:1066199;representativo
+Lirainosaurus;39.6000;-0.9667;74.8;30.7303;2.0249;Sierra Perenchiza, Valencia;occ:528128;representativo
+Lishulong;34.1247;111.9725;187.1;39.7636;117.7399;Shawan, Lufeng, Lufeng, Yunnan;occ:1682381;representativo
+Liubangosaurus;22.6394;107.9075;117.3;23.6383;115.0275;Xinlong, Fusui, Guangxi;occ:914482;representativo
+Llukalkan;-37.5931;-69.3156;84.7;-40.6630;-52.4874;Bajo de la Carpa, Neuquén;occ:1554597;representativo
+Lokiceratops;48.8870;-110.7430;77.9;55.7660;-73.9866;McClelland Ferry, Judith River, Hill, Montana;occ:1658308;representativo
+Loncosaurus;-49.5833;-69.5667;93.1;-56.3817;-47.3557;Mata Amarilla, Santa Cruz;occ:488642;representativo
+Lophorhothon;32.4189;-87.1847;84.7;34.5100;-57.4152;Mooreville Chalk, Dallas, Alabama;occ:513680;representativo
+Lophostropheus;49.2167;1.0833;202.6;36.3598;4.4725;Moon-Airel, Manche, Basse-Normandie;occ:491743;representativo
+Losillasaurus;40.1167;-1.1500;148.9;31.9990;7.4157;Villar del Arzobispo, Teruel;occ:1525180;representativo
+Lourinhanosaurus;39.2833;-9.3333;148.6;34.3286;0.3581;Praia da Amoreira-Porto Novo, Lourinhã, Lisboa, Centro;occ:489386;representativo
+Lourinhasaurus;39.5481;-8.9764;150.7;34.4218;0.8073;Praia da Amoreira-Porto Novo, Lourinhã, Leiria, Centro;occ:489327;representativo
+Luanchuanraptor;34.0167;111.6500;69.1;32.7595;101.9442;Qiupa, Luanchuan, Henan;occ:914477;representativo
+Lucianovenator;-31.6333;-67.2667;216.5;-41.1543;-30.6606;Quebrada del Barro, Caucete, San Juan;occ:1347830;representativo
+Lufengosaurus;25.1727;102.1073;196.2;33.0784;107.4132;Zhangjia'ao, Lufeng, Yunnan;occ:735596;representativo
+Luoyanggia;34.1120;112.5893;111.0;36.5124;111.1249;Haoling, Ruyang, Henan;occ:984143;representativo
+Lurdusaurus;16.7000;9.3333;106.8;0.8732;3.6341;Elrhaz, Agadez;occ:297697;representativo
+Lusotitan;39.2358;-9.3400;148.6;34.2899;0.3241;Praia da Amoreira-Porto Novo, Lourinhã, Lisboa, Centro;occ:489244;representativo
+Lusovenator;39.2011;-9.3472;150.7;34.2625;0.2975;Praia da Amoreira-Porto Novo, Lourinhã, Centro;occ:1474010;representativo
+Lutungutali;-10.8339;33.1869;237.2;-52.6373;23.5571;upper, Ntawere, Eastern;occ:1178773;representativo
+Lutungutali sitwensis;-10.8339;33.1869;237.2;;;upper, Ntawere, Eastern;occ:1178773;ocorrencia
+Lycorhinus;-30.4333;28.5167;197.2;-43.9985;-1.1076;Upper, Elliot, Mt. Fletcher, Eastern Cape;occ:645109;representativo
+Lycorhinus angustidens;-30.4333;28.5167;197.2;;;Upper, Elliot, Mt. Fletcher, Eastern Cape;occ:645109;ocorrencia
+Lythronax;37.1911;-111.6467;77.9;44.9592;-82.1121;Reynolds Point, Wahweap, Kane, Utah;occ:1630331;representativo
+Machairasaurus;41.7021;106.7567;77.9;39.5443;96.5705;Bayan Mandahu, Nei Mongol;occ:1093826;representativo
+Machairoceratops;37.4500;-111.5300;77.9;45.1841;-81.8880;Coyote Point, Wahweap, Garfield, Utah;occ:1328965;representativo
+Macrocollum;-29.6053;-53.2711;216.5;-37.7015;-15.8291;Caturrita, Rio Grande do Sul;occ:1637389;representativo
+Macrogryphosaurus;-38.6120;-68.6440;87.8;-44.5439;-47.0921;Sierra Barrosa, Neuquén;occ:536064;representativo
+Magnamanus;41.7667;-2.5333;127.0;32.1493;9.4798;Golmayo, Soria, Castilla y Leon;occ:565270;representativo
+Magnapaulia;30.0667;-115.7333;77.9;35.3041;-84.3778;El Diesacado, El Gallo, Baja California;occ:1284674;representativo
+Magyarosaurus;45.4936;23.0922;69.1;;;Pui Beds, Hunedoara;occ:628855;representativo
+Mahakala;44.2167;103.2667;77.9;41.7951;92.7365;Tugrugyin, Djadokhta, Omnogov;occ:782321;representativo
+Mahuidacursor;-37.6097;-69.3164;84.7;-40.6794;-52.4909;Bajo de la Carpa, Neuquén;occ:1528999;representativo
+Maiasaura;47.9900;-112.2761;77.9;55.2755;-76.2199;Flag Butte, Two Medicine, Teton, Montana;occ:843894;representativo
+Maip;-50.5011;-72.5578;69.1;-52.2891;-62.3570;Middle, Chorrillo, Lago Argentino, Santa Cruz;occ:1487121;representativo
+Majungasaurus;-15.9078;46.5822;69.1;-30.3443;38.3140;Anembalemba, Maevarano, Mahajanga;occ:343957;representativo
+Malarguesaurus;-36.9975;-69.5634;87.8;-42.8996;-48.0000;Los Bastos, Malargüe, Mendoza;occ:796176;representativo
+Malawisaurus;-10.2833;34.0250;117.3;-31.8584;16.7334;Upper, Dinosaur Beds, Karonga, Northern;occ:405433;representativo
+Maleriraptor;19.1833;79.5333;216.5;-33.8126;36.6280;Upper, Maleri, Andhra Pradesh;occ:1066211;representativo
+Mamenchisaurus;29.4833;104.3667;164.8;29.1345;109.0492;Upper, Shaximiao, Rongxian, Sichuan;occ:572131;representativo
+Mandschurosaurus;48.8575;130.2436;69.1;50.7553;116.4576;Yuliangzi, Jiayin, Heilongjiang;occ:474073;representativo
+Manidens;-43.4213;-69.1651;177.6;-41.3984;-27.9946;Cañadón Asfalto, Departamento Paso de Indios, Chubut;occ:2056481;representativo
+Manidens condorensis;-43.4213;-69.1651;177.6;;;Cañadón Asfalto, Departamento Paso de Indios, Chubut;occ:2056481;ocorrencia
+Mansourasaurus;25.5558;29.1483;77.9;8.2297;25.3316;El Hindaw, Quseir, New Valley;occ:1393972;representativo
+Mapusaurus;-39.0639;-69.2869;108.2;-42.9592;-39.7324;Huincul, Neuquén;occ:534970;representativo
+Maraapunisaurus;38.5475;-105.2316;146.1;35.0492;-54.2382;Brushy Basin, Morrison, Fremont, Colorado;occ:481759;representativo
+Marasuchus;-29.8506;-67.7797;155.8;-27.2324;-31.5788;Lower, Chañares, La Rioja;occ:272327;representativo
+Marasuchus lilloensis;-29.8506;-67.7797;155.8;;;Lower, Chañares, La Rioja;occ:272327;ocorrencia
+Marshosaurus;40.4405;-109.2783;148.9;37.1447;-61.6815;Brushy Basin, Morrison, Uintah, Utah;occ:534969;representativo
+Martharaptor;38.9000;-110.1000;134.8;37.5351;-63.6510;Yellow Cat, Cedar Mountain, Utah;occ:1071680;representativo
+Masiakasaurus;-15.9078;46.5822;69.1;-30.3443;38.3140;Anembalemba, Maevarano, Mahajanga;occ:787590;representativo
+Massospondylus;-28.9000;27.5667;197.2;-42.2572;-1.1064;Upper, Elliot, Free State;occ:1639093;representativo
+Matheronodon;43.5340;5.2040;77.9;33.6815;6.9702;Bouches-du-Rhône, Provence-Alpes-Côte d'Azur;occ:1559820;representativo
+Maxakalisaurus;-19.4572;-49.2453;74.8;-22.4255;-31.7802;Adamantina, Prata, Minas Gerais;occ:585148;representativo
+Mbiresaurus;-16.1008;30.4683;232.2;-47.6084;12.4290;Pebbly Arkose, Mashonaland Central;occ:1614363;representativo
+Medusaceratops;48.9452;-110.5621;77.9;55.7787;-73.7523;McClelland Ferry, Judith River, Hill, Montana;occ:881973;representativo
+Megaraptor;-38.4519;-68.7922;89.8;-44.3790;-47.2448;Portezuelo, Neuquén;occ:1283554;representativo
+Mei;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:536413;representativo
+Melanorosaurus;-29.2200;27.3417;214.4;-46.3324;1.1093;Lower, Elliot, Free State;occ:931162;representativo
+Mendozasaurus;-37.0612;-69.3760;87.8;-42.9697;-47.7996;Sierra Barrosa, Malargüe, Mendoza;occ:372803;representativo
+Menefeeceratops;35.7000;-107.2000;77.9;42.5656;-77.8913;Allison, Menefee, Sandoval, New Mexico;occ:256911;representativo
+Menucocelsior;-39.5033;-67.3719;69.1;-41.7564;-55.2301;Upper, Allen, El Cuy, Río Negro;occ:1634412;representativo
+Meraxes;-39.3583;-69.0250;108.2;-43.2512;-39.4498;Huincul, Neuquén;occ:1555661;representativo
+Mercuriceratops;47.7187;-109.6366;77.9;54.4148;-73.4903;Coal Ridge, Judith River, Fergus, Montana;occ:1206792;representativo
+Meroktenos;-29.9333;27.4000;214.4;-47.0055;0.7574;Lower, Elliot, Mafeteng;occ:566225;representativo
+Mexidracon;25.5111;-101.6556;77.9;31.3372;-74.1748;Cerro del Pueblo, General Cepeda, Coahuila;occ:2065726;representativo
+Microraptor;41.4950;120.2256;117.3;45.2047;118.9353;Jiufotang, Chaoyang, Liaoning;occ:537524;representativo
+Microvenator;45.2600;-108.4097;102.0;44.4998;-66.7448;Himes, Cloverly, Montana;occ:533975;representativo
+Mierasaurus;38.7319;-109.5928;135.8;37.2900;-63.2070;Yellow Cat, Cedar Mountain, Utah;occ:1383087;representativo
+Minimocursor;16.6500;102.2500;143.1;13.9780;108.4795;Phu Kradung, Kham Muang, Kalasin;occ:1616878;representativo
+Minimocursor phunoiensis;16.6500;102.2500;143.1;;;Phu Kradung, Kham Muang, Kalasin;occ:1616878;ocorrencia
+Minmi;-26.4250;148.7925;126.1;-69.6147;131.1791;Minmi, Bungil, Queensland;occ:577472;representativo
+Minqaria;32.8322;-6.2300;69.1;24.4004;-6.5198;Upper, Couche III, Khouribga;occ:1646619;representativo
+Miragaia;39.3458;-9.3161;146.1;33.9477;0.5383;Santa Rita-Assenta, Lourinhã, Leiria, Centro;occ:1569274;representativo
+Mirischia;-7.5500;-40.5667;116.4;-9.3020;-9.2227;Romualdo, Pernambuco;occ:294012;representativo
+Mnyamawamtuka;-8.5667;32.5667;107.7;-29.8703;17.5196;Mtuka, Galula, Mbeya;occ:1432033;representativo
+Moabosaurus;38.7181;-109.6917;134.8;37.2922;-63.3055;Yellow Cat, Cedar Mountain, Grand, Utah;occ:284615;representativo
+Mochlodon;47.8200;16.2400;77.9;32.1655;18.6425;Grünbach, Niederosterreich;occ:486474;representativo
+Mongolostegus;43.8840;111.4310;111.0;46.2985;107.0659;Dzunbain, Dornogov;occ:1432585;representativo
+Monkonosaurus;31.1667;97.2333;131.0;22.5131;93.9156;Loe-ein, Qamdo, Xizang;occ:584134;representativo
+Monoclonius;45.6372;-110.7011;77.9;52.6982;-75.8230;Cokedale, Park, Montana;occ:1259990;representativo
+Monolophosaurus;44.8372;90.0646;163.4;47.7733;92.8568;Lower, Shishugou, Xinjiang;occ:471767;representativo
+Mononykus;43.4828;99.8014;69.1;40.7521;88.7366;Nemegt, Omnogov;occ:1271456;representativo
+Montanoceratops;48.6992;-112.4322;69.1;56.7721;-84.4822;St. Mary River, Glacier, Montana;occ:534253;representativo
+Morelladon;40.6189;-0.0978;123.6;30.2590;10.7075;Arcillas de Morella, Castellón, Valenciana;occ:1407891;representativo
+Moros;38.6444;-111.2689;97.2;40.7910;-77.2695;Mussentuchit, Cedar Mountain, Emery, Utah;occ:1483309;representativo
+Morrosaurus;-63.9278;-57.5042;69.1;-61.9746;-68.2649;Cape Lamb, Snow Hill Island;occ:1311096;representativo
+Murusraptor;-38.8450;-68.8389;87.8;-44.7702;-47.3198;Sierra Barrosa, Neuquén;occ:1569192;representativo
+Musankwa;-16.7267;28.6961;221.3;-39.8188;7.9301;Pebbly Arkose, Mashonaland West;occ:1655999;representativo
+Mussaurus;-48.0804;-68.3067;196.2;-49.3677;-21.9876;Laguna Colorada, Santa Cruz;occ:513573;representativo
+Muttaburrasaurus;-20.9667;144.3833;100.1;-51.2623;133.8133;Allaru Mudstone, Queensland;occ:591685;representativo
+Muyelensaurus;-37.3884;-69.0266;86.7;-43.3086;-47.4380;Plottier, Neuquén;occ:536065;representativo
+Mymoorapelta;39.2383;-108.9958;148.9;35.9231;-61.6655;Brushy Basin, Morrison, Mesa, Colorado;occ:409319;representativo
+Naashoibitosaurus;36.2694;-108.1669;77.9;43.3250;-78.7107;De-na-zin, Kirtland, San Juan, New Mexico;occ:382139;representativo
+Nambalia;19.2667;79.4500;216.5;-33.7025;36.6662;Upper, Maleri, Andhra Pradesh;occ:1066207;representativo
+Nanningosaurus;22.8167;108.3167;83.3;20.5359;106.1834;Guangxi;occ:828526;representativo
+Nanosaurus;41.9081;-105.9856;148.9;38.0331;-53.5761;Indian Fort, Morrison, Albany, Wyoming;occ:1633443;representativo
+Nanosaurus agilis;41.8931;-105.9797;148.9;;;Indian Fort, Morrison, Albany, Wyoming;occ:1398262;ocorrencia
+Nanotyrannus;45.5008;-104.1597;69.1;52.0696;-76.8234;Hell Creek, Carter, Montana;occ:528631;representativo
+Nanshiungosaurus;41.7333;97.6500;111.7;41.1034;94.1101;Lower Red Beds, Zhonggou, Gansu;occ:458368;representativo
+Nanuqsaurus;69.8322;-151.5194;69.1;82.5917;-126.7297;Kogosukruk Tongue, Prince Creek, North Slope, Alaska;occ:513142;representativo
+Nanyangosaurus;33.4978;112.8794;83.1;32.6601;104.7328;Majiacun, Neixiang, Henan;occ:537341;representativo
+Narambuenatitan;-37.3944;-69.1406;77.9;-40.4831;-52.2735;Lower, Anacleto, Neuquén;occ:980820;representativo
+Narindasaurus;-14.6167;48.0167;166.8;-22.3172;27.1113;Isalo III, Mahajanga;occ:504365;representativo
+Nasutoceratops;37.5298;-111.7625;77.9;45.3102;-82.1104;Kaiparowits, Kane, Utah;occ:882008;representativo
+Natovenator;43.4933;99.8269;77.9;40.4632;89.7972;Baruungoyot, Omnogov;occ:1634492;representativo
+Navajoceratops;36.1598;-107.9292;77.9;43.1677;-78.4978;Hunter Wash, Kirtland, San Juan, New Mexico;occ:1508958;representativo
+Nebulasaurus;26.0000;101.8611;171.4;26.2456;108.2686;Zhanghe, Yuanmou, Yunnan;occ:1144205;representativo
+Nedcolbertia;38.8262;-109.5679;134.8;37.3784;-63.1590;Yellow Cat, Cedar Mountain, Grand, Utah;occ:516810;representativo
+Nedoceratops;43.4889;-104.6106;69.1;50.2338;-78.2329;Lance, Niobrara, Wyoming;occ:530471;representativo
+Neimongosaurus;43.8403;113.7156;77.9;43.4128;102.7169;Iren Dabasu, Nei Mongol;occ:537626;representativo
+Nemegtomaia;43.5056;101.0783;77.9;40.7039;90.9497;Baruungoyot, Omnogov;occ:1302686;representativo
+Nemegtonykus;43.5000;100.3333;69.1;40.8481;89.2308;Nemegt, Omnogov;occ:1432425;representativo
+Nemegtosaurus;43.5033;101.0478;69.1;40.9582;89.9009;Nemegt, Omnogov;occ:1337487;representativo
+Neuquenraptor;-38.4532;-68.7246;89.8;-44.3826;-47.1709;Portezuelo, Neuquén;occ:1555682;representativo
+Neuquensaurus;-38.8167;-68.0667;69.1;-41.0209;-55.8563;Lower, Allen, General Roca, Río Negro;occ:513591;representativo
+Nevadadromeus;36.4176;-114.5516;97.2;38.6262;-79.9857;upper, Willow Tank, Clark, Nevada;occ:1572012;representativo
+Nevadadromeus schmitti;36.4176;-114.5516;97.2;;;upper, Willow Tank, Clark, Nevada;occ:1572012;ocorrencia
+Nhandumirim;-29.6978;-53.7742;216.5;-37.8991;-16.3364;Caturrita, Rio Grande do Sul;occ:1456852;representativo
+Niebla;-39.5075;-67.3894;69.1;-41.7593;-55.2487;Upper, Allen, Río Negro;occ:1587070;representativo
+Nigersaurus;16.4667;9.1667;117.3;2.3435;4.1935;Elrhaz, Agadez;occ:1438027;representativo
+Ningyuansaurus;40.6500;119.6833;122.7;42.0745;121.0747;Yixian, Jianchang, Liaoning;occ:1108752;representativo
+Ninjatitan;-39.8175;-69.6742;135.8;-38.8753;-33.1904;Bajada Colorada, Neuquén;occ:1555659;representativo
+Niobrarasaurus;38.7480;-100.2141;87.8;39.9943;-65.8296;Smoky Hill Chalk, Niobrara, Gove, Kansas;occ:487783;representativo
+Nipponopelta;43.0167;142.1000;97.2;51.6795;135.7158;Hikagenosawa, Oyubari, Hokkaido;occ:487791;representativo
+Nipponosaurus;47.1677;142.5000;79.0;52.1265;130.3126;Sakhalin;occ:396875;representativo
+Noasaurus;-26.0667;-65.3667;69.1;-28.5198;-51.7203;Lecho, Candelaria, Salta;occ:457535;representativo
+Nodocephalosaurus;36.3436;-108.0842;77.9;43.3784;-78.5949;De-na-zin, Kirtland, San Juan, New Mexico;occ:715809;representativo
+Nodosaurus;43.4896;-104.4565;69.1;50.2032;-78.0648;Lance, Niobrara, Wyoming;occ:1626813;representativo
+Nomingia;43.8664;100.0111;69.1;41.1587;88.8286;Nemegt, Omnogov;occ:937808;representativo
+Notatesseraeraptor;47.5067;8.0086;216.5;29.6390;10.1651;Gruhalde, Klettgau, Aargau;occ:1456627;representativo
+Nothronychus;35.0667;-108.8500;91.8;38.4947;-77.5042;Lower, Moreno Hill, Catron, New Mexico;occ:513606;representativo
+Notoceratops;-45.6204;-68.5879;69.1;-47.7493;-57.3712;Lago Colhué Huapi, Colhué Huapí, Chubut;occ:465788;representativo
+Notocolossus;-37.0612;-69.3760;86.7;-42.9697;-47.7996;Plottier, Malargüe, Mendoza;occ:1310624;representativo
+Notohypsilophodon;-44.9147;-69.2890;95.2;-51.7239;-46.7270;Lower, Bajo Barreal, Chubut;occ:621155;representativo
+Nqwebasaurus;-33.3850;25.2510;137.8;-44.3778;-11.8775;Uppermost, Kirkwood, Eastern Cape;occ:513197;representativo
+Nullotitan;-50.4903;-72.5489;69.1;-52.2790;-62.3456;Lower, Chorrillo, Lago Argentino, Santa Cruz;occ:1487118;representativo
+Nyasasaurus;-10.2830;35.2330;244.2;-53.4066;22.5214;Lifua, Manda Beds, Ruvuma;occ:1089127;representativo
+Oblitosaurus;40.1273;-1.1333;147.7;32.0022;7.4349;Villar del Arzobispo, Teruel, Aragón;occ:632254;representativo
+Ohmdenosaurus;48.6500;9.5167;181.7;37.8442;18.8323;Lias Epsilon II/4, Posidonia Shale, Baden-Württemberg;occ:500000;representativo
+Ojoceratops;43.4889;-104.6106;69.1;50.2338;-78.2329;Lance, Niobrara, Wyoming;occ:530471;representativo
+Oksoko;43.8664;100.0111;69.1;41.1587;88.8286;Nemegt, Omnogov;occ:1272886;representativo
+Olorotitan;49.0828;130.8595;69.1;51.0715;116.9937;Udurchukan, Arkharinskii, Amur;occ:396864;representativo
+Omeisaurus;29.8000;104.8500;158.2;28.4787;108.8556;Lower, Shaximiao, Zizhong, Sichuan;occ:522064;representativo
+Ondogurvel;43.4917;101.2750;77.9;40.7266;91.1365;Baruungoyot, Omnogov;occ:1593675;representativo
+Oohkotokia;48.4967;-112.6786;77.9;55.8432;-76.3598;Flag Butte, Two Medicine, Montana;occ:1639012;representativo
+Opisthocoelicaudia;43.6025;100.4553;69.1;40.9666;89.3174;Nemegt, Omnogov;occ:387341;representativo
+Orkoraptor;-49.8456;-72.1058;77.9;-52.5121;-57.9226;Cerro Fortaleza, Santa Cruz;occ:1640958;representativo
+Ornatops;36.0860;-108.1580;77.9;43.1464;-78.7690;Allison, Menefee, San Juan, New Mexico;occ:1554570;representativo
+Ornitholestes;42.0178;-106.0486;148.9;38.1496;-53.6085;Lake Como, Morrison, Albany, Wyoming;occ:487805;representativo
+Ornithomimus;51.4000;-112.5900;69.1;59.3786;-83.1301;Horsethief, Horseshoe Canyon, Alberta;occ:1231944;representativo
+Orodromeus;47.8214;-112.6643;77.9;55.2049;-76.7495;Flag Butte, Two Medicine, Teton, Montana;occ:480304;representativo
+Orodromeus makelai;47.8214;-112.6643;77.9;;;Flag Butte, Two Medicine, Teton, Montana;occ:480304;holotipo
+Orthogoniosaurus;23.1687;79.9723;69.1;-25.9830;62.7683;Carnosaur Bed, Lameta, Jabalpur, Madhya Pradesh;occ:405262;representativo
+Oryctodromeus;43.1603;-111.2914;100.1;42.9288;-71.9513;Wayan, Bonneville, Idaho;occ:1606694;representativo
+Oryctodromeus cubicularis;44.5372;-112.5986;103.4;;;Blackleaf, Beaverhead, Montana;occ:679942;holotipo
+Osmakasaurus;43.4416;-103.3910;123.6;42.5147;-52.0049;Lakota, Fall River, South Dakota;occ:477943;representativo
+Ostafrikasaurus;-9.7046;39.2284;146.1;-30.3061;17.2742;Upper Dinosaur, Tendaguru, Lindi;occ:1126045;representativo
+Ouranosaurus;16.4667;9.1667;117.3;2.3435;4.1935;Elrhaz, Agadez;occ:1438024;representativo
+Overoraptor;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1509028;representativo
+Overosaurus;-37.6097;-69.3164;84.7;-40.6794;-52.4909;Bajo de la Carpa, Neuquén;occ:1152347;representativo
+Oviraptor;44.0000;104.0000;77.9;41.7220;93.4935;Bayn Dzak, Djadokhta, Omnogov;occ:1244254;representativo
+Oxalaia;-2.4781;-44.4614;97.2;-9.2098;-20.1781;Alcântara, Maranhão;occ:638678;representativo
+Pachycephalosaurus;45.7552;-104.9529;69.1;52.4752;-77.5686;Hell Creek, Carter, Montana;occ:478795;representativo
+Pachyrhinosaurus;51.5541;-112.8763;69.1;59.5806;-83.3694;Horsethief, Horseshoe Canyon, Alberta;occ:1559727;representativo
+Padillasaurus;5.6178;-73.5519;123.6;4.5218;-42.2002;Paja, Ricaurte, Boyacá;occ:1296269;representativo
+Palaeopteryx;38.5831;-108.3972;148.6;35.2002;-61.2333;Brushy Basin, Morrison, Montrose, Colorado;occ:465130;representativo
+Paludititan;45.5800;22.9300;69.1;;;upper, Râul Mare, Hunedoara;occ:970368;representativo
+Pampadromaeus;-29.6531;-53.2928;221.3;-37.7525;-15.8373;Alemoa, Santa Maria, Agudo, Rio Grande do Sul;occ:1071601;representativo
+Pamparaptor;-38.4519;-68.7922;89.8;-44.3790;-47.2448;Portezuelo, Neuquén;occ:745312;representativo
+Pandoravenator;-43.3030;-69.1450;153.6;-40.6444;-29.7518;Cañadón Calcáreo, Chubut;occ:1407278;representativo
+Panguraptor;25.1687;102.0845;200.4;34.3636;104.6310;Shawan, Lufeng, Lufeng, Yunnan;occ:1407038;representativo
+Panoplosaurus;50.7331;-111.5087;77.9;57.6666;-73.6220;Dinosaur Park, Alberta;occ:564556;representativo
+Panphagia;-30.1372;-67.8775;232.2;-44.6365;-34.2186;La Peña, Ischigualasto, San Juan;occ:800076;representativo
+Paralitherizinosaurus;44.7155;142.0117;77.9;49.6711;130.8134;Osoushinai, Nakagawa-cho, Hokkaido;occ:803685;representativo
+Paralititan;28.3364;28.9847;97.2;8.7501;23.4131;Baharîje, Al Jizah;occ:475138;representativo
+Paranthodon;-33.5500;26.1833;137.8;-45.0029;-11.1865;Kirkwood, Eastern Cape;occ:464964;representativo
+Pararhabdodon;42.1501;1.0538;69.1;33.6806;1.2165;Conques, Lleida, Cataluña;occ:1433448;representativo
+Parasaurolophus;50.7437;-111.5093;77.9;57.6766;-73.6154;Dinosaur Park, Alberta;occ:1609607;representativo
+Paraxenisaurus;25.4708;-101.7000;77.9;31.3085;-74.2322;Cerro del Pueblo, Coahuila;occ:1504483;representativo
+Pareisactus;42.1504;-1.0068;69.1;33.9247;-0.5983;Conques, Lleida, Cataluña;occ:1431972;representativo
+Parksosaurus;51.7100;-112.9340;69.1;59.7399;-83.3405;Morrin/Tolman, Horseshoe Canyon, Alberta;occ:1586433;representativo
+Parksosaurus warreni;50.9000;-111.8000;69.1;;;Tolman, Horseshoe Canyon, Alberta;occ:485997;holotipo
+Parvicursor;43.4667;101.5167;77.9;40.7468;91.3688;Baruungoyot, Omnogov;occ:283992;representativo
+Patagonykus;-38.9000;-69.5500;89.8;-44.8007;-48.1024;Portezuelo, Neuquén;occ:484410;representativo
+Patagopelta;-39.2967;-67.5342;69.1;-41.5386;-55.3704;Lower, Allen, Río Negro;occ:488644;representativo
+Patagosaurus;-43.4125;-69.1833;181.7;-41.3931;-28.0145;Cañadón Asfalto, Chubut;occ:513364;representativo
+Patagotitan;-43.8425;-68.5836;106.8;-49.6308;-41.4499;Cerro Castaño, Cerro Barcino, Chubut;occ:1374882;representativo
+Pawpawsaurus;32.8667;-97.3000;103.4;30.8680;-58.2325;Paw Paw, Tarrant, Texas;occ:373398;representativo
+Pectinodon;45.6600;-105.0800;69.1;52.4100;-77.7534;Hell Creek, Powder River, Montana;occ:1350467;representativo
+Pedopenna;41.3164;119.2386;163.4;43.5571;123.2927;Tiaojishan, Nei Mongol;occ:537627;representativo
+Pegomastax;-30.5667;27.4333;197.2;-43.6671;-2.3314;Upper, Elliot, Herschel, Eastern Cape;occ:1092062;representativo
+Peishanosaurus;41.0710;96.8718;74.8;35.7737;88.0535;Minhe, Gansu;occ:499903;representativo
+Pelecanimimus;40.0645;-1.8808;123.6;30.4218;9.0174;La Huérguina, Cuenca, Castilla-La Mancha;occ:592562;representativo
+Pellegrinisaurus;-38.7617;-67.9828;69.1;-40.9725;-55.7630;Lower, Allen, General Roca, Río Negro;occ:508143;representativo
+Peloroplites;39.1790;-110.1060;111.0;40.6130;-68.6102;Ruby Ranch, Cedar Mountain, Carbon, Utah;occ:534790;representativo
+Pentaceratops;36.3148;-108.0842;77.9;43.3507;-78.6056;Fruitland, San Juan, New Mexico;occ:602422;representativo
+Petrustitan;45.5563;22.9207;69.1;;;Sînpetru, Hunedoara;occ:1570413;representativo
+Philovenator;40.7561;107.4267;77.9;38.7441;97.4900;Wulansuhai, Wulatehouqi, Nei Mongol;occ:1066320;representativo
+Phuwiangvenator;16.7000;102.2500;123.6;13.3386;111.4253;Sao Khua, Khon Kaen;occ:1446542;representativo
+Phyllodon;39.7000;-8.8000;152.0;34.4863;1.0417;Alcobaça, Leiria, Centro;occ:403118;representativo
+Phyllodon henkeli;39.2017;-9.3419;150.7;;;Praia da Amoreira-Porto Novo, Lourinhã, Lourinha;occ:1539149;ocorrencia
+Piatnitzkysaurus;-43.4162;-69.1635;181.7;-41.3932;-27.9947;Cañadón Asfalto, Chubut;occ:297555;representativo
+Pilmatueia;-38.5000;-70.2642;134.8;-37.6256;-33.9788;Mulichinco, Neuquén;occ:1416574;representativo
+Pinacosaurus;44.2283;103.3028;77.9;41.8130;92.7660;Tugrugyin, Djadokhta, Omnogov;occ:781634;representativo
+Pisanosaurus;-30.0000;-68.0000;230.4;-44.5060;-34.3788;Ischigualasto, General Lavalle, La Rioja;occ:277109;representativo
+Pisanosaurus mertii;-30.0000;-68.0000;230.4;;;Ischigualasto, General Lavalle, La Rioja;occ:277109;holotipo
+Pitekunsaurus;-37.4522;-68.9433;77.9;-40.5599;-52.0784;Anacleto, Neuquén;occ:795820;representativo
+Piveteausaurus;49.3000;-0.0667;160.1;39.9476;9.8352;Marnes de Dives, Calvados, Basse-Normandie;occ:379672;representativo
+Planicoxa;38.8293;-109.4709;117.3;39.5719;-65.7395;Poison Strip Sandstone, Cedar Mountain, Grand, Utah;occ:513266;representativo
+Plateosauravus;-30.5333;27.4167;216.5;-51.9115;-1.8662;Lower, Elliot, Herschel, Eastern Cape;occ:385607;representativo
+Plateosaurus;48.7606;9.1428;216.5;31.0949;10.3501;Middle Stubensandstein, Löwenstein, Stuttgart, Baden-Wurttemberg;occ:632302;representativo
+Platypelta;50.7294;-111.4944;77.9;57.6598;-73.6088;Dinosaur Park, Alberta;occ:585226;representativo
+Platytholus;47.6833;-107.1833;69.1;54.7693;-79.0694;Hell Creek, Garfield, Montana;occ:1625921;representativo
+Plesiohadros;44.2569;103.2989;79.0;41.8399;92.7525;Alagteeg, Omnogov;occ:1264578;representativo
+Pneumatoraptor;47.2167;17.6000;84.7;;;Csehbánya, Veszprém;occ:869872;representativo
+Podokesaurus;36.3130;-106.4463;216.5;11.1109;-49.1585;Painted Desert, Petrified Forest, Rio Arriba, New Mexico;occ:528637;representativo
+Poekilopleuron;49.1873;-0.4048;166.8;38.9272;9.9520;Banc Royal, Calcaires de Caen, Calvados, Basse-Normandie;occ:489675;representativo
+Polyonax;40.2853;-106.8606;69.1;47.6644;-82.8705;Laramie, Adams, Colorado;occ:490991;representativo
+Portellsaurus;40.5858;-0.2787;123.6;30.2953;10.5494;Mirambel, Portell, Castellón;occ:1566035;representativo
+Powellvenator;-29.8500;-68.1500;216.5;-39.5673;-32.1208;Los Colorados, La Rioja;occ:1555177;representativo
+Pradhania;19.2560;79.4675;197.2;-28.2277;34.0363;Upper, Dharmaram, Adilabad, Andhra Pradesh;occ:706066;representativo
+Prenocephale;43.4828;100.3597;69.1;40.8352;89.2603;Nemegt, Omnogov;occ:1058801;representativo
+Prenoceratops;48.4967;-112.5243;77.9;55.8081;-76.1888;Flag Butte, Two Medicine, Pondera, Montana;occ:647302;representativo
+Proa;41.0227;-0.5663;111.7;29.5722;6.7064;Lower Sedimentary Succession, Escucha, Teruel, Aragón;occ:1088262;representativo
+Probactrosaurus;40.2717;105.7500;111.0;41.2120;102.4565;Miaogou, Nei Monggol;occ:527479;representativo
+Probrachylophosaurus;48.9981;-110.5406;77.9;55.8233;-73.6957;Judith River, Montana;occ:1408724;representativo
+Procompsognathus;49.0644;8.9764;213.3;35.7091;8.8232;Löwenstein, Baden-Württemberg;occ:728364;representativo
+Propanoplosaurus;38.9833;-76.9831;116.4;33.1528;-32.2738;Patuxent, Prince Georges, Maryland;occ:1014173;representativo
+Prosaurolophus;50.7432;-111.4912;77.9;57.6719;-73.5958;Dinosaur Park, Alberta;occ:565102;representativo
+Protarchaeopteryx;41.8000;120.7333;122.7;43.3331;121.8934;Jianshangou, Yixian, Liaoning;occ:130294;representativo
+Protathlitis;40.5828;-0.2178;123.6;30.2706;10.5949;Arcillas de Morella, Els Ports, Castellón;occ:1274459;representativo
+Protoceratops;44.2000;103.2667;77.9;41.7790;92.7423;Tugrugyin, Djadokhta, Omnogov;occ:1431950;representativo
+Protohadros;32.9805;-97.0572;97.2;32.0841;-63.2628;Lewisville, Denton, Texas;occ:1570939;representativo
+Puertasaurus;-49.8542;-72.1067;77.9;-52.5205;-57.9258;Cerro Fortaleza, Santa Cruz;occ:594398;representativo
+Pulanesaura;-28.4667;27.8253;197.2;-41.9809;-0.5623;Upper, Elliot, Senekal, Free State;occ:711597;representativo
+Pulaosaurus;40.4833;119.3667;160.1;41.7374;122.5279;Tiaojishan, Qinglong, Hebei;occ:2063457;tipo
+Pulaosaurus qinglong;40.4833;119.3667;160.1;;;Tiaojishan, Qinglong, Hebei;occ:2063457;ocorrencia
+Punatitan;-28.5000;-68.7500;74.8;-29.6310;-52.5230;Ciénaga del Río Huaco, La Rioja;occ:1532561;representativo
+Pycnonemosaurus;-15.4655;-54.5845;83.3;-19.9665;-34.6637;Mato Grosso;occ:343812;representativo
+Pyroraptor;43.4317;5.7197;77.9;33.5614;7.4131;Bouches-du-Rhône, Provence-Alpes-Côte d'Azur;occ:487169;representativo
+Qantassaurus;-38.6611;145.6811;123.6;-80.4624;105.0935;"Wonthaggi", Victoria;occ:513430;representativo
+Qianlong;26.4061;106.2558;196.2;34.9756;111.5714;Zhenzhuchong, Ziliujing, Guizhou;occ:1636879;representativo
+Qijianglong;29.0000;106.5819;152.3;27.5431;110.2931;Suining, Qijiang, Chongqing;occ:1253472;representativo
+Qingxiusaurus;22.8167;108.3167;83.3;20.5359;106.1834;Guangxi;occ:780402;representativo
+Qinlingosaurus;34.0172;109.8354;69.1;32.4939;100.1864;Hongtuling, Luonan, Shaanxi;occ:1328241;representativo
+Qiupalong;34.0167;111.6500;69.1;32.7595;101.9442;Qiupa, Luanchuan, Henan;occ:914468;representativo
+Qiupanykus;33.8190;111.6300;69.1;32.5619;101.9664;Qiupa, Luanchuan, Henan;occ:1456626;representativo
+Quaesitosaurus;43.5660;103.5244;77.9;41.2142;93.2000;Baruungoyot, Omnogov;occ:513486;representativo
+Quetecsaurus;-34.0667;-68.9167;91.8;-39.9934;-47.1344;Cerro Lisandro, Malargüe, Mendoza;occ:1191673;representativo
+Quilmesaurus;-39.4339;-67.2950;69.1;-41.6931;-55.1420;Upper, Allen, Río Negro;occ:297300;representativo
+Qunkasaura;39.9504;-2.0214;74.8;31.2364;1.1808;Villalba de la Sierra, Cuenca, Castilla-La Mancha;occ:1662718;representativo
+Rahiolisaurus;23.0572;73.3419;69.1;-23.3725;56.7012;Lameta, Kheda, Gujarat;occ:862293;representativo
+Rahonavis;-15.9000;46.5833;69.1;-30.3365;38.3152;Anembalemba, Maevarano, Mahajanga;occ:471836;representativo
+Rajasaurus;23.0572;73.3419;69.1;-23.3725;56.7012;Lameta, Gujarat;occ:367089;representativo
+Rapator;-29.4333;147.9833;97.2;-60.5225;141.0843;Wallangulla Sandstone, Griman Creek, New South Wales;occ:401745;representativo
+Rapetosaurus;-15.9000;46.5833;69.1;-30.3365;38.3152;Anembalemba, Maevarano, Mahajanga;occ:405967;representativo
+Rativates;50.8064;-111.6264;77.9;57.7620;-73.7015;Oldman, Alberta;occ:517536;representativo
+Rayososaurus;-38.3528;-69.9158;111.7;-42.2535;-40.4096;Candeleros, Picunches, Neuquén;occ:561805;representativo
+Rebbachisaurus;30.5057;-4.8369;97.2;18.1315;-5.3221;Gara Sbaa, Errachidia, Drâa-Tafilalet;occ:262167;representativo
+Regaliceratops;49.6161;-114.1067;69.1;57.9674;-85.9320;St. Mary River, Alberta;occ:1390790;representativo
+Rhabdodon;43.3500;2.9500;74.8;34.9790;5.4422;Grès à Reptiles, Hérault, Languedoc-Roussillon;occ:570623;representativo
+Rhinorex;38.9630;-109.9260;77.9;46.2971;-79.5602;Nelsen, Grand, Utah;occ:1429198;representativo
+Rhoetosaurus;-26.0833;149.0500;158.4;-66.1346;91.7788;Walloon Coal Measures, Aberdeen, Queensland;occ:407849;representativo
+Riabininohadros;44.7461;33.8616;69.1;36.8751;29.5858;Bakhchysarais'kyl, Crimea;occ:520794;representativo
+Rinchenia;43.5722;100.4778;69.1;40.9404;89.3467;Nemegt, Omnogov;occ:1447893;representativo
+Rinconsaurus;-37.3833;-68.9000;84.7;-40.4958;-52.0222;Bajo de la Carpa, Neuquén;occ:539207;representativo
+Riojasaurus;-29.7835;-67.9333;216.5;-39.4639;-31.8997;Los Colorados, General Lavalle, La Rioja;occ:513603;representativo
+Riojavenatrix;42.0487;-2.0264;120.5;31.7417;9.6360;Enciso, La Rioja;occ:1685325;representativo
+Rocasaurus;-39.2967;-67.5342;69.1;-41.5386;-55.3704;Lower, Allen, Río Negro;occ:513477;representativo
+Ruehleia;50.3833;10.5500;216.5;32.9528;10.4886;Knollenmergel, Trossingen, Thuringia;occ:486412;representativo
+Rugops;17.9333;5.6167;97.2;3.2934;0.0950;Echkar, Agadez;occ:561838;representativo
+Ruyangosaurus;34.1120;112.5893;111.0;36.5124;111.1249;Haoling, Ruyang, Henan;occ:862206;representativo
+Sacisaurus;-29.6333;-53.2333;216.5;-37.7205;-15.7801;Caturrita, Rio Grande do Sul;occ:536062;representativo
+Sacisaurus agudoensis;-29.6333;-53.2333;216.5;;;Caturrita, Rio Grande do Sul;occ:536062;ocorrencia
+Sahaliyania;48.3947;130.1458;69.1;50.2905;116.5334;Yuliangzi, Heilongjiang;occ:735997;representativo
+Saichania;43.3164;99.8292;77.9;40.2923;89.8576;Baruungoyot, Omnogov;occ:404798;representativo
+Saltasaurus;-26.0667;-65.3667;69.1;-28.5198;-51.7203;Lecho, Candelaria, Salta;occ:457534;representativo
+Saltriovenator;45.8827;8.9280;196.2;33.2940;15.4261;Saltrio, Varese, Lombardy;occ:968601;representativo
+Sanjuansaurus;-30.1192;-67.8979;232.2;-44.6196;-34.2449;La Peña, Ischigualasto, San Juan;occ:893426;representativo
+Sanpasaurus;29.5498;104.6182;179.4;32.4390;110.6961;Maanshan, Ziliujing, Weiyuan, Sichuan;occ:1108351;representativo
+Santanaraptor;-7.1833;-39.7333;116.4;-8.9112;-8.3968;Romualdo, Ceará;occ:968544;representativo
+Sanxiasaurus;30.9314;108.7306;177.6;34.6830;114.3943;Upper, Xintiangou, Yunyang, Chongqing;occ:1519617;representativo
+Sarahsaurus;35.7500;-111.0833;188.6;20.6028;-53.6375;Silty Facies, Kayenta, Coconino, Arizona;occ:890993;representativo
+Sarmientosaurus;-44.7667;-69.1833;95.2;-51.5786;-46.5978;Lower, Bajo Barreal, Chubut;occ:1326608;representativo
+Saturnalia;-29.6667;-53.7500;221.3;-37.8638;-16.3203;Alemoa, Santa Maria, Rio Grande do Sul;occ:261854;representativo
+Saurolophus;51.7973;-112.9583;69.1;59.8275;-83.3146;Alberta;occ:2048065;representativo
+Sauroniops;30.9000;-3.9833;100.1;17.3055;-3.7615;Errachidia, Drâa-Tafilalet;occ:519803;representativo
+Sauropelta;45.3659;-108.2649;111.0;45.8923;-61.5063;Cloverly, Big Horn, Montana;occ:499616;representativo
+Saurophaganax;36.8989;-102.8261;147.7;32.6684;-51.7312;Kenton, Morrison, Cimarron, Oklahoma;occ:1364692;representativo
+Sauroposeidon;44.9782;-108.3224;102.0;44.2130;-66.7883;Himes, Cloverly, Big Horn, Wyoming;occ:498911;representativo
+Saurornithoides;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Omnogov Aimak;occ:457756;representativo
+Saurornitholestes;50.7490;-111.4585;77.9;57.6698;-73.5558;Dinosaur Park, Alberta;occ:459526;representativo
+Savannasaurus;-22.3483;143.0892;95.2;-53.2657;133.5179;Winton, Queensland;occ:1145035;representativo
+Scansoriopteryx;41.3667;121.4167;122.7;42.9847;122.6781;Dawangzhangzi, Yixian, Lingyuan, Liaoning;occ:877682;representativo
+Schleitheimia;47.7417;8.4869;216.5;29.9869;10.3902;Gruhalde, Klettgau, Schaffhausen;occ:1514433;representativo
+Scipionyx;41.3478;14.5481;111.7;23.8215;16.8391;Benevento, Campania;occ:639671;representativo
+Sciurumimus;49.0078;11.8264;150.7;41.0520;19.4110;Arnstorf, Torleite, Bayern;occ:1052616;representativo
+Scleromochlus taylori;57.7172;-3.2917;221.3;;;Lossiemouth Sandstone, Moray, Scotland, UK;occ:558358;ocorrencia
+Scolosaurus;50.7492;-111.4717;77.9;57.6730;-73.5702;Dinosaur Park, Alberta;occ:1134977;representativo
+Scutellosaurus;35.7367;-111.0736;191.8;20.5885;-53.6311;Silty Facies, Kayenta, Arizona;occ:149982;representativo
+Secernosaurus;-45.6197;-68.5097;69.1;-47.7546;-57.2902;Lago Colhué Huapi, Chubut;occ:561811;representativo
+Sefapanosaurus;-30.3000;27.0833;213.4;-47.2285;0.1700;Elliot, Free State;occ:1283498;representativo
+Segisaurus;36.7806;-110.5250;183.8;24.1015;-52.3009;Navajo Sandstone, Coconino, Arizona;occ:261839;representativo
+Segnosaurus;43.4589;107.4889;92.0;44.8452;97.8799;Baynshire, Omnogov;occ:1589312;representativo
+Seitaad;37.3667;-109.6333;183.8;24.5746;-51.4327;Navajo Sandstone, San Juan, Utah;occ:853661;representativo
+Sektensaurus;-45.5978;-68.6222;74.8;-46.6109;-55.1011;Lago Colhué Huapi, Chubut;occ:519938;representativo
+Serendipaceratops;-38.5483;145.4578;120.5;-78.0549;111.9236;"Wonthaggi", Victoria;occ:401696;representativo
+Serikornis;40.9167;119.6500;158.2;42.1687;122.8224;Tiaojishan, Jianchang, Liaoning;occ:1407965;representativo
+Shamosaurus;43.8840;111.4310;111.0;46.2985;107.0659;Dzunbain, Dornogov;occ:343953;representativo
+Shanag;44.2415;102.7333;121.8;44.7186;102.6236;Öösh, Ovorkhangai;occ:649434;representativo
+Shantungosaurus;35.9561;119.3269;77.9;36.2406;110.3303;Hongtuya, Chucheng, Shandong;occ:546026;representativo
+Shanyangosaurus;33.6522;109.9014;69.1;32.1442;100.3263;Shanyang, Luonan, Shaanxi;occ:1328243;representativo
+Shaochilong;40.3013;105.9433;111.0;41.2771;102.6368;Miaogou, Nei Mongol;occ:621461;representativo
+Shenzhousaurus;41.6014;120.8722;122.7;43.1532;122.0766;Jianshangou, Yixian, Beipiao, Liaoning;occ:984394;representativo
+Shidaisaurus;24.9725;102.0761;169.6;25.3091;108.7852;Chuanjie, Lufeng, Yunnan;occ:651335;representativo
+Shishugounykus;45.1712;88.9217;158.2;46.7661;91.2935;Shishugou, Xinjiang;occ:1519629;representativo
+Shixinggia;24.9500;114.0667;69.1;24.4818;108.2489;Pingling, Shixing, Guangdong;occ:620355;representativo
+Shri;43.4886;101.1456;77.9;40.6998;91.0177;Baruungoyot, Omnogov;occ:1542307;representativo
+Shuangmiaosaurus;41.7728;120.7922;103.4;46.5839;115.1589;Sunjiawan, Beipiao, Liaoning;occ:602120;representativo
+Shunosaurus;29.4114;104.8525;164.8;29.1866;109.5369;Upper, Shaximiao, Zigong, Sichuan;occ:295296;representativo
+Shuvuuia;44.2167;103.2667;77.9;41.7951;92.7365;Tugrugyin, Djadokhta, Omnogov;occ:502070;representativo
+Siamodon;14.8667;102.7333;117.3;13.9689;112.8984;Khok Kruat, Suranaree, Nakhon Ratchasima;occ:895803;representativo
+Siamosaurus;16.6799;103.5749;123.6;14.1105;112.4624;Sao Khua, Sahat Sakhan, Kalasin;occ:380883;representativo
+Siamotyrannus;16.7000;102.2500;123.6;13.3386;111.4253;Sao Khua, Phu Wiang, Khon Kaen;occ:380916;representativo
+Siamraptor;14.8873;101.9738;117.3;13.4949;112.3211;Khok Kruat, Muang Nakhon Ratchasima, Nakhon Ratchasima;occ:1482713;representativo
+Siats;38.9000;-111.6900;97.2;41.1246;-77.5987;Mussentuchit, Cedar Mountain, Emery, Utah;occ:1183758;representativo
+Sibirotitan;55.9033;87.9578;117.3;54.3361;82.5687;Ilek, Chebulinsky, Kemerovo;occ:410862;representativo
+Sierraceratops;33.1542;-107.1922;74.8;42.1297;-80.5061;Hall Lake, Sierra, New Mexico;occ:1328513;representativo
+Silesaurus;50.6692;18.2492;230.4;28.0451;18.4639;Drawno Beds, Opole;occ:584074;representativo
+Silesaurus opolensis;50.6692;18.2492;230.4;;;Drawno Beds, Opole;occ:584074;ocorrencia
+Siluosaurus;41.5750;97.5833;111.7;40.9376;94.0986;Upper Gray Beds, Zhonggou, Subei, Gansu;occ:458364;representativo
+Silvisaurus;39.1980;-97.4545;103.4;37.0085;-56.3649;Terra Cotta Clay, Dakota, Ottawa, Kansas;occ:367091;representativo
+Similicaudipteryx;41.5336;121.2481;117.3;45.4231;119.9802;Jiufotang, Yixian, Liaoning;occ:683563;representativo
+Sinankylosaurus;37.4658;120.9847;77.9;38.0155;111.5168;Hongtuya, Zhucheng, Shandong;occ:1196363;representativo
+Sinocalliopteryx;41.6014;120.8722;122.7;43.1532;122.0766;Jianshangou, Yixian, Beipiao, Liaoning;occ:1589416;representativo
+Sinoceratops;37.4658;120.9847;77.9;38.0155;111.5168;Hongtuya, Zhucheng, Shandong;occ:873168;representativo
+Sinornithoides;39.3600;108.4100;118.8;40.5111;109.4774;Ejinhoro, Nei Mongol;occ:472313;representativo
+Sinornithomimus;41.2861;103.8772;91.8;41.6151;94.8042;Ulansuhai, Nei Mongol;occ:536615;representativo
+Sinornithosaurus;41.6014;120.8722;122.7;43.1532;122.0766;Jianshangou, Yixian, Beipiao, Liaoning;occ:519797;representativo
+Sinosauropteryx;41.6014;120.8722;122.7;43.1532;122.0766;Jianshangou, Yixian, Liaoning;occ:498853;representativo
+Sinosaurus;25.1738;102.0974;196.2;33.0778;107.4024;Zhangjia'ao, Lufeng, Yunnan;occ:1092249;representativo
+Sinotyrannus;41.1233;119.7417;117.3;44.7576;118.5602;Jiufotang, Kazuo, Liaoning;occ:975932;representativo
+Sinovenator;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:536678;representativo
+Sinraptor;44.8029;90.0465;158.2;46.5959;92.5470;Upper, Shishugou, Xinjiang;occ:459064;representativo
+Sinusonasus;41.6034;120.9133;122.7;43.1599;122.1178;Lujiatun, Yixian, Beipiao, Liaoning;occ:602122;representativo
+Sirindhorna;14.8667;102.7333;117.3;13.9689;112.8984;Khok Kruat, Suranaree, Nakhon Ratchasima;occ:895804;representativo
+Skorpiovenator;-39.2452;-68.8016;108.2;-43.1360;-39.2146;Lower, Huincul, Neuquén;occ:790098;representativo
+Sonorasaurus;31.8114;-110.4181;100.1;32.0860;-73.6703;Turney Ranch, Cochise, Arizona;occ:148500;representativo
+Soriatitan;41.7667;-2.5333;127.0;32.1493;9.4798;Golmayo, Soria, Castilla y Leon;occ:636403;representativo
+Soumyasaurus;33.5214;-101.3150;216.5;7.6864;-41.3786;Cooper Canyon, Garza, Texas;occ:1439335;representativo
+Soumyasaurus aenigmaticus;33.5214;-101.3150;216.5;;;Cooper Canyon, Garza, Texas;occ:1439335;ocorrencia
+Spectrovenator;-16.6844;-44.3603;117.3;-18.5382;-12.7743;Quiricó, Minas Gerais;occ:916439;representativo
+Sphaerotholus;47.0531;-107.3503;69.1;54.2011;-79.5775;Hell Creek, Garfield County, Montana;occ:1645971;representativo
+Spiclypeus;47.5270;-109.4978;77.9;54.2026;-73.4526;Coal Ridge, Judith River, Fergus, Montana;occ:1328966;representativo
+Spicomellus;33.1500;-5.1167;164.8;28.4765;-3.2030;El Mers III, Ifrane, Fès-Meknes;occ:1581316;representativo
+Spinophorosaurus;16.6818;7.7444;168.1;8.3181;2.5191;Irhazer II, Tchirozerine, Agadez;occ:916049;representativo
+Spinops;50.7587;-111.3931;77.9;57.6637;-73.4772;Oldman, Alberta;occ:1010560;representativo
+Spinosaurus;28.3333;29.1167;97.2;8.7289;23.5287;Bahariya, Al Jizah;occ:510845;representativo
+Spinostropheus;17.7088;5.7978;100.1;1.9416;0.4119;Echkar, Agadez;occ:260836;representativo
+Staurikosaurus;-29.6667;-53.7500;221.3;-37.8638;-16.3203;Alemoa, Santa Maria, Rio Grande do Sul;occ:896129;representativo
+Stegoceras;50.7753;-111.5728;77.9;57.7207;-73.6637;Dinosaur Park, Alberta;occ:715649;representativo
+Stegopelta;42.8322;-108.0236;97.2;43.9259;-70.3767;Belle Fourche, Frontier, Fremont, Wyoming;occ:292842;representativo
+Stegosaurus;39.6756;-105.1926;148.6;35.7283;-53.3517;Brushy Basin, Morrison, Jefferson, Colorado;occ:296498;representativo
+Stegouros;-50.7119;-72.5414;74.8;-51.2847;-60.1871;Dorotea, Última Esperanza;occ:1583996;representativo
+Stellasaurus;48.9708;-112.6420;77.9;56.2799;-76.0264;Flag Butte, Two Medicine, Glacier, Montana;occ:1504186;representativo
+Stenonychosaurus;50.7780;-111.5100;77.9;57.7087;-73.5927;Oldman, Alberta;occ:1331295;representativo
+Stokesosaurus;41.8931;-106.0022;148.9;38.0207;-53.5951;Talking Rocks, Morrison, Albany, Wyoming;occ:751963;representativo
+Streptospondylus;49.4167;0.2333;162.2;40.0756;10.0809;Basse-Normandie;occ:489694;representativo
+Struthiomimus;50.7461;-111.4932;77.9;57.6751;-73.5960;Dinosaur Park, Alberta;occ:2048277;representativo
+Struthiosaurus;47.8200;16.2400;77.9;32.1655;18.6425;Grünbach, Niederosterreich;occ:486476;representativo
+Stygimoloch;45.7552;-104.9529;69.1;52.4752;-77.5686;Hell Creek, Carter, Montana;occ:478795;representativo
+Styracosaurus;50.7361;-111.4942;77.9;57.6660;-73.6040;Dinosaur Park, Alberta;occ:221280;representativo
+Suchomimus;16.4378;9.1178;111.0;1.5760;3.6759;Elrhaz, Agadez;occ:1074934;representativo
+Supersaurus;38.5831;-108.3972;148.6;35.2002;-61.2333;Brushy Basin, Morrison, Montrose, Colorado;occ:465133;representativo
+Suskityrannus;35.0667;-108.8500;91.8;38.4947;-77.5042;Lower, Moreno Hill, Catron, New Mexico;occ:516838;representativo
+Suuwassea;46.8786;-108.8708;148.9;43.3113;-54.9517;Morrison, Fergus, Montana;occ:1685876;representativo
+Suzhousaurus;39.9289;98.5008;117.3;39.7201;97.7601;Upper, Xiagou, Gansu;occ:716387;representativo
+Szechuanosaurus;32.4104;105.7862;146.1;30.6081;108.3007;Sichuan;occ:1220192;representativo
+Tachiraptor;8.1508;-72.0186;200.4;1.0648;-42.1524;La Quinta, La Grita, Táchira;occ:1306174;representativo
+Talarurus;44.3000;109.2000;92.0;45.9824;99.2576;Baynshire, Dornogov;occ:2056792;representativo
+Talenkauen;-49.8544;-72.1072;77.9;-52.5207;-57.9264;Cerro Fortaleza, Santa Cruz;occ:520128;representativo
+Talos;37.6471;-111.8624;77.9;45.4443;-82.1745;Middle, Kaiparowits, Garfield, Utah;occ:1066333;representativo
+Tamarro;42.1555;1.0550;69.1;33.6858;1.2186;Talarn, Lleida, Cataluña;occ:1549179;representativo
+Tambatitanis;35.0822;135.1053;111.7;47.0967;132.1895;Ohyamashimo, Hyogo;occ:984125;representativo
+Tangvayosaurus;16.4000;105.6500;111.0;16.8607;111.8624;Grès supérieurs, Savannakhet;occ:457789;representativo
+Tanius;36.8866;120.6590;77.9;37.3920;111.3672;Jingangkou, Laiyang, Shandong;occ:536205;representativo
+Tanycolagreus;42.0178;-106.0486;148.9;38.1496;-53.6085;Lake Como, Morrison, Albany, Wyoming;occ:536124;representativo
+Taohelong;35.8097;103.7719;119.5;36.2580;105.8643;5, Gansu;occ:1204611;representativo
+Tapuiasaurus;-16.6844;-44.3603;117.3;-18.5382;-12.7743;Quiricó, Minas Gerais;occ:916440;representativo
+Tarascosaurus;43.2000;5.8000;77.9;33.3272;7.4701;Var, Provence-Alpes-Côte d'Azur;occ:297294;representativo
+Tarbosaurus;43.5664;100.4828;69.1;40.9354;89.3530;Nemegt, Omnogov;occ:1564994;representativo
+Tarchia;43.4750;99.8331;69.1;40.7491;88.7684;Nemegt, Omnogov;occ:1604945;representativo
+Tastavinsaurus;40.7069;0.0597;120.5;29.8269;10.5255;Xert, Teruel, Aragón;occ:559778;representativo
+Tatankacephalus;46.2984;-109.7121;106.8;46.4347;-65.0924;Himes, Cloverly, Wheatland, Montana;occ:831052;representativo
+Tatankaceratops;43.4889;-104.6106;69.1;50.2338;-78.2329;Lance, Niobrara, Wyoming;occ:530471;representativo
+Tataouinea;32.6764;10.1722;106.8;15.6502;9.8371;Oum ed Diab, Aïn el Guettar, Tataouine;occ:1153480;representativo
+Tatisaurus;25.1727;102.1073;196.2;33.0784;107.4132;Zhangjia'ao, Lufeng, Yunnan;occ:691650;representativo
+Taurovenator;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1337634;representativo
+Tawa;36.3238;-106.4751;216.5;11.1254;-49.1800;Petrified Forest, Chinle, Rio Arriba, New Mexico;occ:837653;representativo
+Tazoudasaurus;31.2647;-6.5908;183.8;26.8954;-2.9759;Ouarzazate;occ:539053;representativo
+Technosaurus;33.5214;-101.3150;216.5;7.6864;-41.3786;Cooper Canyon, Garza, Texas;occ:562834;representativo
+Technosaurus smalli;33.5214;-101.3150;216.5;;;Cooper Canyon, Garza, Texas;occ:562834;ocorrencia
+Tehuelchesaurus;-43.1675;-69.2500;150.5;-41.0646;-29.8804;Cañadón Calcáreo, Gastre, Chubut;occ:513365;representativo
+Telmatosaurus;45.5800;22.9300;69.1;;;upper, Râul Mare, Hunedoara;occ:1292433;representativo
+Tengrisaurus;51.1956;106.2747;134.8;53.7867;105.3057;Mogoito, Murtoi, Selenginsky, Buryat;occ:1363663;representativo
+Tenontosaurus;45.3805;-108.2032;102.0;44.5677;-66.4979;Himes, Cloverly, Big Horn, Montana;occ:498877;representativo
+Teratophoneus;37.4520;-111.5320;77.9;45.1865;-81.8894;Middle, Kaiparowits, Garfield, Utah;occ:1556988;representativo
+Terminocavus;36.2925;-108.5497;77.9;43.4304;-79.1110;Hunter Wash, Kirtland, New Mexico;occ:1508959;representativo
+Tethyshadros;45.7786;13.5886;77.9;30.6933;15.9462;Aurisina, Trieste, Friuli-Venezia Giulia;occ:149989;representativo
+Texacephale;29.2500;-103.2500;77.9;35.3152;-74.6506;Alto Shale, Aguja, Brewster, Texas;occ:848415;representativo
+Texasetes;32.9333;-97.3333;103.4;30.9395;-58.2443;Pawpaw, Tarrant, Texas;occ:516830;representativo
+Thanatotheristes;50.1136;-111.7717;77.9;57.1499;-74.3286;Herronton Sandstone, Foremost, Alberta;occ:1521092;representativo
+Thanos;-21.0347;-49.2111;79.0;-25.9229;-29.6190;São José do Rio Preto, São Paulo;occ:1588709;representativo
+Theiophytalia;38.8707;-104.8743;111.0;38.9488;-60.7931;Lytle, Purgatoire, El Paso, Colorado;occ:647848;representativo
+Therizinosaurus;43.4917;101.2750;69.1;40.9809;90.1176;Nemegt, Omnogov;occ:809200;representativo
+Thescelosaurus;45.8892;-104.5497;69.1;52.5208;-77.0627;Hell Creek, Carter, Montana;occ:1380746;representativo
+Thescelosaurus assiniboiensis;49.3601;-108.4602;69.1;;;Frenchman, Saskatchewan, Canadá;occ:486011;ocorrencia
+Thescelosaurus edmontonensis;50.8701;-112.9936;69.1;;;Scollard, Alberta, Canadá;occ:486010;holotipo
+Thescelosaurus garbanii;47.5652;-106.3134;69.1;;;Hell Creek, Garfield, Montana;occ:485982;ocorrencia
+Thescelosaurus neglectus;43.2722;-104.5708;69.1;;;Lance, Niobrara, Wyoming;occ:486009;holotipo
+Thespesius;45.6726;-101.3900;69.1;51.6588;-73.7432;Lance, Corson, South Dakota;occ:641979;representativo
+Thyreosaurus;33.3205;-4.7123;164.8;28.4489;-2.7732;El Mers III, Boulemane, Fès-Meknes;occ:1651473;representativo
+Tianyuraptor;41.3667;121.4167;122.7;42.9847;122.6781;Dawangzhangzi, Yixian, Lingyuan, Liaoning;occ:824852;representativo
+Tianzhenosaurus;40.2672;114.2489;86.3;42.4768;105.4064;Huiquanpu, Tianzhen, Shanxi;occ:513240;representativo
+Tienshanosaurus;45.2650;89.4960;158.2;46.9531;91.8357;Upper, Shishugou, Xinjiang;occ:522040;representativo
+Tietasaura;-12.9011;-38.4856;131.4;-11.5051;-5.5629;Marfim, Bahia;occ:1660209;representativo
+Timimus;-29.4703;147.7628;97.2;-60.5588;140.6937;Griman Creek, New South Wales;occ:1705690;representativo
+Timurlengia;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:1429045;representativo
+Titanomachya;-42.9639;-67.5392;69.1;-45.1872;-55.8791;B, La Colonia, Chubut;occ:1651503;representativo
+Titanosaurus;20.9989;79.1817;69.1;-27.6582;61.0184;Lameta, Maharashtra;occ:625402;representativo
+Tlatolophus;25.4497;-101.6833;77.9;31.2842;-74.2214;Cerro del Pueblo, Coahuila;occ:1560081;representativo
+Tochisaurus;43.4917;101.2750;69.1;40.9809;90.1176;Nemegt, Omnogov;occ:513489;representativo
+Tonganosaurus;26.3431;102.1444;188.1;31.7524;108.0883;Yimen, Huili, Sichuan;occ:887573;representativo
+Tongnanlong;30.1789;105.8047;152.3;28.4674;109.1649;Suining, Tongnan, Chongqing;occ:1703539;representativo
+Tongtianlong;25.8686;115.0000;69.1;25.6797;108.6307;Hekou, Jiangxi;occ:1347766;representativo
+Tornieria;-9.7046;39.2284;146.1;-30.3061;17.2742;Upper Dinosaur, Tendaguru, Lindi;occ:483507;representativo
+Torosaurus;43.2377;-104.6285;69.1;49.9963;-78.3616;Lance, Niobrara, Wyoming;occ:465725;representativo
+Torvosaurus;42.0358;-106.3906;148.9;38.2151;-53.9216;Morrison, Carbon, Wyoming;occ:1189694;representativo
+Tototlmimus;31.2635;-110.3578;77.9;38.8527;-81.4303;2, Packard Shale, Sonora;occ:1345728;representativo
+Trachodon;45.3833;-105.3000;69.1;52.1900;-78.1260;Hell Creek, Custer, Montana;occ:896240;representativo
+Tralkasaurus;-39.3978;-68.6178;108.2;-43.2869;-39.0169;Huincul, Río Negro;occ:1587076;representativo
+Transylvanosaurus;45.4936;23.0922;69.1;;;Pui Beds, Hunedoara;occ:1625920;representativo
+Tratayenia;-38.4349;-68.6154;84.7;-41.5672;-51.9005;Bajo de la Carpa, Neuquén;occ:1417544;representativo
+Traukutitan;-38.4976;-68.7090;84.7;-41.6202;-52.0083;Bajo de la Carpa, Neuquén;occ:343959;representativo
+Triceratops;43.4889;-104.6106;69.1;50.2338;-78.2329;Lance, Niobrara, Wyoming;occ:530471;representativo
+Trierarchuncus;47.6464;-106.3792;69.1;54.5714;-78.1954;Hell Creek, Garfield, Montana;occ:1542546;representativo
+Trimucrodon;39.2164;-9.3437;150.7;34.2744;0.3095;Praia da Amoreira-Porto Novo, Lourinhã, Lisboa, Centro;occ:645248;representativo
+Trimucrodon cuneatus;39.2164;-9.3437;150.7;;;Praia da Amoreira-Porto Novo, Lourinhã, Lisboa, Centro;occ:645248;ocorrencia
+Trinisaura;-63.9267;-57.8142;77.9;-61.7124;-68.4440;Gamma, Snow Hill Island;occ:1095295;representativo
+Triunfosaurus;-6.6981;-38.5403;134.4;-4.6994;-5.7369;Rio Piranhas, Triunfo, Paraíba;occ:1356022;representativo
+Troodon;47.7722;-108.9469;77.9;54.3049;-72.7116;Judith River, Blaine, Montana;occ:606139;representativo
+Tsaagan;43.6644;100.9019;77.9;40.8252;90.7334;Djadokhta, Gurvan Tes, Omnogov;occ:629281;representativo
+Tsagantegia;44.4833;110.0333;92.0;46.3177;100.0156;Baynshire, Dornogov;occ:535198;representativo
+Tsintaosaurus;36.8866;120.6590;77.9;37.3920;111.3672;Jingangkou, Laiyang, Shandong;occ:536204;representativo
+Tuebingosaurus;48.0667;8.6500;216.5;30.3278;10.3473;Löwenstein, Freiburg, Baden-Württemberg;occ:1616704;representativo
+Tugulusaurus;46.0439;85.7920;118.8;44.2444;86.6719;Lianmuqin, Xinjiang;occ:487793;representativo
+Tuojiangosaurus;28.3519;104.7819;164.8;28.1534;109.8131;Upper, Shaximiao, Zigong, Sichuan;occ:572134;representativo
+Turanoceratops;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:559630;representativo
+Turiasaurus;40.1167;-1.1500;148.9;31.9990;7.4157;Villar del Arzobispo, Teruel;occ:788989;representativo
+Tylocephale;43.5003;101.1302;77.9;40.7083;90.9996;Baruungoyot, Omnogov;occ:1341988;representativo
+Tyrannomimus;36.1214;136.5447;117.3;48.4600;135.7678;Kitadani, Katsuyama, Fukui;occ:670957;representativo
+Tyrannosaurus;45.8892;-104.5497;69.1;52.5208;-77.0627;Hell Creek, Carter, Montana;occ:1380744;representativo
+Tyrannotitan;-43.7833;-68.8333;106.8;-49.5703;-41.7272;Cerro Castaño, Cerro Barcino, Chubut;occ:401688;representativo
+Uberabatitan;-19.5925;-48.0283;69.1;-23.1836;-33.5000;Serra da Galga, Uberaba, Minas Gerais;occ:772534;representativo
+Udanoceratops;42.0833;102.1667;77.9;39.5279;92.4279;Djadokhta, Omnogov;occ:937963;representativo
+Ulughbegsaurus;42.1173;62.6553;91.8;36.7580;56.9575;Bissekty, Navoi;occ:1269304;representativo
+Unaysaurus;-29.6014;-53.8569;216.5;-37.8234;-16.4547;Caturrita, Rio Grande do Sul;occ:461293;representativo
+Unenlagia;-38.4532;-68.7246;89.8;-44.3826;-47.1709;Portezuelo, Neuquén;occ:489973;representativo
+Unescoceratops;50.8146;-111.5750;77.9;57.7578;-73.6392;Dinosaur Park, Alberta;occ:572962;representativo
+Unquillosaurus;-24.3000;-65.2667;77.9;-27.8427;-46.4939;Los Blanquitos, Candelaria, Salta;occ:460036;representativo
+Urbacodon;42.1050;62.5803;97.2;37.3973;56.7640;Dzharakuduk, Navoi;occ:651204;representativo
+Utahceratops;37.4913;-111.7213;77.9;45.2644;-82.0802;Kaiparowits, Kane, Utah;occ:882010;representativo
+Utahraptor;38.8478;-109.6569;134.8;37.4136;-63.2389;Yellow Cat, Cedar Mountain, Grand, Utah;occ:1576784;representativo
+Uteodon;41.9800;-106.1457;148.9;38.1261;-53.7076;Morrison, Wyoming;occ:536375;representativo
+Vagaceratops;49.9500;-110.2667;77.9;56.6490;-72.7852;Dinosaur Park, Alberta;occ:256534;representativo
+Vahiny;-15.9000;46.5833;69.1;-30.3365;38.3152;Anembalemba, Maevarano, Mahajanga;occ:1204690;representativo
+Vallibonavenatrix;40.5834;0.0334;123.6;30.1804;10.7894;Arcillas de Morella, Castellón, Valenciana;occ:1475023;representativo
+Variraptor;43.5348;5.5656;74.8;34.9970;7.7711;Grès à Reptiles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur;occ:297290;representativo
+Vayuraptor;16.9000;102.5411;123.6;13.6683;111.5225;Sao Khua, Nong Bua Lam Phu;occ:1446541;representativo
+Velafrons;25.6189;-101.0481;77.9;31.3011;-73.5224;Cerro del Pueblo, Coahuila;occ:1560365;representativo
+Velocipes;50.7751;18.4209;216.5;35.6333;15.6149;Lissauer Breccia, Opole;occ:1107323;representativo
+Velociraptor;44.2167;103.2667;77.9;41.7951;92.7365;Tugrugyin, Djadokhta, Omnogov;occ:594445;representativo
+Velocisaurus;-39.1177;-67.6323;84.7;-42.3407;-50.9933;Bajo de la Carpa, Río Negro;occ:1338889;representativo
+Venenosaurus;38.8293;-109.4709;117.3;39.5719;-65.7395;Poison Strip Sandstone, Cedar Mountain, Grand, Utah;occ:513264;representativo
+Venetoraptor;-29.6586;-53.4358;232.2;-44.1837;-16.8002;Alemoa, Santa Maria, São João do Polêsine, Rio Grande do Sul;occ:1633028;tipo
+Venetoraptor gassenae;-29.6586;-53.4358;232.2;;;Alemoa, Santa Maria, São João do Polêsine, Rio Grande do Sul;occ:1633028;ocorrencia
+Vespersaurus;-26.7761;-53.0647;96.8;-33.6864;-28.5483;Goio-Erê, Paraná;occ:1639163;representativo
+Veterupristisaurus;-9.6799;39.2138;150.7;-29.7177;16.9116;Middle Dinosaur, Tendaguru, Lindi;occ:475213;representativo
+Viavenator;-37.5931;-69.3156;84.7;-40.6630;-52.4874;Bajo de la Carpa, Neuquén;occ:1315654;representativo
+Volkheimeria;-43.4162;-69.1635;181.7;-41.3932;-27.9947;Cañadón Asfalto, Chubut;occ:297557;representativo
+Vouivria;47.0664;5.4192;156.9;38.2978;14.2940;Calcaires de Clerval, Jura, Franche-Comté;occ:788827;representativo
+Vulcanodon;-16.8083;28.2750;191.8;-31.0498;5.2166;Forest Sandstone, Mashonaland North;occ:367589;representativo
+Wakinosaurus;33.6958;130.6414;123.6;41.8202;132.1158;Sengoku, Kurate, Fukuoka;occ:410624;representativo
+Walgettosuchus;-29.4333;147.9833;97.2;-60.5225;141.0843;Wallangulla Sandstone, Griman Creek, New South Wales;occ:401746;representativo
+Wamweracaudia;-9.7090;39.2285;146.1;-30.3102;17.2724;Upper Dinosaur, Tendaguru, Lindi;occ:483410;representativo
+Wannanosaurus;29.8219;118.3375;69.1;30.5429;109.5662;Xiaoyan, Shexian, Anhui;occ:256711;representativo
+Wendiceratops;49.1209;-110.8627;77.9;56.0126;-73.9709;Oldman, Alberta;occ:1286265;representativo
+Wiehenvenator;52.2586;8.8144;163.4;42.5976;17.1817;Upper Siltstone Series, Ornatenton, Nordrhein-Westfalen;occ:1350643;representativo
+Willinakaqe;-39.2967;-67.5342;69.1;-41.5386;-55.3704;Lower, Allen, Río Negro;occ:343963;representativo
+Wudingloong;26.0013;102.1727;197.2;33.9032;107.2954;Yubacun, Wuding, Yunnan;occ:2063346;representativo
+Wuerhosaurus;46.0439;85.7920;118.8;44.2444;86.6719;Lianmuqin, Xinjiang;occ:493180;representativo
+Wulagasaurus;48.3947;130.1458;69.1;50.2905;116.5334;Yuliangzi, Heilongjiang;occ:735999;representativo
+Wulatelong;41.7419;106.7450;77.9;39.5809;96.5472;Wulansuhai, Linhe, Nei Mongol;occ:1138013;representativo
+Wulong;43.6361;120.4271;117.3;47.9351;118.7226;2, Jiufotang, Chaoyang, Liaoning;occ:1561497;representativo
+Xenoceratops;49.5072;-111.3569;77.9;56.4879;-74.2673;Foremost, Alberta;occ:1081719;representativo
+Xenotarsosaurus;-45.3167;-69.6167;95.2;-52.1171;-47.1257;Lower, Bajo Barreal, Sarmiento, Chubut;occ:488653;representativo
+Xianshanosaurus;34.1120;112.5893;111.0;36.5124;111.1249;Haoling, Ruyang, Henan;occ:1172079;representativo
+Xiaosaurus;29.4114;104.8525;162.9;29.1866;109.5369;Lower, Shaximiao, Zigong, Sichuan;occ:402865;representativo
+Xiaosaurus dashanpensis;29.4114;104.8525;162.9;;;Lower, Shaximiao, Zigong, Sichuan;occ:402865;ocorrencia
+Xiaotingia;40.8681;119.9911;160.2;42.1175;123.1695;Tiaojishan, Jianchang, Liaoning;occ:964027;representativo
+Xingtianosaurus;39.8786;123.4389;122.7;41.7483;125.0385;Dakangpu, Yixian, Liaoning;occ:1587766;representativo
+Xingxiulong;25.1991;102.1447;188.1;30.6331;108.3651;Zhangjiaao, Lufeng, Yunnan;occ:2063456;representativo
+Xinjiangovenator;46.1000;85.6667;118.8;44.2775;86.5350;Lianmuqin, Xinjiang;occ:487798;representativo
+Xinjiangtitan;42.9631;90.5739;155.6;44.3872;93.2369;Qiketai, Piqan, Xinjiang;occ:1190808;representativo
+Xixianykus;33.2892;111.4744;86.7;34.0225;104.4017;Majiacun, Xixia, Henan;occ:854418;representativo
+Xixiasaurus;33.3844;111.6655;81.0;32.3280;103.5903;Majiacun, Xixia, Henan;occ:902093;representativo
+Xixiposaurus;25.5930;102.3204;197.2;33.5273;107.5450;Lufeng, Lufeng, Yunnan;occ:900834;representativo
+Xiyunykus;45.1712;88.9217;134.8;45.1379;90.2744;Shengjinkou, Xinjiang;occ:1456454;representativo
+Xuanhanosaurus;31.4167;107.6333;169.6;32.8592;112.1183;Lower, Shaximiao, Sichuan;occ:295293;representativo
+Xunmenglong;41.2000;116.6500;129.2;42.3273;118.5336;Sichakou, Huajiying, Fengning, Hebei;occ:1583753;representativo
+Xuwulong;40.2786;98.1436;117.3;39.9942;97.3054;Upper Gray Beds, Xiagou, Jinta, Gansu;occ:915093;representativo
+Yamanasaurus;-4.1700;-79.6670;69.1;-5.6001;-64.2885;Río Playas, Loja;occ:1486541;representativo
+Yamatosaurus;34.3130;134.9100;69.1;42.2213;123.2964;Kita-ama, Hyogo;occ:1558806;representativo
+Yanbeilong;39.8869;112.7625;106.8;43.2563;107.4993;Zuoyun, Zuoyun, Shanxi;occ:1682711;representativo
+Yandusaurus;31.0806;107.8847;169.6;32.5987;112.4775;Lower, Shaximiao, Kaijiang, Sichuan;occ:1404246;representativo
+Yandusaurus hongheensis;29.4000;104.7833;169.6;;;Lower, Shaximiao, Sichuan;occ:545083;holotipo
+Yangchuanosaurus;29.3333;105.6833;164.8;29.3189;110.3577;Upper, Shaximiao, Yongchuan, Sichuan;occ:493033;representativo
+Yehuecauhceratops;28.8300;-103.3000;77.9;34.9215;-74.8371;Aguja, Ocampo, Coahuila;occ:1421974;representativo
+Yi;40.4833;119.3667;160.1;41.7374;122.5279;Tiaojishan, Qinglong, Hebei;occ:1269297;representativo
+Yimenosaurus;24.3550;102.5422;200.4;33.6040;105.2432;Fengjiahe, Yimen, Yunnan;occ:539205;representativo
+Yingshanosaurus;31.0784;106.6193;164.8;31.2232;110.6710;Upper, Shaximiao, Yingshan, Sichuan;occ:1400760;representativo
+Yixianosaurus;39.8786;123.4389;122.7;41.7483;125.0385;Dakangpu, Yixian, Liaoning;occ:880423;representativo
+Yizhousaurus;25.0000;102.0333;196.2;32.8962;107.3733;Zhangjia'ao, Lufeng, Lufeng, Yunnan;occ:1439378;representativo
+Yongjinglong;35.8097;103.7719;119.5;36.2580;105.8643;5, Gansu;occ:1587594;representativo
+Ypupiara;-19.7203;-47.7383;69.1;-23.3273;-33.2115;Serra da Galga, Minas Gerais;occ:1581445;representativo
+Yuanmouraptor;26.0000;101.8611;171.4;26.2456;108.2686;Zhanghe, Yuanmou, Yunnan;occ:2063474;representativo
+Yuanmousaurus;25.9472;101.9089;168.1;26.2064;108.3307;Zhanghe, Yuanmou, Yunnan;occ:602115;representativo
+Yuanyanglong;40.2717;105.7500;111.0;41.2120;102.4565;Miaogou, Nei Monggol;occ:1685059;representativo
+Yueosaurus;29.1521;121.0276;103.6;35.9972;119.2907;Liangtoutang, Tiantai, Zhejiang;occ:1134933;representativo
+Yueosaurus tiantaiensis;29.1521;121.0276;103.6;;;Liangtoutang, Tiantai, Zhejiang;occ:1134933;ocorrencia
+Yulong;34.0500;111.6333;69.1;32.7898;101.9210;Qiupa, Luanchuan, Henan;occ:1604951;representativo
+Yunganglong;40.0136;112.7031;92.0;41.9556;103.9340;Zhumapu, Zuoyun, Shanxi;occ:1179352;representativo
+Yunnanosaurus;25.1738;102.0974;196.2;33.0778;107.4024;Zhangjia'ao, Lufeng, Yunnan;occ:1092253;representativo
+Yunyangosaurus;30.8617;108.9172;177.6;34.6565;114.6042;Xintiangou, Chongqing;occ:1524760;representativo
+Yurgovuchia;38.7319;-109.5928;135.8;37.2900;-63.2070;Yellow Cat, Cedar Mountain, Utah;occ:1041314;representativo
+Yutyrannus;41.4697;120.7561;122.7;43.0096;121.9871;Yixian, Beipiao, Liaoning;occ:1032618;representativo
+Yuxisaurus;24.6490;102.2374;188.6;30.1119;108.5910;Upper, Fengjiahe, Yuxi, Yunnan;occ:1597446;representativo
+Zalmoxes;45.5800;22.9300;69.1;;;upper, Râul Mare, Hunedoara;occ:1561175;representativo
+Zanabazar;43.5400;99.6000;69.1;40.7781;88.5323;Nemegt, Omnogov;occ:513569;representativo
+Zapalasaurus;-39.5553;-70.1531;122.7;-38.9279;-36.0520;Piedra Parada, La Amarga, Neuquén;occ:624237;representativo
+Zaraapelta;43.4747;99.8331;92.0;43.4021;90.4046;Baynshire, Omnogov;occ:1407042;representativo
+Zavacephale;45.8500;108.4467;110.0;47.5877;103.2811;Lower, Khuren Dukh, Dornogov;occ:2043149;representativo
+Zby;39.1700;-9.2000;150.7;34.1790;0.3988;Praia da Amoreira-Porto Novo, Lisboa, Centro;occ:1098123;representativo
+Zephyrosaurus;44.6511;-107.8800;106.8;44.4700;-64.0809;Himes, Cloverly, Big Horn, Wyoming;occ:1092859;representativo
+Zephyrosaurus schaffi;45.4870;-108.7296;106.8;;;Himes, Cloverly, Carbon, Montana;occ:645106;ocorrencia
+Zhanghenglong;33.2892;111.4744;84.7;31.0413;103.2306;Unit 2, Majiacun, Xixia, Henan;occ:1210224;representativo
+Zhejiangosaurus;28.4767;119.8650;97.2;34.6247;115.4535;Chaochuan, Lishui, Zhejiang;occ:828708;representativo
+Zhenyuanlong;40.6500;119.6833;122.7;42.0745;121.0747;Yixian, Jianchang, Liaoning;occ:1407226;representativo
+Zhongjianosaurus;40.9128;119.4958;117.3;44.5093;118.3765;3, Jiufotang, Liaoning;occ:1542826;representativo
+Zhuchengceratops;35.9956;119.4099;77.9;36.2944;110.4002;Hongtuya, Zhucheng, Shandong;occ:895799;representativo
+Zhuchengtitan;37.4658;120.9847;77.9;38.0155;111.5168;Hongtuya, Zhucheng, Shandong;occ:1403400;representativo
+Zhuchengtyrannus;37.4658;120.9847;77.9;38.0155;111.5168;Hongtuya, Zhucheng, Shandong;occ:933527;representativo
+Ziapelta;36.3439;-108.2091;77.9;43.4059;-78.7281;De-na-zin, Kirtland, San Juan, New Mexico;occ:1273397;representativo
+Zizhongosaurus;29.8000;104.8500;171.4;30.6281;109.9583;Da'anzhai, Ziliujing, Zizhong, Sichuan;occ:522073;representativo
+Zuniceratops;35.0667;-108.8500;91.8;38.4947;-77.5042;Lower, Moreno Hill, Catron, New Mexico;occ:513610;representativo
+Zuolong;45.1913;88.9199;158.2;46.7853;91.2847;Upper, Shishugou, Xinjiang;occ:1093821;representativo
+Zuoyunlong;40.0136;112.7031;92.0;41.9556;103.9340;Zhumapu, Zuoyun, Shanxi;occ:1407893;representativo
+Zupaysaurus;-29.8500;-68.0667;216.5;-39.5526;-32.0290;Los Colorados, La Rioja;occ:360364;representativo
+Zuul;48.5745;-109.7333;77.9;55.2397;-73.0791;Coal Ridge, Judith River, Hill, Montana;occ:1386070;representativo
+
+# Répteis mesozoicos. Ponto representativo da Paleobiology Database (ocorrência-tipo quando existe).
+Abyssosaurus;55.0456;46.1628;129.2;41.5600;57.7000;Poretskii, Chuvash;occ:1000641;holotipo
+Acamptonectes;54.1620;-0.2360;129.2;38.8500;23.0900;North Yorkshire, England;occ:1006657;holotipo
+Acuetzpalin;24.7267;-103.5475;152.0;11.6300;-41.7900;Durango;occ:1492004;holotipo
+Aegirosaurus;48.8825;10.9483;147.1;32.0300;23.7300;Weissenburg-Gunzenhausen, Bayern;occ:908439;representativo
+Aerodraco;52.2000;0.1333;103.4;49.1600;18.7900;Cambridgeshire, England;occ:846914;holotipo
+Aerotitan;-39.4664;-67.3331;69.1;-40.4300;-50.2100;Río Negro;occ:1081121;holotipo
+Aetodactylus;32.6056;-97.0611;97.2;38.0600;-55.3700;Texas;occ:844039;holotipo
+Afrotapejara;31.6475;-4.2283;100.1;26.8000;8.1200;Errachidia, Drâa-Tafilalet;occ:1499994;holotipo
+Aigialosaurus;43.1900;16.6500;97.2;31.6600;29.2100;Platy limestones exposed in a narrow band running from the town of Starigrad in ;occ:1011572;holotipo
+Alamodactylus;33.0000;-96.8333;87.8;38.6700;-57.3400;Collin, Texas;occ:899986;holotipo
+Alanqa;30.8975;-3.8703;97.2;25.2400;7.5400;Errachidia, Drâa-Tafilalet;occ:1540231;holotipo
+Albadraco;46.0290;23.5535;69.1;25.4000;29.4500;Alba;occ:1521035;holotipo
+Albertonectes;49.5206;-112.8919;77.9;60.1900;-68.3800;Alberta;occ:1039228;holotipo
+Alcione;32.8750;-6.6208;69.1;21.0600;2.2000;Khouribga;occ:1403797;holotipo
+Alexeyisaurus;80.4406;59.6800;219.2;64.4900;5.6500;Franz Josef Land, Nenets;occ:914556;holotipo
+Allkaruen;-43.4500;-69.1700;174.5;-43.6500;-17.3500;Chubut;occ:1379986;holotipo
+Amphekepubis;25.7500;-99.6667;86.7;32.3800;-62.8000;Nuevo León;occ:933709;holotipo
+Angolasaurus;-8.2850;13.3450;87.8;-20.5000;8.9900;;occ:2038904;holotipo
+Anguanax;45.8561;11.5003;162.2;21.3400;34.4700;Veneto;occ:1100746;holotipo
+Angustinaripterus;29.4114;104.8525;162.9;32.2300;120.5700;Zigong, Sichuan;occ:256478;holotipo
+Anhanguera;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:832586;holotipo
+Anningasaura;50.7261;-2.9389;192.8;38.2600;11.0500;Dorset, England;occ:1168353;holotipo
+Anurognathus;48.9092;11.3753;147.1;32.1100;24.0500;Bayern;occ:877933;holotipo
+Apatorhamphus;30.8975;-3.8703;97.2;25.2400;7.5400;Errachidia, Drâa-Tafilalet;occ:1526670;holotipo
+Aralazhdarcho;45.9500;64.6500;79.0;35.3400;64.7800;Qyzylorda;occ:659314;holotipo
+Arambourgiania;32.0167;36.0333;69.1;10.2100;37.5700;old underground phosphate mines of the Jordan Phosphate Mines Company LTD (JPMC);occ:150603;holotipo
+Archaeoistiodactylus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:920390;holotipo
+Arcticodactylus;71.3714;-22.5556;216.5;43.9100;9.4800;East Greenland;occ:283819;representativo
+Ardeadactylus;48.1167;8.8667;150.7;31.1900;22.3400;Baden-Württemberg;occ:1192903;holotipo
+Argovisaurus;47.4244;8.1426;168.1;32.7100;28.7200;Brugg;occ:1651471;holotipo
+Aristonectes;-39.5667;-66.9833;69.1;-40.5800;-49.8900;Río Negro;occ:1118872;holotipo
+Arthropterygius;76.1511;-113.5000;155.3;61.2300;-15.8300;Melville Island, Northwest Territories;occ:1062206;holotipo
+Arthurdactylus;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:849614;holotipo
+Athabascasaurus;56.9958;-111.6672;111.7;64.3400;-52.1300;Alberta;occ:989280;holotipo
+Attenborosaurus;50.7336;-2.9017;196.2;37.1800;10.3400;Dorset, England;occ:1108488;holotipo
+Aurorazhdarcho;48.9939;11.2031;147.1;32.1700;23.9000;Bayern;occ:1095164;holotipo
+Aussiedraco;-22.9167;140.5833;103.4;-63.7700;129.5400;Queensland;occ:832558;holotipo
+Austriadactylus;47.3333;11.1833;208.4;25.4700;29.4400;Tyrol;occ:635142;holotipo
+Austriadraco;47.3175;11.2206;208.4;25.4400;29.4500;Tirol;occ:777000;holotipo
+Avalonnectes;51.1250;-2.7314;200.4;36.1000;9.3200;Somerset, England;occ:1040454;holotipo
+Aymberedactylus;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:1384099;holotipo
+Azhdarcho;42.1173;62.6553;91.8;35.6200;69.8400;Navoi;occ:832755;holotipo
+Baisesaurus;24.6630;105.3043;247.8;-13.6800;106.9600;Guangxi;occ:1605531;holotipo
+Bakonydraco;47.2167;17.6000;84.7;30.9900;28.8400;Veszprém;occ:832347;holotipo
+Banguela;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:851484;holotipo
+Baptanodon;42.0000;-106.5450;161.5;29.3100;-35.8900;Carbon, Wyoming;occ:902469;representativo
+Barbaridactylus;32.8750;-6.6208;69.1;21.0600;2.2000;Khouribga;occ:1403799;holotipo
+Barbosania;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:849619;holotipo
+Barracudasauroides;25.5189;104.9056;244.2;-10.6000;107.3400;Panxian, Guizhou;occ:899756;representativo
+Barracudasaurus;25.4667;104.8333;244.2;-10.6500;107.2800;Panxian, Guizhou;occ:916388;holotipo
+Batrachognathus;42.9000;70.0000;158.2;40.8600;76.5100;Aulie, near Mikhailovka village, in the Chayan area of the Chimkent district, So;occ:832196;holotipo
+Beipiaopterus;41.5990;120.8401;122.7;41.5200;129.4200;Beipiao, Liaoning;occ:739419;holotipo
+Bellubrunnus;49.1081;11.9014;150.7;32.5700;24.4100;Upper Palatinate, Eastern Barvaria;occ:1053537;holotipo
+Bennettazhia;44.6026;-120.1730;106.8;50.8000;-71.6000;Wheeler, Oregon;occ:1622227;holotipo
+Bergamodactylus;45.7830;9.8170;213.3;22.4500;28.0200;Bergamo, Lombardia;occ:876982;holotipo
+Besanosaurus;45.1500;9.2333;242.0;16.9800;33.2800;Monte San Giorgio, southern Switzerland. Coordinates for nearby Tessin/Ticino Ri;occ:1134407;holotipo
+Bishanopliosaurus;31.3690;108.2400;179.4;36.0500;129.0100;Bishan, Chongqing;occ:899916;holotipo
+Bobosaurus;46.4569;13.2911;235.3;16.1900;34.3200;Udine;occ:1058248;holotipo
+Bogolubovia;52.4667;44.9333;77.9;40.2500;47.6000;Penza;occ:832758;holotipo
+Borealonectes;76.1511;-113.5000;163.4;62.2700;-13.7300;Melville Island, Northwest Territories;occ:1062205;holotipo
+Boreopterus;42.1395;120.9749;122.7;41.1900;131.9000;Liaoning;occ:1252451;holotipo
+Brachauchenius;38.9200;-98.5050;97.2;47.9700;-62.0300;Russell, Kansas;occ:1708979;holotipo
+Brachypterygius;52.6364;0.3708;147.1;34.6500;15.1100;Norfolk, England;occ:929816;holotipo
+Brancasaurus;52.2613;7.0340;138.1;35.0600;22.7700;Nordrhein-Westfalen;occ:463413;holotipo
+Brasileodactylus;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:851448;holotipo
+Cacibupteryx;22.7167;-83.6167;156.9;;;Pinar del Rio;occ:824850;holotipo
+Caelestiventus;40.4536;-109.2380;205.8;15.1100;-37.7300;Uintah, Utah;occ:1358593;holotipo
+Caiuajara;-26.7761;-53.0647;96.8;-29.8400;-27.4900;Paraná;occ:1221869;holotipo
+Californosaurus;40.8208;-122.1908;232.2;23.3800;-43.2700;Shasta, California;occ:1419476;holotipo
+Callawayia;56.0833;-123.0000;216.5;33.2000;-41.0200;British Columbia;occ:820942;holotipo
+Camposipterus;52.2000;0.1333;103.4;49.1600;18.7900;Cambridgeshire, England;occ:1429229;holotipo
+Campylognathoides;48.6333;9.5181;183.6;39.4300;27.0100;Esslingen, Baden-Württenburg;occ:830556;holotipo
+Carinodens;32.2550;-7.8200;69.1;20.8100;0.9600;From phosphate mine east of Benguérir. The fossils were obtained partly by surfa;occ:1525990;holotipo
+Carsosaurus;45.8167;13.7450;97.2;34.9900;29.6100;;occ:1011607;holotipo
+Cartorhynchus;31.6206;117.8197;247.8;5.8000;116.0100;Anhui;occ:1329759;holotipo
+Cathayopterus;41.2400;119.4011;122.7;41.0500;127.3900;Liaoning;occ:837541;holotipo
+Catutosaurus;-38.4611;-70.1681;146.1;-46.9700;-25.4200;Zapala, Neuquén;occ:1565746;holotipo
+Caulkicephalus;50.6636;-1.1319;123.6;37.4700;24.2000;Isle of Wight, England;occ:821006;holotipo
+Caupedactylus;-7.0000;-39.0000;116.4;-4.9000;3.2900;Ceará;occ:1173136;holotipo
+Caviramus;47.0386;9.7336;206.3;27.1200;28.2300;Canton Grisons;occ:805168;representativo
+Caypullisaurus;-38.1125;-70.4958;144.1;-46.2400;-26.1600;Neuquén;occ:1006674;holotipo
+Cearadactylus;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:851478;holotipo
+Chacaicosaurus;-39.2500;-70.3000;169.8;-39.8300;-21.9400;Neuquen;occ:1108561;holotipo
+Changchengopterus;40.4833;119.3667;160.2;49.5400;128.3100;Qinglong, Hebei;occ:827898;holotipo
+Chaohusaurus;31.6244;117.8228;248.9;5.8100;116.0200;Anhui;occ:1378800;holotipo
+Chaoyangopterus;41.4239;120.1753;117.3;40.3600;131.3600;Chaoyang, Liaoning;occ:837516;holotipo
+Chensaurus;31.0400;117.2700;247.8;-5.7800;116.5900;Anhui;occ:1134401;holotipo
+Chonespondylus;40.5481;-118.1000;226.7;20.0000;-41.3000;Pershing, Nevada;occ:906314;representativo
+Cimoliopterus;33.1000;-96.9667;97.2;38.5300;-55.1600;Denton, Texas;occ:1309628;holotipo
+Clidastes;39.4122;-100.4842;86.7;45.5400;-51.7300;Sheridan, Kansas;occ:1430834;holotipo
+Coloborhynchus;30.4167;-4.9167;97.2;25.1700;6.4100;Errachidia, Drâa-Tafilalet;occ:819575;holotipo
+Colymbosaurus;56.9083;-6.1147;166.8;40.6800;15.7500;Highland, Scotland;occ:1284661;holotipo
+Compressidens;50.4167;3.9333;69.1;38.1900;13.6100;SPECIFIC LOCATION: Presumably close to Ciply, Mons Basin, Belgium. LAT/LONG: est;occ:1528436;holotipo
+Contectopalatus;45.1500;9.2333;242.0;16.9800;33.2800;Monte San Giorgio, southern Switzerland. Coordinates for nearby Tessin/Ticino Ri;occ:1134404;representativo
+Cryodrakon;50.8190;-111.5737;77.9;61.0100;-65.7000;Alberta;occ:851666;holotipo
+Cryonectes;49.0628;-0.3706;188.6;37.9700;16.9800;Calvados;occ:1063729;holotipo
+Cryopterygius;78.3366;15.8349;146.1;60.8200;13.3700;Spitsbergen;occ:1077966;holotipo
+Cryptoclidus;52.5667;-0.2333;163.4;35.9500;18.5600;Cambridgeshire, England;occ:1121616;holotipo
+Ctenochasma;48.9050;11.1750;147.1;32.0800;23.8900;Bayern;occ:1350000;holotipo
+Cuspicephalus;50.6117;-2.1319;153.5;32.4600;13.5500;Dorset, England;occ:995306;holotipo
+Cycnorhamphus;48.1167;8.8667;150.7;31.1900;22.3400;Baden-Württemberg;occ:1192902;holotipo
+Cymbospondylus;40.0014;-117.5394;244.2;24.5500;-38.0300;Pershing, Nevada;occ:1417529;holotipo
+Dallasaurus;32.5886;-96.9560;91.8;38.0700;-56.7700;Dallas, Texas;occ:755519;holotipo
+Daohugoupterus;41.3164;119.2386;163.4;48.9000;130.4800;Nei Mongol;occ:1328950;holotipo
+Darwinopterus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:833870;holotipo
+Dawndraco;38.6439;-100.1697;86.7;45.1100;-59.3600;Ness, Kansas;occ:902259;holotipo
+Dearcmhara;57.0200;-6.6700;176.4;42.5900;15.4000;Isle of Skye, Scotland;occ:1250556;holotipo
+Dendrorhynchoides;40.4833;119.3667;160.2;49.5400;128.3100;Qinglong, Hebei;occ:1096535;holotipo
+Dimorphodon;51.6019;-2.6297;200.4;36.1900;8.9100;Gloucestershire, England;occ:830777;holotipo
+Djupedalia;78.3369;15.8594;146.1;60.8200;13.3800;Spitsbergen;occ:1077965;holotipo
+Dolichorhynchops;38.9133;-101.1811;88.8;46.2100;-61.1100;Logan, Kansas;occ:337111;holotipo
+Domeykodactylus;-25.2583;-69.2097;121.8;-23.1800;-27.8500;Antofagasta;occ:832392;holotipo
+Dorygnathus;49.9167;11.4667;183.6;41.0800;27.9900;Bayern;occ:297459;holotipo
+Douzhanopterus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:1439336;holotipo
+Dsungaripterus;46.0697;85.5574;134.8;38.8500;94.4800;Xinjiang;occ:1561615;representativo
+Ectenosaurus;39.6469;-99.2183;81.0;46.6600;-58.9600;Logan, Kansas;occ:1638790;holotipo
+Edgarosaurus;45.4000;-108.7667;100.1;52.0500;-63.1400;Carbon, Montana;occ:882793;representativo
+Eidolosaurus;45.8167;13.7450;95.2;34.2100;28.3000;;occ:1070328;holotipo
+Elanodactylus;41.6014;120.8722;122.7;41.5300;129.4500;Beipiao, Liaoning;occ:837543;holotipo
+Elasmosaurus;39.0134;-101.3738;77.9;47.3400;-62.3200;Logan, Kansas;occ:720541;holotipo
+Eoazhdarcho;41.5667;120.4417;117.3;40.5400;131.5700;Liaoning;occ:833874;holotipo
+Eonatator;56.1489;14.4989;77.9;44.1400;23.8200;Skåne;occ:984156;holotipo
+Eoplesiosaurus;51.1833;-3.3333;200.4;35.9900;8.8700;Somerset, England;occ:1040456;holotipo
+Eopteranodon;41.8000;120.7667;122.7;41.7000;129.2700;Liaoning;occ:837521;holotipo
+Eosipterus;41.4733;121.1906;122.7;41.4800;129.8000;Liaoning;occ:837540;holotipo
+Eremiasaurus;32.8833;-6.6333;69.1;21.0700;2.1900;Locality uncertain (derived from the commercial field without precise locality d;occ:1010268;holotipo
+Eretmosaurus;52.8964;-0.8581;196.2;40.4100;11.1300;Leicestershire, England;occ:987317;holotipo
+Eternauta;-39.1944;-69.6675;144.1;-47.2400;-25.0400;Neuquén;occ:1006673;holotipo
+Eudimorphodon;45.7830;9.8170;213.3;22.4500;28.0200;Bergamo, Lombardia;occ:846845;holotipo
+Eurazhdarcho;45.9833;23.5722;69.1;25.3500;29.4300;Alba;occ:1100052;holotipo
+Eurhinosaurus;52.7330;-1.1500;200.4;37.9700;9.5400;Leicestershire, England;occ:1429655;holotipo
+Eurolimnornis;46.9500;22.4000;140.1;10.4900;37.3000;Oradea, Judetul Bihor;occ:150243;holotipo
+Europejara;40.0645;-1.8808;123.6;26.9100;21.3100;Cuenca, Castilla-La Mancha;occ:1053536;holotipo
+Eurycleidus;51.1250;-2.7314;200.4;36.1000;9.3200;Somerset, England;occ:989454;holotipo
+Excalibosaurus;51.1858;-3.2650;196.2;37.5000;9.8400;Somerset;occ:1125526;holotipo
+Feilongus;41.5578;120.8162;122.7;41.4800;129.4100;Beipiao, Liaoning;occ:739686;holotipo
+Fenghuangopterus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:865792;holotipo
+Ferrodraco;-22.3483;143.0892;95.2;-61.7300;141.7400;Queensland;occ:1669830;holotipo
+Forfexopterus;40.6500;119.6833;117.3;39.5200;131.1300;Jianchang, Liaoning;occ:1437862;holotipo
+Gallardosaurus;22.6167;-83.6333;156.9;;;Pinar del Rio;occ:821513;holotipo
+Gavialimimus;32.8833;-6.6333;69.1;21.0700;2.1900;Locality uncertain (derived from the commercial field without precise locality d;occ:1529096;holotipo
+Gegepterus;41.6014;120.8722;122.7;41.5300;129.4500;Beipiao, Liaoning;occ:984396;holotipo
+Gengasaurus;43.4078;12.9811;148.9;17.7400;30.9200;Angona, Marche;occ:1419312;holotipo
+Geosternbergia;43.3000;-103.8167;77.9;51.7700;-62.2800;South Dakota;occ:902258;holotipo
+Germanodactylus;48.7925;10.9044;147.1;31.9400;23.7100;Bayern;occ:1350002;holotipo
+Gladocephaloideus;41.4733;121.1906;122.7;41.4800;129.8000;Liaoning;occ:984668;holotipo
+Globidens;32.4186;-87.1972;79.0;36.9000;-50.6600;Greene, Alabama;occ:768112;holotipo
+Gnathomortis;38.9017;-107.9258;77.9;49.0200;-69.5400;Delta, Colorado;occ:76211;holotipo
+Gnathosaurus;50.6097;-2.0006;140.1;33.1100;16.6600;Dorset, England;occ:837566;holotipo
+Goronyosaurus;13.4500;5.6833;69.1;-0.9100;7.4100;Sokoto;occ:899900;representativo
+Grendelius;51.7500;48.8500;146.1;42.3100;50.7900;Saratov;occ:1125530;holotipo
+Grippia;78.0000;20.0000;248.9;55.7600;23.1400;Spitzberger;occ:363117;holotipo
+Gronausaurus;52.2613;7.0340;138.1;35.0600;22.7700;Nordrhein-Westfalen;occ:983518;holotipo
+Guanlingsaurus;25.8167;105.2000;232.2;1.9900;110.6500;Anshun, Guizhou;occ:1108332;representativo
+Guidraco;40.9128;119.4958;117.3;39.7400;130.8700;Liaoning;occ:1081655;holotipo
+Guizhouichthyosaurus;25.8667;105.6167;232.2;2.0400;111.0200;Guanling, Guizhou;occ:1135822;holotipo
+Gulosaurus;54.5194;-120.7219;249.7;39.2500;-32.1000;British Columbia;occ:920239;holotipo
+Haasiasaurus;31.9542;35.2583;97.2;14.7400;40.8900;several plattenkalk quarries near 'Ein Yabrud, 20 km north of Jerusalem, 7 km NE;occ:138846;holotipo
+Hainosaurus;43.2000;-99.1800;77.9;50.6000;-57.5900;Gregory, South Dakota;occ:1011629;holotipo
+Halisaurus;32.8833;-6.6333;69.1;21.0700;2.1900;Locality uncertain (derived from the commercial field without precise locality d;occ:1212118;holotipo
+Hamipterus;42.8185;93.5249;134.8;37.5600;103.8700;Xinjiang;occ:1225230;holotipo
+Haopterus;41.6014;120.8722;122.7;41.5300;129.4500;Beipiao, Liaoning;occ:835013;holotipo
+Harpactognathus;41.9671;-106.2910;148.6;28.6800;-41.0300;Albany, Wyoming;occ:491150;holotipo
+Hastanectes;50.8542;0.5733;134.8;34.1500;20.7600;East Sussex, England;occ:1041048;holotipo
+Hatzegopteryx;45.6167;22.7833;69.1;25.3600;28.7000;Hunedoara;occ:818652;holotipo
+Hauffiopteryx;50.9292;-2.9092;183.6;39.0400;16.2500;Somerset, England;occ:1125587;representativo
+Hauffiosaurus;54.4900;-0.6064;183.6;42.8600;16.5500;Yorkshire, England;occ:907840;holotipo
+Herbstosaurus;-39.2136;-70.0888;146.1;-47.7100;-25.1900;Neuquén;occ:796320;holotipo
+Himalayasaurus;28.1570;85.9800;213.3;-33.4100;59.3700;Tibet;occ:1157811;holotipo
+Hongshanopterus;41.4239;120.1753;117.3;40.3600;131.3600;Chaoyang, Liaoning;occ:834894;holotipo
+Huanhepterus;35.7333;107.6333;118.8;32.4100;120.6900;Qingyang, Gansu;occ:295294;holotipo
+Huaxiapterus;41.5667;120.4417;117.3;40.5400;131.5700;Liaoning;occ:837536;holotipo
+Hudsonelpidia;56.0000;-123.1333;219.2;33.3500;-40.8400;British Columbia;occ:1306282;representativo
+Hydrotherosaurus;36.7161;-120.7225;69.1;49.4700;-84.7900;Fresno, California;occ:937930;holotipo
+Iberodactylus;40.9053;-0.7331;123.6;27.1200;22.6500;Teruel, Aragón;occ:1457690;holotipo
+Ichthyosaurus;50.7327;-2.9220;200.4;35.3200;9.1700;Dorset, England;occ:1190871;holotipo
+Ichthyotitan;51.2070;-3.4440;203.6;33.7300;8.4900;Somerset, England;occ:1651914;holotipo
+Igdamanosaurus;29.6667;31.5333;77.9;10.2200;34.6400;Ash Sharqiyah;occ:1528604;holotipo
+Ikrandraco;40.6550;119.6900;117.3;39.5200;131.1400;Jianchang, Liaoning;occ:1328956;holotipo
+Isfjordosaurus;78.3358;15.8953;247.8;55.7100;21.5400;Locality described as "Isfjord", location chosen based on proximity to other col;occ:1420150;holotipo
+Istiodactylus;50.6542;-1.4467;123.6;37.4800;23.9500;Isle of Wight, England;occ:1607130;holotipo
+Jabalisaurus;24.9556;-100.9736;150.7;11.2000;-40.2600;Coahuila;occ:946773;holotipo
+Jeholopterus;41.3164;119.2386;163.4;48.9000;130.4800;Nei Mongol;occ:292854;holotipo
+Jianchangnathus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:1081670;holotipo
+Jianchangopterus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:984655;holotipo
+Jidapterus;41.5667;120.4417;117.3;40.5400;131.5700;Liaoning;occ:837539;holotipo
+Jormungandr;48.9839;-98.4619;77.9;55.4400;-52.6500;Cavalier County, North Dakota;occ:1638803;holotipo
+Kaikaifilu;-64.2239;-56.7217;69.1;-59.2800;-70.6100;;occ:1411987;holotipo
+Kaiwhekea;-45.4667;170.8167;74.8;-55.9600;-143.3000;North Otago, South Island;occ:915498;holotipo
+Keilhauia;78.3350;15.8020;140.1;61.3400;22.4300;Spitsbergen;occ:1439362;holotipo
+Kepodactylus;38.5410;-105.2125;146.1;25.8700;-41.2400;Fremont, Colorado;occ:481977;holotipo
+Keresdrakon;-26.7761;-53.0647;96.8;-29.8400;-27.4900;Paraná;occ:1487956;holotipo
+Khinjaria;32.8322;-6.2300;69.1;20.8300;2.6900;Khouribga;occ:1648048;holotipo
+Kimmerosaurus;50.6089;-2.4539;149.9;32.2500;12.6700;Dorset, England;occ:1135808;holotipo
+Klobiodon;51.8600;-1.4300;166.8;35.9800;19.9400;Oxfordshire;occ:1561495;holotipo
+Komensaurus;45.8167;13.7450;97.2;34.9900;29.6100;;occ:799810;holotipo
+Kourisodon;49.6894;-125.0381;84.7;55.3200;-86.3300;British Columbia;occ:290537;holotipo
+Kronosaurus;-20.8417;144.2000;103.4;-62.1700;137.9100;Queensland;occ:950123;holotipo
+Kryptodrakon;45.1913;88.9199;158.2;48.7800;92.4500;Xinjiang;occ:1203831;holotipo
+Kunpengopterus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:1555648;holotipo
+Lacusovagus;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:849625;holotipo
+Latoplatecarpus;49.1833;-98.1000;77.9;55.7100;-52.2500;Manitoba;occ:969936;holotipo
+Leiodon;34.3333;37.6667;74.8;12.2300;39.7600;Bardeh, in the Palmyra area;occ:983544;representativo
+Leninia;54.0981;48.5572;120.5;42.2000;64.0000;Sengiley, Ul'yanovsk;occ:1107601;holotipo
+Leptocleidus;-27.5940;114.2410;122.7;-61.5600;78.1400;Kalbarri region, Western Australia;occ:948341;holotipo
+Leptonectes;50.7320;-2.8910;196.2;37.9200;10.8300;Dorset, England;occ:1314751;holotipo
+Leptostomia;30.8975;-3.8703;97.2;25.2400;7.5400;Errachidia, Drâa-Tafilalet;occ:1526669;holotipo
+Liaodactylus;40.8667;119.9833;158.2;49.8400;129.3800;Jianchang, Liaoning;occ:1425262;holotipo
+Liaoningopterus;41.5333;120.1833;117.3;40.4600;131.3300;Chaoyang, Liaoning;occ:837517;holotipo
+Liaoxipterus;41.5722;120.1583;117.3;40.5000;131.3000;Chaoyang, Liaoning;occ:834951;holotipo
+Libonectes;32.5886;-96.9560;95.2;38.1800;-56.2400;Dallas, Texas;occ:720741;holotipo
+Linlongopterus;40.8075;119.7957;117.3;40.2300;129.3900;Jianchang County, Liaoning;occ:1328955;holotipo
+Liopleurodon;52.5521;-0.2417;163.4;35.9400;18.5600;Cambridgeshire, England;occ:1071712;holotipo
+Lonchodectes;51.0786;1.1742;106.8;46.6800;22.8200;Kent, England;occ:837587;holotipo
+Lonchodraco;51.3283;0.4939;95.2;46.5500;16.0200;Kent, England;occ:833111;holotipo
+Lonchognathosaurus;43.5500;87.2630;118.8;37.8600;101.5000;Xinjiang;occ:818660;holotipo
+Longchengpterus;41.5722;120.1583;117.3;40.5000;131.3000;Chaoyang, Liaoning;occ:834950;holotipo
+Ludodactylus;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:849620;holotipo
+Lusonectes;40.1897;-8.8058;179.4;30.4300;15.1000;1500 m WNW of Alhadas, near Murtede, Portugal (40deg 11’N, 8deg 47'W)\r\nThere i;occ:1046217;holotipo
+Maaradactylus;-7.1817;-39.7183;116.4;-5.0400;2.5600;Ceará;occ:1407176;holotipo
+Macgowania;56.1500;-122.5667;216.5;33.1800;-40.7200;British Columbia;occ:1134412;holotipo
+Macroplata;52.2356;-1.4569;200.4;37.4400;9.6000;Warwickshire, England;occ:986427;holotipo
+Maiaspondylus;60.0167;-116.9500;108.2;67.9200;-61.8400;Northwest Territories;occ:915715;holotipo
+Malawania;37.0706;43.6233;127.0;0.9700;48.8300;Amadia, Kurdistan;occ:1135883;holotipo
+Maresaurus;-39.2500;-70.3000;169.8;-39.8300;-21.9400;Neuquen;occ:930372;holotipo
+Marmornectes;52.0708;-0.4958;163.4;35.4400;18.4500;Bedfordshire, England;occ:985482;holotipo
+Mauisaurus;-42.8092;173.2781;74.8;-53.3900;-140.0400;Hurunui District, Canterbury;occ:903963;representativo
+Megalneusaurus;42.8400;-107.6500;158.2;29.9800;-37.8900;Natrona County, Wyoming;occ:989642;holotipo
+Megapterygius;34.0500;135.2167;74.8;40.5400;128.4800;Wakayama;occ:1645671;holotipo
+Mesadactylus;38.5831;-108.3972;148.6;25.9400;-43.9200;Montrose, Colorado;occ:465131;holotipo
+Mesoleptos;45.8167;13.7450;95.2;34.2100;28.3000;;occ:1070056;holotipo
+Metashastasaurus;57.3028;-123.2306;216.5;34.3900;-40.6600;British Columbia;occ:933497;holotipo
+Meyerasaurus;48.6331;9.5181;183.6;39.4300;27.0100;Esslingen, Baden-Württenburg;occ:1097122;holotipo
+Microcleidus;54.4833;-0.6000;179.4;42.2100;19.2900;North Yorkshire, England;occ:821660;holotipo
+Microtuban;34.1319;35.7469;97.2;15.3300;41.3800;Near the town of Hjoûla located 35 km NNE of Beirut and 10 km inland from Jbail,;occ:1095163;holotipo
+Mikadocephalus;45.1500;9.2333;242.0;16.9800;33.2800;Monte San Giorgio, southern Switzerland. Coordinates for nearby Tessin/Ticino Ri;occ:1134409;representativo
+Mimodactylus;34.1319;35.7469;97.2;15.3300;41.3800;Near the town of Hjoûla located 35 km NNE of Beirut and 10 km inland from Jbail,;occ:1487998;holotipo
+Mistralazhdarcho;43.5340;5.2040;77.9;32.2200;14.5800;Bouches-du-Rhône, Provence-Alpes-Côte d'Azur;occ:1559814;holotipo
+Mixosaurus;24.5333;103.8500;244.2;-11.6100;106.4000;Luxy, Yunnan;occ:1658055;holotipo
+Moanasaurus;-39.0000;176.7500;74.8;-54.9800;-157.0700;Mangahouanga Stream, Te Hoe River, inland Hawke's Bay, New Zealand.;occ:1638845;holotipo
+Moganopterus;40.6500;119.6833;122.7;39.5700;130.3100;Jianchang, Liaoning;occ:1038750;holotipo
+Mollesaurus;-39.2500;-70.3000;169.8;-39.8300;-21.9400;Neuquen;occ:1108562;representativo
+Montanazhdarcho;48.0667;-113.0000;77.9;58.8500;-71.4700;Glacier, Montana;occ:820350;holotipo
+Mosasaurus;44.4750;-100.4122;77.9;52.1200;-58.0800;Hughes, South Dakota;occ:1118073;holotipo
+Muiscasaurus;5.5714;-73.5297;119.5;7.1800;-31.5800;Boyaca;occ:1309501;holotipo
+Muraenosaurus;52.5521;-0.2417;163.4;35.9400;18.5600;Cambridgeshire, England;occ:1071716;holotipo
+Muzquizopteryx;28.8831;-102.4061;89.8;35.4700;-63.6600;Coahuila;occ:832614;holotipo
+Mythunga;-20.8833;143.8000;103.4;-62.1400;137.1100;Queensland;occ:818232;holotipo
+Nakonanectes;47.7781;-106.6814;69.1;58.5000;-64.7100;Phillips County, Montana;occ:1419122;holotipo
+Nannopterygius;51.7500;48.8500;146.1;42.3100;50.7900;Saratov;occ:1094596;holotipo
+Navajodactylus;36.1598;-107.9292;77.9;46.4300;-70.8900;San Juan, New Mexico;occ:1099008;holotipo
+Nectoportheus;39.7617;-75.1600;69.1;41.1600;-38.4700;Gloucester, New Jersey;occ:1263252;holotipo
+Nemicolopterus;40.5864;119.4344;117.3;39.4100;130.9100;Jianchang, Liaoning;occ:735397;holotipo
+Nesodactylus;22.6881;-83.6469;156.4;;;Pinar del Rio;occ:824849;holotipo
+Ningchengopterus;41.4900;119.0000;122.7;41.0200;127.7000;Nincheng, Nei Mongol;occ:833872;holotipo
+Noripterus;46.0439;85.7920;118.8;40.2300;99.8200;Xinjiang;occ:487795;holotipo
+Normannognathus;49.5772;0.1175;150.7;31.6300;15.4000;Seine-Maritime, Haute-Normandie;occ:818294;holotipo
+Nurhachius;41.4239;120.1753;117.3;40.3600;131.3600;Chaoyang, Liaoning;occ:1487957;holotipo
+Nyctosaurus;39.3333;-99.6000;86.7;45.6400;-58.4800;Kansas;occ:842024;holotipo
+Ogmodirus;39.4517;-97.5300;91.8;44.8600;-55.2400;Cloud County, Kansas;occ:983434;holotipo
+Omphalosaurus;40.5086;-118.1267;247.8;25.9000;-37.5700;Nevada;occ:1419019;holotipo
+Oneirosaurus;7.1489;-73.3067;87.8;5.4800;-42.9100;Lebrija, Santander;occ:2064252;holotipo
+Opallionectes;-30.4500;137.1500;116.4;-71.2800;113.7200;South Australia;occ:915509;holotipo
+Ophthalmosaurus;52.5667;-0.2333;163.4;35.9500;18.5600;Cambridgeshire, England;occ:1067115;holotipo
+Orientognathus;41.2192;120.0975;140.1;51.4500;126.6900;Chaoyang, Liaoning;occ:1252217;holotipo
+Ornithocheirus;52.2000;0.1333;103.4;49.1600;18.7900;Cambridgeshire, England;occ:846918;holotipo
+Ornithostoma;52.2000;0.1333;103.4;49.1600;18.7900;Cambridgeshire, England;occ:846991;holotipo
+Pachycostasaurus;52.5644;-0.1800;163.4;35.9500;18.6000;Cambridgeshire, England;occ:1108174;holotipo
+Palaeocursornis;46.9500;22.4000;140.1;10.4900;37.3000;Oradea, Judetul Bihor;occ:150244;holotipo
+Pannoniasaurus;47.0753;17.5653;84.7;30.8900;28.7200;Ajkai, Veszprém;occ:1298723;holotipo
+Pantosaurus;43.5500;-107.7667;160.2;30.7100;-38.5800;Natrona, Wyoming;occ:1108497;holotipo
+Paraophthalmosaurus;51.7500;48.8500;146.1;42.3100;50.7900;Saratov;occ:1125529;holotipo
+Parapsicephalus;54.5500;-0.8833;183.6;42.8700;16.3100;Redcar and Cleveland, England;occ:1091165;holotipo
+Parrassaurus;25.1386;-101.4828;144.1;12.8200;-42.0000;Coahuila;occ:1098478;holotipo
+Parvinatator;54.5433;-120.7728;242.8;38.5300;-33.5300;British Columbia;occ:1420149;holotipo
+Peloneustes;52.5521;-0.2417;163.4;35.9400;18.5600;Cambridgeshire, England;occ:1071715;holotipo
+Pessopteryx;78.3358;15.8953;247.8;55.7100;21.5400;Locality described as "Isfjord", location chosen based on proximity to other col;occ:1420184;holotipo
+Peteinosaurus;45.7830;9.8170;213.3;22.4500;28.0200;Bergamo, Lombardia;occ:846846;holotipo
+Phalarodon;51.2175;11.7678;244.2;30.1600;29.8800;Bergenlandkreis, Sachsen-Anhalt;occ:1394193;holotipo
+Phantomosaurus;49.9667;9.7667;244.2;28.6400;28.8100;Unterfranken, Bayern;occ:850677;holotipo
+Phosphatodraco;32.8750;-6.6208;69.1;21.0600;2.2000;Khouribga;occ:1403800;holotipo
+Phosphorosaurus;42.8408;142.0203;69.1;50.3000;127.8600;East side of the Pankerusano-sawa Creek, approximately 5 km east of Hobetsu and ;occ:1405393;holotipo
+Piksi;48.6500;-112.9667;77.9;59.4200;-69.1700;Glacier, Montana;occ:266832;holotipo
+Plataleorhynchus;50.6097;-2.0006;140.1;33.1100;16.6600;Dorset, England;occ:837568;holotipo
+Platecarpus;38.8511;-100.9831;104.5;45.0600;-52.4100;Kansas;occ:1430782;holotipo
+Platypterygius;-20.8667;143.5833;106.8;-63.0400;136.5000;Queensland;occ:1576226;holotipo
+Plesiopterys;48.6350;9.5411;183.6;39.4400;27.0300;Holzmaden, Baden-Würtemberg;occ:823320;representativo
+Plesiosaurus;51.6026;-2.6295;203.6;34.3100;8.8400;Avon, England;occ:1110864;holotipo
+Plesiotylosaurus;36.5000;-120.6903;69.1;49.1200;-85.3600;Fresno, California;occ:715572;holotipo
+Plioplatecarpus;47.7781;-106.6814;77.9;56.6800;-62.4200;Valley, Montana;occ:1405855;holotipo
+Pliosaurus;52.5667;-0.2333;163.4;35.9500;18.5600;Cambridgeshire, England;occ:991277;holotipo
+Plotosaurus;36.7144;-120.7255;69.1;49.4700;-84.8000;Fresno, California;occ:1487025;holotipo
+Pluridens;32.8833;-6.6333;69.1;21.0700;2.1900;;occ:1559923;holotipo
+Polycotylus;38.9111;-101.3214;86.7;46.5400;-61.5600;Kansas;occ:983531;holotipo
+Portunatasaurus;44.5000;14.9900;95.2;32.9100;28.4100;Dugi Otok;occ:1444926;holotipo
+Prejanopterus;42.1734;-2.1905;120.5;30.2700;22.9400;Prejano, La Rioja;occ:902256;holotipo
+Preondactylus;46.3842;12.8642;213.3;21.2100;29.9700;Friuli-Venezia Giulia;occ:913310;representativo
+Prognathodon;37.1127;-106.9573;77.9;46.8200;-69.0800;Archuleta, Colorado;occ:896694;holotipo
+Proteosaurus;50.7248;-2.9314;200.4;35.3100;9.1600;Dorset, England;occ:1190870;holotipo
+Protoichthyosaurus;51.1250;-2.7314;200.4;36.1000;9.3200;Somerset, England;occ:1433004;holotipo
+Pteranodon;38.7667;-100.9167;86.7;46.2900;-61.2000;Logan, Kansas;occ:840613;holotipo
+Pterodactylus;48.9092;11.3753;147.1;32.1100;24.0500;Bayern;occ:1429285;holotipo
+Pterodaustro;-32.4667;-66.9667;117.3;-28.9600;-25.0600;Belgrano, San Luis;occ:796321;holotipo
+Pterofiltrus;41.6198;120.8961;122.7;41.7500;128.6600;Liaoning;occ:1283674;holotipo
+Pterorhynchus;41.3164;119.2386;163.4;48.9000;130.4800;Nei Mongol;occ:831785;holotipo
+Qianichthyosaurus;25.1330;104.7450;238.2;-6.7200;108.4900;Qianxinan, Guizhou;occ:1418476;holotipo
+Qinglongopterus;40.4833;119.3667;160.2;49.5400;128.3100;Qinglong, Hebei;occ:1011654;holotipo
+Quasianosteosaurus;78.3400;16.3000;247.8;55.7500;21.6700;;occ:1420109;holotipo
+Quetzalcoatlus;29.4388;-103.1596;69.1;40.5300;-71.8700;Brewster, Texas;occ:1626369;holotipo
+Radiodactylus;32.2828;-97.7492;111.7;38.0700;-46.2600;Somervell, Texas;occ:782211;holotipo
+Rhamphinion;35.6953;-111.0069;191.8;14.9300;-39.5900;Arizona;occ:149986;holotipo
+Rhamphorhynchus;48.1167;8.8667;150.7;31.1900;22.3400;Baden-Württemberg;occ:1192904;holotipo
+Rhomaleosaurus;52.2167;-1.7500;200.4;35.1000;9.1100;Warwickshire, England;occ:871913;holotipo
+Rikisaurus;-38.9167;176.8167;74.8;-54.8800;-157.0700;Hawke's Bay;occ:1638846;holotipo
+Romeosaurus;45.5608;10.8844;91.8;34.5500;25.0500;Verona;occ:1134689;holotipo
+Russellosaurus;32.5886;-96.9560;91.8;38.0700;-56.7700;Dallas, Texas;occ:843893;holotipo
+Santanadactylus;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:851442;holotipo
+Sarabosaurus;37.4400;-110.8431;91.8;46.9200;-72.1200;Kane, Utah;occ:1646668;holotipo
+Scaphognathus;48.9092;11.3753;147.1;32.1100;24.0500;Bayern;occ:877932;holotipo
+Sclerocormus;31.6206;117.8197;247.8;5.8000;116.0100;Anhui;occ:1329760;holotipo
+Seazzadactylus;46.3988;12.8648;216.5;19.8100;30.6900;Oreone, Friuli Venezia Giulia;occ:1475022;holotipo
+Selmasaurus;38.8206;-100.1771;84.7;46.6000;-60.9000;Gove, Kansas;occ:786228;holotipo
+Sericipterus;45.1913;88.9199;158.2;48.7800;92.4500;Xinjiang;occ:844034;holotipo
+Serradraco;50.8556;0.5458;135.8;33.8700;20.2200;East Sussex, England;occ:837584;holotipo
+Shastasaurus;40.8208;-122.1908;232.2;23.3800;-43.2700;Shasta, California;occ:1419468;holotipo
+Shenzhoupterus;41.5667;120.4417;117.3;40.5400;131.5700;Liaoning;occ:833877;holotipo
+Shonisaurus;38.8767;-117.5914;221.3;15.9200;-42.7500;Nye, Nevada;occ:1419479;holotipo
+Simbirskiasaurus;54.5886;48.4189;123.6;41.6400;62.3300;Ul'yanovsk;occ:899908;holotipo
+Simolestes;23.7336;69.8597;146.1;-34.9700;47.2200;Kutch, Gujarat;occ:1117675;holotipo
+Simurghia;32.8750;-6.6208;69.1;21.0600;2.2000;Khouribga;occ:1403798;holotipo
+Sinomacrops;40.4833;119.3667;160.1;48.5200;130.2100;Qinglong, Hebei;occ:1561496;holotipo
+Sinopterus;41.4344;120.0447;117.3;40.3400;131.2300;Liaoning;occ:837506;holotipo
+Sisteronia;51.0833;1.1833;106.8;46.6800;22.8300;Kent, England;occ:1191675;holotipo
+Sordes;42.9000;70.0000;158.2;40.8600;76.5100;Aulie, near Mikhailovka village, in the Chayan area of the Chimkent district, So;occ:832197;holotipo
+Spitrasaurus;78.3369;15.8594;146.1;60.8200;13.3800;Spitsbergen;occ:1077963;holotipo
+Stelladens;32.8322;-6.2300;69.1;20.8300;2.6900;Khouribga;occ:1626502;holotipo
+Stenopterygius;48.6331;9.5181;183.6;39.4300;27.0100;Esslingen, Baden-Württenburg;occ:1134490;holotipo
+Stenorhynchosaurus;5.6511;-73.5636;123.6;6.2200;-31.5500;Boyaca;occ:1392065;holotipo
+Sthenarosaurus;54.4833;-0.6000;179.4;42.2100;19.2900;North Yorkshire, England;occ:821665;holotipo
+Stratesaurus;51.1250;-2.7314;200.4;36.1000;9.3200;Somerset, England;occ:1040455;holotipo
+Styxosaurus;38.9506;-101.1617;86.7;46.5300;-61.3700;Kansas;occ:983524;holotipo
+Suevoleviathan;48.6400;9.6200;183.6;39.4600;27.0900;Kreis Göppingen, Würtemberg;occ:1433357;holotipo
+Sveltonectes;54.3167;48.3667;123.6;41.3700;62.3500;Ul'yanovsk;occ:984456;holotipo
+Taniwhasaurus;-42.5528;173.5039;84.8;-61.5800;-132.4300;SPECIFIC LOCATION: Boulder sands, eastern side of Amuri Bluff, South Island, New;occ:777955;holotipo
+Tapejara;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:851469;holotipo
+Tatenectes;44.8444;-111.7253;158.2;33.8600;-45.0800;Carbon, Wyoming;occ:990032;holotipo
+Temnodontosaurus;47.5000;4.2700;188.1;37.8000;20.0400;Burgundy;occ:1134413;holotipo
+Tendaguripterus;-9.6844;39.2213;150.7;-37.9500;31.2800;Lindi;occ:818732;holotipo
+Tethydraco;32.8750;-6.6208;69.1;21.0600;2.2000;Khouribga;occ:1403796;holotipo
+Tethysaurus;31.8500;-4.9333;91.8;24.1600;5.4800;Er-Rachidia;occ:915067;holotipo
+Thaisaurus;7.7367;100.0667;247.8;-20.6100;101.2700;Khuan Khanun;occ:1419474;holotipo
+Thalassiodracon;52.0300;-2.1500;200.4;36.7000;9.0100;England;occ:1162059;holotipo
+Thalassodromeus;-7.1833;-39.7333;116.4;-5.0400;2.5500;Ceará;occ:784441;holotipo
+Thalassomedon;37.5639;-102.8600;97.2;43.7200;-60.4900;Baca, Colorado;occ:720742;holotipo
+Thalassotitan;32.8833;-6.6333;69.1;21.0700;2.1900;;occ:1625995;holotipo
+Thalattoarchon;40.0500;-117.5400;243.9;24.6000;-38.0100;Nevada;occ:1095497;holotipo
+Thaumatodracon;50.7325;-2.9200;196.2;37.1700;10.3300;Dorset, England;occ:1379521;representativo
+Thililua;31.8500;-4.9333;91.8;24.1600;5.4800;Er-Rachidia;occ:916273;holotipo
+Tholodus;44.1497;18.3286;242.0;10.8500;35.6200;Vares;occ:1134406;holotipo
+Toretocnemus;30.7500;-112.6000;232.2;16.4900;-41.1700;El Antimonio, Sonora;occ:1134130;holotipo
+Tricleidus;52.5514;-0.2467;163.4;36.3500;19.6300;Cambridgeshire, England;occ:890416;holotipo
+Tropeognathus;-7.2167;-39.2667;116.4;-5.1000;3.0100;Ceará;occ:851456;holotipo
+Tupandactylus;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:849615;holotipo
+Tupuxuara;-7.1833;-39.7333;116.4;-5.0400;2.5500;Ceará;occ:851471;holotipo
+Tylosaurus;39.0167;-99.4500;87.8;45.0300;-57.9800;Ellis, Kansas;occ:927243;holotipo
+Uktenadactylus;32.8408;-97.3210;103.4;38.3600;-53.1900;Tarrant, Texas;occ:372890;holotipo
+Umoonasaurus;-29.0136;134.6728;116.4;-68.9800;110.2600;South Australia;occ:911670;holotipo
+Undorosaurus;54.6167;48.3667;152.3;45.1200;49.6300;Ul'yanovsk;occ:293807;holotipo
+Unwindia;-7.1833;-39.7333;116.4;-5.0400;2.5500;Ceará;occ:903300;holotipo
+Utatsusaurus;38.7136;141.5569;248.9;4.8000;138.7800;Motoyoshui-gun, Miyagi;occ:800599;holotipo
+Vallecillosaurus;26.7500;-100.0500;91.8;32.9300;-61.5100;Nuevo León;occ:972198;holotipo
+Vectidraco;50.6094;-1.3619;122.7;37.8300;24.1500;Isle of Wight, England;occ:1112328;holotipo
+Vectocleidus;50.6339;-1.4069;123.6;37.0500;23.8400;Isle of Wight, England;occ:1091397;holotipo
+Vesperopterylus;40.6550;119.6900;117.3;39.5200;131.1400;Jianchang, Liaoning;occ:1407175;holotipo
+Vinialesaurus;22.6164;-83.7078;156.9;;;Pinar del Río;occ:1103654;representativo
+Volgadraco;51.2383;44.9908;77.9;39.0200;47.7500;Lysogorskiy, Saratov;occ:1211867;holotipo
+Wahlisaurus;52.8165;-1.1957;200.4;37.6600;9.2200;Nottinghamshire, England;occ:1439364;holotipo
+Wenupteryx;-38.8167;-70.2000;146.1;-46.9100;-25.7000;Neuquén;occ:832135;holotipo
+Westphaliasaurus;51.8400;9.1753;188.6;42.8100;23.0300;Höxter, North Rhine-Westphalia;occ:991103;holotipo
+Wightia;50.6636;-1.1286;123.6;37.4600;24.2000;Isle of Wight, England;occ:1587728;holotipo
+Wimanius;45.1500;9.2333;242.0;16.9800;33.2800;Monte San Giorgio, southern Switzerland. Coordinates for nearby Tessin/Ticino Ri;occ:1134410;holotipo
+Wukongopterus;40.8681;119.9911;160.2;50.0300;128.8700;Jianchang, Liaoning;occ:833082;holotipo
+Xenodens;32.8322;-6.2300;69.1;20.9100;2.5200;Khouribga;occ:1542394;holotipo
+Xericeps;30.8975;-3.8703;97.2;25.2400;7.5400;Errachidia, Drâa-Tafilalet;occ:1385606;holotipo
+Xinminosaurus;25.4758;104.8489;243.9;-10.6400;107.2900;Panxian, Guizhou;occ:913706;holotipo
+Xiphodracon;50.7233;-2.8408;188.6;37.9200;10.8700;Dorset, England;occ:2044227;holotipo
+Yaguarasaurus;2.8333;-75.4667;91.8;2.4600;-43.4000;Huila;occ:1006688;holotipo
+Yixianopterus;41.4733;121.1906;122.7;41.4800;129.8000;Liaoning;occ:836996;holotipo
+Yuzhoupliosaurus;29.0000;106.4667;168.1;30.8300;124.3600;Chongqing;occ:892713;representativo
+Zhejiangopterus;28.7500;121.5833;77.9;29.0500;119.7500;Zhejiang;occ:832362;holotipo
+Zhenyuanopterus;41.6333;120.9000;122.7;41.7700;128.6600;Liaoning;occ:853840;holotipo
+
+# Dinossauros (e répteis) que já tinham país na capa e ainda não tinham coordenada. PBDB, sítio no país da bandeira quando existe (UK=GB).
+Acteosaurus;45.8167;13.7450;97.2;34.9900;29.6100;;occ:1011612;holotipo
+Actiosaurus;46.9035;4.4098;203.6;32.1200;16.2400;Sâone-et-Loire, Burgundy;occ:1136057;holotipo
+Agnosphitys;51.6231;-2.4283;232.2;34.3800;8.9700;Gloucestershire, England;occ:261810;holotipo
+Albertadromeus;49.1794;-110.6828;77.9;59.0400;-65.8900;Alberta;occ:1134765;holotipo
+Alcovasaurus;41.9671;-106.2910;152.0;28.8400;-39.1200;Albany, Wyoming;occ:1418246;holotipo
+Alectrosaurus;43.7333;112.0167;77.9;40.3500;106.4000;Nei Mongol;occ:489802;holotipo
+Anoplosaurus;51.9464;-0.6519;97.2;47.9400;15.7300;Cambridgeshire, England;occ:567016;holotipo
+Aphanizocnemus;34.0667;35.6500;97.2;16.6400;41.9000;Kesrouâne;occ:794238;holotipo
+Apractocleidus;52.5667;-0.2333;163.4;35.9500;18.5600;Cambridgeshire, England;occ:990825;holotipo
+Aristosuchus;50.6517;-1.4506;122.7;37.8800;24.0900;Isle of Wight, England;occ:1429044;holotipo
+Asylosaurus;51.4692;-2.6167;203.6;34.1900;8.9200;England;occ:534770;holotipo
+Austrocheirus;-49.9547;-72.0919;77.9;-49.8800;-58.2600;Santa Cruz;occ:867560;holotipo
+Barilium;50.8658;-0.5608;134.8;34.1700;19.8900;Sussex, England;occ:516335;holotipo
+Baryonyx;51.1333;-0.3500;123.6;37.4700;24.7400;Surrey, England;occ:459067;holotipo
+Brighstoneus;50.6351;-1.4103;123.6;37.0500;23.8300;Isle of Wight, England;occ:1587744;holotipo
+Calamosaurus;50.6517;-1.4506;122.7;37.8800;24.0900;Isle of Wight, England;occ:1636864;holotipo
+Calamospondylus;50.6517;-1.4506;122.7;37.8800;24.0900;Isle of Wight, England;occ:1636864;holotipo
+Callovosaurus;52.5521;-0.2417;163.4;35.9400;18.5600;Cambridgeshire, England;occ:1086972;holotipo
+Camelotia;51.2167;-2.8167;203.6;33.9100;8.9200;Somerset, England;occ:486165;holotipo
+Ceratosuchops;50.6405;-1.4340;123.6;37.4600;23.9500;Isle of Wight, England;occ:1581321;holotipo
+Cetiosauriscus;52.5425;-0.2404;163.4;35.9300;18.5600;Cambridgeshire, England;occ:522087;holotipo
+Cetiosaurus;52.6333;-0.6667;168.4;37.3900;22.0700;Leicestershire, England;occ:292785;holotipo
+Comptonatus;50.6590;-1.4730;123.6;38.6800;24.3800;Isle of Wight, England;occ:1659876;holotipo
+Cumnoria;51.7353;-1.3136;150.7;33.6400;13.9700;Oxfordshire, England;occ:280829;holotipo
+Dacentrurus;51.5517;-1.7950;150.7;33.4200;13.6500;Wiltshire, England;occ:478162;holotipo
+Dolichosaurus;51.3283;0.4939;95.2;46.5500;16.0200;Kent, England;occ:833120;holotipo
+Dracoraptor;51.4064;-3.1697;200.4;35.8600;8.6400;Vale of Glamorgan, Wales;occ:1311443;holotipo
+Duriavenator;50.9619;-2.5178;168.4;35.6000;20.9100;Dorset, England;occ:516477;holotipo
+Echinodon;50.6000;-1.9667;141.1;33.0000;16.1600;Dorset, England;occ:301092;holotipo
+Enigmacursor;40.2614;-108.7272;148.9;28.3400;-43.5500;Moffat, Colorado;occ:1702734;holotipo
+Eotyrannus;50.6306;-1.4042;127.0;35.9600;22.9800;Isle of Wight, England;occ:536560;holotipo
+Eretmorhipis;31.3800;111.6200;242.0;-2.7200;113.6700;Nanzhang, Hubei;occ:1412687;holotipo
+Eustreptospondylus;51.7822;-1.2878;163.4;35.0900;17.9100;Oxfordshire, England;occ:517989;holotipo
+Haestasaurus;50.8500;0.6000;135.8;33.8600;20.2600;East Sussex, England;occ:256680;holotipo
+Hanssuesia;48.9833;-110.4500;77.9;59.0400;-65.9400;Hill, Montana;occ:501217;holotipo
+Hupehsuchus;31.1647;111.5661;248.9;-6.5600;111.7300;Yuan'an, Hubei;occ:1412684;holotipo
+Hylaeosaurus;51.0864;-0.1722;134.8;34.3900;20.1900;Sussex, England;occ:1273404;holotipo
+Hypselospinus;54.2667;-0.4000;138.1;36.7100;17.1000;North Yorkshire, England;occ:516471;holotipo
+Hypsilophodon;50.6171;-1.3711;123.6;37.0300;23.8600;Isle of Wight, England;occ:1322547;holotipo
+Iguanodon;51.0864;-0.1722;134.8;34.3900;20.1900;Sussex, England;occ:1609067;holotipo
+Janusaurus;78.3406;15.8344;146.1;60.8200;13.3700;Spitsbergen;occ:1220159;holotipo
+Joaquinraptor;-45.6217;-68.4425;69.1;-45.4200;-57.2100;Sarmiento, Chubut;occ:2037715;holotipo
+Juratyrant;50.5976;-2.0918;144.1;32.4400;13.5800;Dorset, England;occ:486404;holotipo
+Kaganaias;36.1667;136.6333;123.6;45.6000;144.0300;Ishikawa;occ:343801;holotipo
+Lexovisaurus;54.0000;-1.5000;158.2;36.6200;15.8200;North Yorkshire, England;occ:478017;holotipo
+Liodon;-43.0550;172.7611;74.8;-53.6200;-140.6900;Canterbury;occ:904288;representativo
+Loricatosaurus;52.5521;-0.2417;163.4;35.9400;18.5600;Cambridgeshire, England;occ:708309;holotipo
+Magnosaurus;50.9714;-2.5211;169.8;35.6000;20.9000;Dorset, England;occ:517804;holotipo
+Mantellisaurus;50.6173;-1.3715;129.3;35.0800;21.3700;Isle of Wight, England;occ:1609068;holotipo
+Megalosaurus;51.0204;-3.2475;166.8;34.8100;18.1400;Gloucestershire, England;occ:558441;holotipo
+Metriacanthosaurus;50.6375;-2.4267;160.2;32.9500;14.9700;Dorset, England;occ:518001;holotipo
+Mongolosaurus;41.4167;102.0667;111.0;36.8500;115.0400;Nei Mongol;occ:487437;holotipo
+Nanchangosaurus;31.0608;111.6406;247.8;-6.6500;111.8100;Yuan'an, Hubei;occ:1301648;holotipo
+Neovenator;50.6351;-1.4103;123.6;37.0500;23.8300;Isle of Wight, England;occ:471740;holotipo
+Nuthetes;50.6000;-1.9667;141.1;33.0000;16.1600;Dorset, England;occ:301076;holotipo
+Opetiosaurus;43.1900;16.6500;97.2;31.6600;29.2100;Platy limestones exposed in a narrow band running from the town of Starigrad in ;occ:1011572;holotipo
+Orthomerus;44.7461;33.8616;69.1;30.9300;37.3800;Bakhchysarais'kyl, Crimea;occ:520794;holotipo
+Owenodon;51.8011;-0.8464;146.1;33.6200;13.8300;Buckinghamshire, England;occ:516438;holotipo
+Palvennia;78.3373;15.8320;146.1;60.8200;13.3700;Spitsbergen;occ:1077967;holotipo
+Pantydraco;51.4590;-3.3755;232.2;33.9800;8.4100;Swansea, Wales;occ:284027;holotipo
+Parahupehsuchus;31.0608;111.6406;247.8;-6.6500;111.8100;Yuan'an, Hubei;occ:1200768;holotipo
+Pelorosaurus;51.0058;-0.1436;131.4;35.1500;21.8000;Sussex, England;occ:1391615;holotipo
+Pendraig;51.4590;-3.3755;232.2;33.9800;8.4100;Swansea, Wales;occ:1574570;holotipo
+Penelopognathus;41.1833;106.0333;117.3;37.6700;118.1300;Bayan Nor, Nei Mongol;occ:840592;holotipo
+Polacanthus;50.6542;-1.4467;129.3;35.1200;21.3100;Isle of Wight, England;occ:1373954;holotipo
+Primitivus;40.1931;17.9544;74.8;23.2900;22.7900;Puglia;occ:1406960;holotipo
+Proceratosaurus;51.7030;-2.1950;166.8;35.5600;18.8400;Gloucestershire, England;occ:464526;holotipo
+Qianzhousaurus;25.7292;114.8064;69.1;22.2700;113.4900;Ganzhou, Jiangxi;occ:1204823;holotipo
+Raptorex;41.3333;119.6667;95.9;39.6100;128.2000;Nei Mongol;occ:829104;holotipo
+Riparovenator;50.6405;-1.4340;123.6;37.4600;23.9500;Isle of Wight, England;occ:1607037;holotipo
+Saltopus;57.7172;-3.2917;221.3;34.8000;10.7100;Moray, Scotland;occ:558360;holotipo
+Sarcosaurus;52.2167;-1.7500;200.4;37.3500;9.4100;Warwickshire, England;occ:393085;holotipo
+Scelidosaurus;50.7375;-2.9036;196.2;37.1800;10.3400;Dorset, England;occ:1346306;holotipo
+Scleromochlus;57.7172;-3.2917;221.3;34.8000;10.7100;Moray, Scotland;occ:558358;holotipo
+Sigilmassasaurus;28.3333;29.1167;97.2;12.7900;34.9800;Al Jizah;occ:510845;holotipo
+Tetrapodophis;-7.1250;-39.7000;116.4;-4.9900;2.5900;Ceara;occ:1288613;holotipo
+Thecodontosaurus;51.5983;-2.4897;232.2;34.3400;8.9400;Avon, England;occ:558437;holotipo
+Titanoceratops;36.2130;-108.0842;77.9;46.5200;-71.0400;San Juan, New Mexico;occ:513750;holotipo
+Valdosaurus;50.6405;-1.4340;127.0;35.9700;22.9500;Isle of Wight, England;occ:1609060;holotipo
+Vectaerovenator;50.6224;-1.1750;116.4;41.8800;24.5500;Isle of Wight, England;occ:1528477;holotipo
+Vectidromeus;50.6667;-1.3333;121.8;39.0800;24.6400;;occ:1639798;holotipo
+Vectipelta;50.6340;-1.4180;138.1;33.0500;16.5800;Isle of Wight, England;occ:1646621;holotipo
+Vectiraptor;50.6600;-1.4739;123.6;37.4900;23.9200;Isle of Wight, England;occ:1591666;holotipo
+Yaverlandia;50.6650;-1.1300;127.0;35.9800;23.1900;Isle of Wight, England;occ:475307;holotipo

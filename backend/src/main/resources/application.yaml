@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: dinosaur-world
+
+  datasource:
+    # Porta 5545: o container mapeia 5545->5432 para não colidir com
+    # um PostgreSQL nativo (5432) nem com o viagem-legal (5544).
+    url: ${DB_URL:jdbc:postgresql://localhost:5545/dinosaurworld}
+    username: ${DB_USER:dinosaurworld}
+    password: ${DB_PASSWORD:dinosaurworld}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      # dev only — gera/atualiza o schema automaticamente.
+      # Em produção NUNCA use update/create: gere o SQL e aplique manualmente.
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+    open-in-view: false
+    show-sql: false
+
+app:
+  seed:
+    # Se true e a tabela taxon estiver vazia, carrega o roster de setembro/2026.
+    enabled: ${SEED_ENABLED:true}
+
+server:
+  port: ${SERVER_PORT:8082}

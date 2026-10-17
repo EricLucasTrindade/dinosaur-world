@@ -1,0 +1,19 @@
+# nome;arquivo;nota
+# Campo para MP3 próprio: troque o ficheiro em frontend/public/audio/dinos/
+# ou o nome na 2ª coluna. Gênero vence clado. Sem linha = perfil Java.
+#
+# Slots dos 4 clados da Ceratopsia (substitua o MP3, mantenha o nome):
+Ceratopsidae;ceratopsidae.mp3;Reconstrução especulativa — slot Ceratopsidae.
+Protoceratopsidae;protoceratopsidae.mp3;Reconstrução especulativa — slot Protoceratopsidae.
+Coronosauria;coronosauria.mp3;Reconstrução especulativa — slot Coronosauria.
+Leptoceratopsidae;leptoceratopsidae.mp3;Reconstrução especulativa — slot Leptoceratopsidae.
+#
+# Slots do print (Thyreophora / Ornithopoda / Pachycephalosauria):
+Stegosauria;stegosauria.mp3;Reconstrução especulativa — slot Stegosauria.
+Thyreophora;thyreophora.mp3;Reconstrução especulativa — slot Thyreophora.
+Rhabdodontomorpha;rhabdodontomorpha.mp3;Reconstrução especulativa — slot Rhabdodontomorpha.
+Hadrosauridae;hadrosauridae.mp3;Reconstrução especulativa — slot Hadrosauridae.
+Hadrosauroidea;hadrosauroidea.mp3;Reconstrução especulativa — slot Hadrosauroidea.
+Ankylopollexia;ankylopollexia.mp3;Reconstrução especulativa — slot Ankylopollexia.
+Ornithopoda;ornithopoda.mp3;Reconstrução especulativa — slot Ornithopoda.
+Pachycephalosauria;pachycephalosauria.mp3;Reconstrução especulativa — slot Pachycephalosauria.

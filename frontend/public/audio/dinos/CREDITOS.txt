@@ -1,0 +1,10 @@
+Vocalizações especulativas — síntese original deste projeto.
+Não há gravação conhecida de dinossauro não-aviano.
+Não são áudios de filmes nem da Nintendo.
+
+O ficheiro com o nome do clado (ex.: tyrannosauridae.mp3) é o
+perfil daquele ramo. Perfis PT (teropode, sauropode, raptor,
+chamado, pequeno, spinossauro, encouracado, ceratopsio,
+ornitisquio, hadrossauro) ficam de fallback.
+
+CSV só para excepção de género: ver LEIA-ME.txt

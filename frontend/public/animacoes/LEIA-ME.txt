@@ -1,0 +1,10 @@
+Coloque aqui o GIF exportado do Blender com o nome:
+
+  carregando.gif
+
+Depois, em frontend/src/lib/carregando.ts, mude:
+
+  fonte: "arquivo"
+
+Fundo transparente combina com a tela de papel (#f3f1ec).
+Tamanho sugerido: 256x256, loop contínuo.
