@@ -40,4 +40,6 @@ public interface TaxonRepository extends JpaRepository<Taxon, Long> {
     Optional<Taxon> findByParentIsNullAndNomeIgnoreCase(String nome);
 
     long countByParent_Id(Long parentId);
+
+    List<Taxon> findByParent_Id(Long parentId);
 }

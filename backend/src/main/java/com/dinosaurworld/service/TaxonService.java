@@ -13,6 +13,7 @@ import com.dinosaurworld.repository.TaxonRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
@@ -153,6 +154,8 @@ public class TaxonService {
             taxon.setParent(novoPai);
             taxon.setOrdem(proximaOrdem(novoPai));
             taxon.setCatalogo(catalogoDe(novoPai));
+            // Os filhos ficavam no catálogo antigo e sumiam da árvore do ramo novo.
+            alinharCatalogoDaSubarvore(taxon, taxon.getCatalogo());
         }
 
         if (request.status() != null) {
@@ -223,6 +226,30 @@ public class TaxonService {
             return repository.maxOrdemRaiz() + 1;
         }
         return repository.maxOrdemPorPai(parent.getId()) + 1;
+    }
+
+    /**
+     * Percorre filhos e netos em fila. Teto 10_000 evita loop se o grafo
+     * estiver inconsistente; a árvore real é bem menor.
+     */
+    private void alinharCatalogoDaSubarvore(Taxon raiz, Catalogo catalogo) {
+        if (raiz.getId() == null) {
+            return;
+        }
+        ArrayDeque<Long> fila = new ArrayDeque<Long>();
+        fila.add(raiz.getId());
+        int visitados = 0;
+        while (!fila.isEmpty() && visitados < 10_000) {
+            Long id = fila.removeFirst();
+            List<Taxon> filhos = repository.findByParent_Id(id);
+            for (Taxon filho : filhos) {
+                filho.setCatalogo(catalogo);
+                if (filho.getId() != null) {
+                    fila.add(filho.getId());
+                }
+                visitados++;
+            }
+        }
     }
 
     private Catalogo catalogoDe(Taxon parent) {

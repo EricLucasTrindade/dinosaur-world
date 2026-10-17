@@ -120,6 +120,31 @@ class TaxonServiceTest {
     }
 
     @Test
+    void mover_propagaCatalogoAosFilhos() {
+        Taxon origem = taxon(1L, "Pterosauria", TipoTaxon.CLADE, null, Catalogo.PTEROSAURIA);
+        Taxon destino = taxon(2L, "Dinosauromorpha", TipoTaxon.CLADE, null, Catalogo.DINOSAUROMORPHA);
+        Taxon movido = taxon(3L, "GrupoX", TipoTaxon.CLADE, origem, Catalogo.PTEROSAURIA);
+        Taxon filho = taxon(4L, "GeneroY", TipoTaxon.GENUS, movido, Catalogo.PTEROSAURIA);
+        Taxon neto = taxon(5L, "EspecieZ", TipoTaxon.SPECIES, filho, Catalogo.PTEROSAURIA);
+
+        when(repository.findById(3L)).thenReturn(Optional.of(movido));
+        when(repository.findById(2L)).thenReturn(Optional.of(destino));
+        when(repository.findByParent_IdAndNomeIgnoreCase(2L, "GrupoX"))
+                .thenReturn(Optional.empty());
+        when(repository.maxOrdemPorPai(2L)).thenReturn(0);
+        when(repository.save(any(Taxon.class))).thenAnswer(inv -> inv.getArgument(0));
+        when(repository.findByParent_Id(3L)).thenReturn(List.of(filho));
+        when(repository.findByParent_Id(4L)).thenReturn(List.of(neto));
+        when(repository.findByParent_Id(5L)).thenReturn(List.of());
+
+        service.mover(3L, new MoverTaxonRequest(2L, null, null));
+
+        assertEquals(Catalogo.DINOSAUROMORPHA, movido.getCatalogo());
+        assertEquals(Catalogo.DINOSAUROMORPHA, filho.getCatalogo());
+        assertEquals(Catalogo.DINOSAUROMORPHA, neto.getCatalogo());
+    }
+
+    @Test
     void excluir_comFilhos_rejeita() {
         Taxon pai = taxon(1L, "Ceratopsidae", TipoTaxon.FAMILY, null);
         when(repository.findById(1L)).thenReturn(Optional.of(pai));
@@ -191,12 +216,17 @@ class TaxonServiceTest {
     }
 
     private Taxon taxon(Long id, String nome, TipoTaxon tipo, Taxon parent) {
+        return taxon(id, nome, tipo, parent, null);
+    }
+
+    private Taxon taxon(Long id, String nome, TipoTaxon tipo, Taxon parent, Catalogo catalogo) {
         Taxon t = Taxon.builder()
                 .nome(nome)
                 .tipo(tipo)
                 .status(StatusRoster.OLD)
                 .parent(parent)
                 .ordem(0)
+                .catalogo(catalogo)
                 .build();
         t.setId(id);
         // evita aviso de campo não usado em testes futuros

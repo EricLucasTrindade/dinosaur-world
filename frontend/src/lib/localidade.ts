@@ -1,3 +1,5 @@
+import { apiUrl } from "@/lib/api";
+
 export type Costa = {
   type: "FeatureCollection";
   features: Array<{
@@ -32,7 +34,7 @@ const costas = new Map<number, Promise<Costa | null>>();
 
 export async function buscarLocalidade(id: number): Promise<Localidade | null> {
   try {
-    const res = await fetch(`/api/taxons/${id}/localidade`);
+    const res = await fetch(apiUrl(`/api/taxons/${id}/localidade`));
     if (!res.ok) {
       return null;
     }
