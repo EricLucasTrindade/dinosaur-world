@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    hibernate:
+      # validate depois da primeira subida. Só use JPA_DDL=update na tabela vazia.
+      ddl-auto: ${JPA_DDL:validate}
+
+app:
+  api:
+    escrita: ${API_ESCRITA:false}
+  cors:
+    origins: ${CORS_ORIGINS:}
