@@ -1,0 +1,7 @@
+Litoral de hoje: costa-000.geojson, modelo Zahirovic e outros, 2022,
+via GPlates Web Service. Geometria simplificada para tela.
+
+O sítio vem da Paleobiology Database. Na espécie, o alfinete prefere o
+holótipo quando a base o marca; senão, uma ocorrência dessa espécie.
+No gênero, usa a espécie-tipo quando ela está indicada; senão, um sítio
+real no país da descoberta. A coordenada é a publicada para a ocorrência.

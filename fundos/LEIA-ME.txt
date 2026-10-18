@@ -1,0 +1,14 @@
+Slots de habitat (atrás da árvore, bem transparentes).
+Substitua o ficheiro — mesmo nome, preferência .webp ~1600–1920 px, 150–400 KB:
+
+  dinosauromorpha.webp   — terra / planície (Dinosauromorfos)
+  pterosauria.webp       — falésia / céu (Répteis voadores)
+  sauropterygia.webp     — mar raso (Sauropterígios)
+  mosasauria.webp        — mar aberto (Mosassauros)
+  ichthyosauromorpha.webp — oceano (Ictiossauros)
+  sauropsida.webp        — Via Láctea (Sauropsida / fundo partilhado)
+
+Também aceita .jpg ou .svg com o mesmo nome.
+Não use SVG para foto (fica enorme). Original de 6–7K atrasa o ecrã.
+
+Anote a fonte em CREDITOS.txt quando trocar o placeholder.
