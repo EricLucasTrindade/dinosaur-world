@@ -25,6 +25,8 @@ app:
   seed:
     # Se true e a tabela taxon estiver vazia, carrega o roster de setembro/2026.
     enabled: ${SEED_ENABLED:true}
+    # csv (default) lê dinosauromorpha.csv. java usa as classes *Roster.
+    fonte: ${SEED_FONTE:csv}
   api:
     escrita: ${API_ESCRITA:true}
   cors:

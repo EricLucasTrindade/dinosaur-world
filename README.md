@@ -42,7 +42,7 @@ DB_PASSWORD=dinosaurworld
 
 A aplicação sobe em `http://localhost:8082`.
 
-Na primeira subida, se a tabela `taxon` estiver vazia, o seed do PDF (saneado) é gravado. Recarregar o seed: `docker compose down -v` e subir de novo.
+Na primeira subida, se a tabela `taxon` estiver vazia, o seed vem do CSV `backend/src/main/resources/seed/dinosauromorpha.csv` (e o dos répteis). Para voltar ao seed Java das classes `*Roster`, use `SEED_FONTE=java`. Recarregar o seed: `docker compose down -v` e subir de novo.
 
 ## API
 
@@ -72,13 +72,14 @@ Arquitetura: visitante abre o domínio → o JavaScript chama `https://api.seudo
 
 ### API no host
 
+O `Dockerfile` tem dois andares: Maven compila com Java 25 e o andar final só leva o JRE. No Render: Root Directory = `backend`, Dockerfile path = `Dockerfile`, health check = `/api/health`, porta interna = `8082`.
+
 ```bash
 cd backend
-mvn -DskipTests package
 docker build -t dinosaur-world-api .
 ```
 
-O `Dockerfile` empacota Temurin 25. Não dependa da versão Java do provedor. O PostgreSQL de produção é outro serviço, não a porta 5545 local. Senha fica fora do Git.
+Não dependa da versão Java do provedor. O PostgreSQL de produção é outro serviço, não a porta 5545 local. Senha fica fora do Git.
 
 Variáveis no host:
 

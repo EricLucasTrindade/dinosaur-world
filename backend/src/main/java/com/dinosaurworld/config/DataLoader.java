@@ -38,6 +38,10 @@ public class DataLoader implements ApplicationRunner {
             LOG.info("Seed desabilitado (app.seed.enabled=false).");
             return;
         }
+        if (!properties.usaJava()) {
+            LOG.info("Seed Java ignorado (app.seed.fonte={}).", properties.fonte());
+            return;
+        }
         if (repository.count() > 0) {
             LOG.info("Tabela taxon já possui {} registros. Seed ignorado.", repository.count());
             return;
